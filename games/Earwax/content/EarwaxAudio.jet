@@ -202,8 +202,8 @@
         },
         {
             "x": false,
-            "name": "“Wer will Hot-Dogs” (männlich)",
-            "short": "“Wer will Hot-Dogs”",
+            "name": "“Wer will Hot Dogs” (männlich)",
+            "short": "“Wer will Hot Dogs”",
             "id": 24028,
             "categories": [
                 "voice"
@@ -265,8 +265,8 @@
         },
         {
             "x": false,
-            "name": "“Zeig mir was du kannst!” (männlich)",
-            "short": "“Zeig mir was du kannst!”",
+            "name": "“Zeig mir, was du kannst!” (männlich)",
+            "short": "“Zeig mir, was du kannst!”",
             "id": 23502,
             "categories": [
                 "voice"
@@ -1127,7 +1127,7 @@
         {
             "x": false,
             "name": "Schwertkampfgerappel",
-            "short": "Schwertkampf Gerappel",
+            "short": "Schwertkampf-Gerappel",
             "id": 22932,
             "categories": [
                 "violence"
@@ -1243,8 +1243,8 @@
         },
         {
             "x": false,
-            "name": "Blitz und Donnereinschlag",
-            "short": "Blitz und Donnereinschlag",
+            "name": "Blitz- und Donnereinschlag",
+            "short": "Blitz- und Donnereinschlag",
             "id": 25664,
             "categories": [
                 "weather"
@@ -1262,7 +1262,7 @@
         {
             "x": false,
             "name": "“Gegrüßt sei der König!” (männlich)",
-            "short": "“Gegrüßt sei der König!!”",
+            "short": "“Gegrüßt sei der König!”",
             "id": 25662,
             "categories": [
                 "voice"
@@ -1971,8 +1971,8 @@
         },
         {
             "x": false,
-            "name": "Morse-Code",
-            "short": "Morse-Code",
+            "name": "Morsecode",
+            "short": "Morsecode",
             "id": 22802,
             "categories": [
                 "electronic/machine"
@@ -2358,8 +2358,8 @@
         },
         {
             "x": false,
-            "name": "“Versuchs nochmal” (männlich)",
-            "short": "“Versuchs nochmal”",
+            "name": "“Versuch's nochmal” (männlich)",
+            "short": "“Versuch's nochmal”",
             "id": 22738,
             "categories": [
                 "voice"
@@ -4490,8 +4490,8 @@
         },
         {
             "x": false,
-            "name": "Retro Computergeräusche",
-            "short": "Retro Computergeräusche",
+            "name": "Retro-Computergeräusche",
+            "short": "Retro-Computergeräusche",
             "id": 22529,
             "categories": [
                 "sci-fi"
@@ -4603,7 +4603,7 @@
         },
         {
             "x": false,
-            "name": "Cartooniges  “Klonk”",
+            "name": "Cartooniges “Klonk”",
             "short": "Cartooniges “Klonk”",
             "id": 22418,
             "categories": [
@@ -4780,8 +4780,8 @@
         },
         {
             "x": false,
-            "name": "Cartoon Schluckauf",
-            "short": "Cartoon Schluckauf",
+            "name": "Cartoon-Schluckauf",
+            "short": "Cartoon-Schluckauf",
             "id": 22385,
             "categories": [
                 "cartoon"
@@ -4807,8 +4807,8 @@
         },
         {
             "x": false,
-            "name": "Cartoon Hüpfer",
-            "short": "Cartoon Hüpfer",
+            "name": "Cartoon-Hüpfer",
+            "short": "Cartoon-Hüpfer",
             "id": 22386,
             "categories": [
                 "cartoon"
@@ -4816,8 +4816,8 @@
         },
         {
             "x": false,
-            "name": "Cartoon Kuss",
-            "short": "Cartoon Kuss",
+            "name": "Cartoon-Kuss",
+            "short": "Cartoon-Kuss",
             "id": 22387,
             "categories": [
                 "cartoon",
@@ -4835,8 +4835,8 @@
         },
         {
             "x": false,
-            "name": "Dose mit Kugel  schütteln",
-            "short": "Dose mit Kugel  schütteln",
+            "name": "Dose mit Kugel schütteln",
+            "short": "Dose mit Kugel schütteln",
             "id": 22874,
             "categories": [
                 "cartoon"
@@ -4919,8 +4919,8 @@
         },
         {
             "x": false,
-            "name": "Cartoon Boing",
-            "short": "Cartoon Boing",
+            "name": "Cartoon-Boing",
+            "short": "Cartoon-Boing",
             "id": 22360,
             "categories": [
                 "cartoon"
@@ -4937,8 +4937,8 @@
         },
         {
             "x": false,
-            "name": "Cartoon Boing/Wackeln",
-            "short": "Cartoon Boing/Wackeln",
+            "name": "Cartoon-Boing/Wackeln",
+            "short": "Cartoon-Boing/Wackeln",
             "id": 22364,
             "categories": [
                 "cartoon"
@@ -4983,8 +4983,8 @@
         },
         {
             "x": false,
-            "name": "Pferderennen Signalhorn",
-            "short": "Pferderennen Signalhorn",
+            "name": "Pferderennen-Signalhorn",
+            "short": "Pferderennen-Signalhorn",
             "id": 22336,
             "categories": [
                 "Music"
@@ -5002,8 +5002,8 @@
         },
         {
             "x": false,
-            "name": "Cartoon Pfeil und Bogen",
-            "short": "Cartoon Pfeil und Bogen",
+            "name": "Cartoon-Pfeil und Bogen",
+            "short": "Cartoon-Pfeil und Bogen",
             "id": 22368,
             "categories": [
                 "cartoon"
@@ -5048,8 +5048,8 @@
         },
         {
             "x": false,
-            "name": "Retro Cartoon-Computer",
-            "short": "Retro Cartoon-Computer",
+            "name": "Retro-Cartoon-Computer",
+            "short": "Retro-Cartoon-Computer",
             "id": 22371,
             "categories": [
                 "cartoon",
@@ -5086,8 +5086,8 @@
         },
         {
             "x": false,
-            "name": "Verkehrsstau Gehupe",
-            "short": "Verkehrsstau Gehupe",
+            "name": "Verkehrsstau-Gehupe",
+            "short": "Verkehrsstau-Gehupe",
             "id": 22258,
             "categories": [
                 "vehicle"
