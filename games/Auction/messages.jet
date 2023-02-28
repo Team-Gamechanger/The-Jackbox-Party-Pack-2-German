@@ -1,12 +1,12 @@
 {
     "firstInfo":[
-        "Ich interessiere mich für viele Kunstwerke. Ich blende ich dir oben ein, wie viel ich für drei bestimmte Gemälde zu zahlen bereit bin.",
+        "Ich interessiere mich für viele Kunstwerke. Ich blende dir oben ein, wie viel ich für drei bestimmte Gemälde zu zahlen bereit bin.",
         "Ich zeige dir oben an, wie viel ich für drei der Auktionsstücke zu zahlen bereit bin. Aber ich kaufe auch andere Kunstwerke.",
         "Ich will viele Kunstwerke kaufen, inklusive der drei oben eingeblendeten. Den Wert hab ich dir mitangegeben."
     ],
     "firstLoan":[
         "Danke, für deine Aufnahme eines Darlehens. Du schuldest uns nur lächerliche $1.500 bei Spielende.",
-        "Predatory Loans hilft dir gerne weiter. Doch du schuldest uns jetzt $1.500.",
+        "Abzocker Kredit hilft dir gerne weiter. Doch du schuldest uns jetzt $1.500.",
         "Keine Sorge. Wir WERDEN die $1.500 von dir zurückbekommen. Schlaf gut.",
         "HA HA HA HA HA HA HA! Du schuldest uns jetzt $1.500.",
         "Falls du noch ein weiteres Darlehen benötigen solltest… kostet dich nur weitere $1.500.",
@@ -14,10 +14,10 @@
         "Nutze das Geld weise. Denn ab sofort schuldest du uns $1.500."
     ],
     "thirdLoan":[
-        "Drei Darlehen?! Erwarte nicht, noch einen zu bekommen. Ab sofort bist du gesperrt!",
+        "Drei Darlehen?! Erwarte nicht, noch eines zu bekommen. Ab sofort bist du gesperrt!",
         "Danke, dass du mit uns Geschäfte gemacht hast. Doch bei deiner Kreditunwürdigkeit, ist die Sache nun gelaufen.",
         "Wir schätzen deine Treue, aber wird werden nicht mehr auf deine Anrufe eingehen. Mach\u2019s gut!",
-        "Drei Darlehen sind das Maximum. Selbst WIR könnten nicht mehr schlafen, bei einem weiteren Darlehen an dich.",
+        "Drei Darlehen sind das Maximum. Selbst WIR könnten bei einem weiteren Darlehen an dich nicht mehr schlafen.",
         "Du bist völlig kreditunwürdig. Selbst WIR können dir kein weiteres Darlehen geben.",
         "Wir können dir kein Darlehen mehr geben. Viel Glück dabei, auf eigenen Füssen zu stehen, in dieser dunklen kalten Welt!",
         "Drei Darlehen sind das Maximum. Tut uns leid."
@@ -68,12 +68,12 @@
         "Wenn du weiteres Geld benötigst: zögere nicht, während der Auktionszusammenfassung, die Bank anzurufen.",
         "Hmm. Möglicherweise willst du, während der Auktionszusammenfassung, die Bank anrufen.",
         "Benötigst du Geld? Die Bank ist hier, um zu helfen… gegen eine kleine Gebühr. Während der Auktionszusammenfassung, kannst du uns anrufen.",
-        "Dein Anlagevermögen könnte einen Boost benötigen. Lass dir von der Bank, bei der nächsten Auktionszusammenfassung, aus der Patsche helfen.",
+        "Dein Anlagevermögen könnte einen Boost vertragen. Lass dir von der Bank, bei der nächsten Auktionszusammenfassung, aus der Patsche helfen.",
         "Oh je. Dein Geld wird immer knapper. Vielleicht kann die Bank, bei der nächsten Auktionszusammenfassung, aushelfen.",
         "Hey, du grosser Käufer! Du könntest in Erwägung ziehen, bei der nächsten Auktionszusammenfassung, die Bank anzurufen.",
         "Knapp bei Kasse? Die Bank ist da, um zu helfen! Ruf uns bei der nächsten Auktionszusammenfassung an.",
         "Man benötigt Geld, um Geld zu machen. Rufe die Bank, während der nächsten Auktionszusammenfassung, an.",
-        "Niemand anders wird dir Geld leihen, also kontaktiere deine Bank, während der nächsten Auktionszusammenfassung.",
+        "Niemand anderes wird dir Geld leihen, also kontaktiere deine Bank, während der nächsten Auktionszusammenfassung.",
         "Dein Geldbeutel sieht mehr als dünn aus. Füll ihn wieder auf, indem du die Bank, bei der nächsten Auktionszusammenfassung, anrufst."
     ],
     "goodJobOnLastAuction":[
@@ -150,7 +150,7 @@
         "Ich könnte sagen, meine Tochter hat das gemalt... aber das wäre eine Beleidigung für sie.",
         "Führe diese Witzbolde in die Irre, und biete auf dein eigenes Kunstwerk, um den Preis zu erhöhen.", 
         "Es gibt keine Regel, die besagt, nicht für dein eigenes Kunstwerk bieten zu dürfen, um den Preis zu erhöhen.",
-        "Wow. Du hast eine Reihe von Linien aneinander geordnet, um daraus etwas tatsächlich sehr interessantes zu schaffen. "
+        "Wow. Du hast eine Reihe von Linien aneinander geordnet, um daraus etwas tatsächlich sehr interessantes zu schaffen."
     ],
     "otherPlayerKnowsHint":[
         "Psst… <PLAYER_NAME> sollte den wahren Wert dieses Kunstwerks kennen. Aufpassen!",
@@ -165,7 +165,7 @@
         "Unter uns gesagt, <PLAYER_NAME> weiss genau, was der Wert dieses Objektes ist.",
         "Ähm. <PLAYER_NAME> mag dumm erscheinen, aber weiss genau, was dieses Objekt wert ist.",
         "<PLAYER_NAME> weiss genau, was dieses Kunstwerk wert ist. Beobachte genau.", 
-        "Ein kleiner Vogel hat mir gezwitschert, dass <PLAYER_NAME> genau weiss, welchen Wert dieses Objekt hat."
+        "Ein Vögelchen hat mir gezwitschert, dass <PLAYER_NAME> genau weiss, welchen Wert dieses Objekt hat."
     ],
     "notBidding":[
         "Du solltest, äh… wenigstens ab und zu bieten!",
@@ -209,7 +209,7 @@
         "Das Problem an diesem Spiel ist, es gibt nicht annähernd genug Bomben!"
     ],
     "gregFromBombCorp":[
-        "Ich vermisse Trevor.",
+        "Ich vermisse Nico.",
         "Wird in diesem Spiel irgendetwas in die Luft gesprengt?",
         "Bäh! Ich hasse Mittwoche."
     ],    
@@ -226,8 +226,8 @@
         "Manchmal frage ich mich, ob ich zu viele Texte verschicke.",
         "Ich wünschte, ich könnte persönlich an der Auktion teilnehmen. Pah!",
         "<RANDOM_CHARACTERS>…Entschuldige. Hosentaschentext.",
-        "Ohne Bezug: Ich denke darüber nach, mir eine neue Jacht zu kaufen",
-        "Ich bin mir nicht sicher, ob ich diesen britischen Akzent überzeugend finden soll.",
+        "Ohne Bezug: Ich denke darüber nach, mir eine neue Jacht zu kaufen.",
+        "Ich bin mir nicht sicher, ob dieses Auktionshaus wirklich so seriös ist, wie es vorgibt zu sein.",
         "Schönes Paddel.",
         "Ich sollte dich, für das nächste Wochenende in meine Villa einladen. Aber…hast du schmutzige Hände?",
         "Sag es niemanden, aber manchmal jage ich Menschen aus sportlichen Gründen.",
@@ -235,14 +235,14 @@
         "Hasst du es nicht auch, ständig nach einem neuen Butler suchen zu müssen? Bäh. Warum muss sowas immer mir passieren?",
         "Ein grosses Polospiel findet dieses Wochenende statt, wenn du Lust hast. Das wird episch!",
         "Lässt mich dieses Foto fett aussehen?",
-        "Bin in wenigen Sekunden zurück. Ich muss meine Pyramidenspiele überprüfen.",
+        "Bin in wenigen Sekunden zurück. Ich muss meine Pyramidensysteme überprüfen.",
         "Ich bin so reich, manchmal stolpere ich über mein ganzes Geld.",
-        "Was bekommt man, wenn man einen Strauss und  ein Nilpferd kreuzt? Ich lass es dich wissen, sobald meine Wissenschafter damit fertig sind.",
+        "Was bekommt man, wenn man einen Strauss und ein Nilpferd kreuzt? Ich lass es dich wissen, sobald meine Wissenschafter damit fertig sind.",
         "Ich glaube, ich habe eine Fliege verschluckt.",
         "Ich möchte das perfekte Kunstwerk für mein U-Boot finden.",
         "Oh Mann. Ich habe gerade Radiohead für mich entdeckt.",
         "Weisst du, was ein lustiges Wort ist? Beluga. Wer hat sich das ausgedacht? Wahrscheinlich irgendein Idiot.",
-        "Hast du eine Idee, wie man einen Finger aus einem Wasserhahn herausbekommt? Ich frage nur.",
+        "Hast du eine Idee, wie man einen Finger aus einem Wasserhahn herausbekommt? Ich frage für einen Freund…",
         "Entweder ist mein Butler tot oder meine Türklingel läutet nicht laut genug.",
         "Was ist so schwer daran, einen Mastodonten zu klonen? Meine Wissenschafter sind die schlimmsten…DIE SCHLIMMSTEN!!!",
         "Ich habe \u201cTubthumping - Chumbawamba\u201d, als meinen neuen Klingelton gewählt.",
@@ -266,7 +266,7 @@
         "Was denkst du, was mit uns passiert, wenn wir sterben?",
         "Liebst du es nicht auch, wenn du einen Goldbarren in einer deiner alten Hosen findest?",
         "Ich habe heute morgen unter der Dusche geheult.",
-        "Ich date eine normale Person. Welche Weine passen am besten zu Käsecracker?",
+        "Ich date eine normale Person. Welche Weine passen am besten zu Käsecrackern?",
         "Wie ist deine Haltung zu Vögeln?",
         "Das ist nur ein Wegwerf-Handy. Erklär ich dir später.", 
         "Siri, benutze ich Voice-To-Text richtig?",
@@ -279,7 +279,7 @@
         "Wie kann ich mich aus einem Gruppentext austragen?",
         "Ich habe Angst, alleine zu sterben.", 
         "Hast du zufällig Verbindungen zur russischen Mafia?", 
-        "Ich bin so gelangweilt, dass ich ein Feuerwerk in meiner Villa schiesse.", 
+        "Ich bin so gelangweilt, dass ich jetzt Feuerwerk in meiner Villa zünde.", 
         "Ich mache ein paar Besorgungen in Italien. Brauchst du etwas?",
         "Was ist ein guter Name für einen Haustier-Panda?",
         "Bruce Springsteen tritt später in meinem Schlafzimmer auf. Willst du vorbeikommen?",
