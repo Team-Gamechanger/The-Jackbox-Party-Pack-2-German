@@ -58,8 +58,8 @@
         },
         {
             "x": false,
-            "name": "zerreißender Stoff",
-            "short": "zerreißender Stoff",
+            "name": "Zerreißender Stoff",
+            "short": "Zerreißender Stoff",
             "id": 22851,
             "categories": [
                 "cartoon"
@@ -292,8 +292,8 @@
         },
         {
             "x": false,
-            "name": "“och...” (männlich)",
-            "short": "“och...”",
+            "name": "“Och...” (männlich)",
+            "short": "“Och...”",
             "id": 23501,
             "categories": [
                 "voice"
@@ -3926,7 +3926,7 @@
         {
             "x": false,
             "name": "Hundegejammer",
-            "short": "Hunde-gejammer",
+            "short": "Hundegejammer",
             "id": 22510,
             "categories": [
                 "Animal"
