@@ -47,7 +47,7 @@
       "players": "1-4 SPIELER",
 	  "family": false,
 	  "audience": false,
-      "description":"Willkommen bei Bomb Corp. Praktikanten eurer Art müssen in unserem Büro helfen, Bomben zu entschärfen.. Drückt einfach Start.",
+      "description":"Willkommen bei Bomb Corp. Praktikanten eurer Art müssen in unserem Büro helfen, Bomben zu entschärfen... Drückt einfach Start.",
       "video":"videos/bombinterns"
     }
   ]
