@@ -9,12 +9,12 @@
                 {
                     "image": "images/432705_0.png",
                     "id": "25792_0",
-                    "text": "Oberschule"
+                    "text": "Schulspind"
                 },
                 {
                     "image": "images/432706_0.png",
                     "id": "25792_1",
-                    "text": "Abschlussfeier"
+                    "text": "Schulpause"
                 },
                 {
                     "image": "images/432707_0.png",
@@ -29,7 +29,7 @@
                 {
                     "image": "images/432709_0.png",
                     "id": "25792_4",
-                    "text": "Graduiertenschule"
+                    "text": "Schwere Hausaufgaben"
                 },
                 {
                     "image": "images/432710_0.png",
@@ -39,7 +39,7 @@
                 {
                     "image": "images/432711_0.png",
                     "id": "25792_6",
-                    "text": "College-Klasse"
+                    "text": "Universität"
                 }
             ]
         },
@@ -61,7 +61,7 @@
                 {
                     "image": "images/432675_0.png",
                     "id": "25790_2",
-                    "text": "Toga Party"
+                    "text": "Römer trägt Toga"
                 },
                 {
                     "image": "images/432676_0.png",
@@ -71,7 +71,7 @@
                 {
                     "image": "images/432677_0.png",
                     "id": "25790_4",
-                    "text": "Julius Cäsar"
+                    "text": "Julius Caesar"
                 },
                 {
                     "image": "images/432678_0.png",
@@ -103,7 +103,7 @@
                 {
                     "image": "images/432645_0.png",
                     "id": "25788_2",
-                    "text": "Enge Hose"
+                    "text": "Zu enge Hose"
                 },
                 {
                     "image": "images/432646_0.png",
@@ -118,12 +118,12 @@
                 {
                     "image": "images/432648_0.png",
                     "id": "25788_5",
-                    "text": "Jeggings"
+                    "text": "Jogginghose"
                 },
                 {
                     "image": "images/432649_0.png",
                     "id": "25788_6",
-                    "text": "Ich hoffe, niemand bemerkt, dass es sich um eine Pyjamahose handelt"
+                    "text": "Hoffentlich bemerkt keiner, dass ich eine Schlafanzugshose trage"
                 }
             ]
         },
@@ -145,7 +145,7 @@
                 {
                     "image": "images/432373_0.png",
                     "id": "25774_2",
-                    "text": "Zukunftskrieg"
+                    "text": "Krieg in der Zukunft"
                 },
                 {
                     "image": "images/432374_0.png",
@@ -177,37 +177,37 @@
                 {
                     "image": "images/432161_0.png",
                     "id": "25760_0",
-                    "text": "Amy Poehler kämpft gegen einen Tiger"
+                    "text": "Angela Merkel kämpft gegen einen Tiger"
                 },
                 {
                     "image": "images/432162_0.png",
                     "id": "25760_1",
-                    "text": "Amy Poehler kämpft gegen einen Löwen"
+                    "text": "Angela Merkel kämpft gegen einen Löwen"
                 },
                 {
                     "image": "images/432163_0.png",
                     "id": "25760_2",
-                    "text": "Amy Poehler kämpft gegen einen Leopard"
+                    "text": "Angela Merkel kämpft gegen einen Leopard"
                 },
                 {
                     "image": "images/432164_0.png",
                     "id": "25760_3",
-                    "text": "Amy Poehler kämpft gegen einen Berglöwen"
+                    "text": "Angela Merkel kämpft gegen einen Berglöwen"
                 },
                 {
                     "image": "images/432165_0.png",
                     "id": "25760_4",
-                    "text": "Amy Poehler kämpft gegen eine Wildkatze"
+                    "text": "Angela Merkel kämpft gegen eine Wildkatze"
                 },
                 {
                     "image": "images/432166_0.png",
                     "id": "25760_5",
-                    "text": "Amy Poehler kämpft gegen einen Säbelzahntiger"
+                    "text": "Angela Merkel kämpft gegen einen Säbelzahntiger"
                 },
                 {
                     "image": "images/432167_0.png",
                     "id": "25760_6",
-                    "text": "Amy Poehler kämpft gegen einen Puma"
+                    "text": "Angela Merkel kämpft gegen einen Puma"
                 }
             ]
         },
@@ -229,7 +229,7 @@
                 {
                     "image": "images/429453_0.png",
                     "id": "25545_2",
-                    "text": "Typ, der gerade eine grosse Arztrechnung bekommen hat"
+                    "text": "Typ, der gerade eine hohe Stromrechnung bekommen hat"
                 },
                 {
                     "image": "images/429454_0.png",
@@ -261,7 +261,7 @@
                 {
                     "image": "images/429436_0.png",
                     "id": "25544_0",
-                    "text": "Der Geist eines Typen, der an seinem Hochzeitstag starb"
+                    "text": "Der Geist eines Typen, der bei seiner Hochzeit starb"
                 },
                 {
                     "image": "images/429437_0.png",
@@ -286,12 +286,12 @@
                 {
                     "image": "images/429441_0.png",
                     "id": "25544_5",
-                    "text": "Der Geist eines Geheimdienstagenten"
+                    "text": "Der Geist eines Geheimagenten"
                 },
                 {
                     "image": "images/429442_0.png",
                     "id": "25544_6",
-                    "text": "Ein Geist der gerne Smokings trägt"
+                    "text": "Ein Geist, der gerne Smokings trägt"
                 }
             ]
         },
@@ -313,12 +313,12 @@
                 {
                     "image": "images/429423_0.png",
                     "id": "25543_2",
-                    "text": "Tom Thumb"
+                    "text": "Däumelinchen"
                 },
                 {
                     "image": "images/429424_0.png",
                     "id": "25543_3",
-                    "text": "Die unglaubliche Geschichte des Mister C."
+                    "text": "Der unglaubliche Vergrösserungsstrahl"
                 },
                 {
                     "image": "images/429425_0.png",
@@ -360,7 +360,7 @@
                 {
                     "image": "images/429228_0.png",
                     "id": "25530_3",
-                    "text": "Dieses kleine Schweinchen…"
+                    "text": "Seriöse Schweinchen"
                 },
                 {
                     "image": "images/429229_0.png",
@@ -375,7 +375,7 @@
                 {
                     "image": "images/429231_0.png",
                     "id": "25530_6",
-                    "text": "Schweinchen Wilbur"
+                    "text": "Schweinchen Schlau"
                 }
             ]
         },
@@ -397,12 +397,12 @@
                 {
                     "image": "images/429212_0.png",
                     "id": "25529_2",
-                    "text": "Cap\u2019n Crunch"
+                    "text": "Käpt\u2019n Iglo"
                 },
                 {
                     "image": "images/429213_0.png",
                     "id": "25529_3",
-                    "text": "Blackbeard"
+                    "text": "Kapitän Langstrumpf"
                 },
                 {
                     "image": "images/429214_0.png",
@@ -417,7 +417,7 @@
                 {
                     "image": "images/429216_0.png",
                     "id": "25529_6",
-                    "text": "Kapitän Langstrumpf"
+                    "text": "Superhelden-Pirat"
                 }
             ]
         },
@@ -449,7 +449,7 @@
                 {
                     "image": "images/429184_0.png",
                     "id": "25527_4",
-                    "text": "Dem Sonnenuntergang entgegenreiten"
+                    "text": "Dem Sonnenuntergang entgegenfahren"
                 },
                 {
                     "image": "images/429185_0.png",
@@ -481,22 +481,22 @@
                 {
                     "image": "images/428289_0.png",
                     "id": "25401_2",
-                    "text": "Harrison Ford"
+                    "text": "Dieter Bohlen"
                 },
                 {
                     "image": "images/428290_0.png",
                     "id": "25401_3",
-                    "text": "Jon Hamm"
+                    "text": "Til Schweiger"
                 },
                 {
                     "image": "images/428291_0.png",
                     "id": "25401_4",
-                    "text": "Zac Efron"
+                    "text": "Elyas M\u2019Barek"
                 },
                 {
                     "image": "images/428292_0.png",
                     "id": "25401_5",
-                    "text": "Channing Tatum"
+                    "text": "Jürgen Vogel"
                 },
                 {
                     "image": "images/428293_0.png",
@@ -523,7 +523,7 @@
                 {
                     "image": "images/428244_0.png",
                     "id": "25398_2",
-                    "text": "Beyoncé Konzert"
+                    "text": "Helene Fischer Konzert"
                 },
                 {
                     "image": "images/428245_0.png",
@@ -560,12 +560,12 @@
                 {
                     "image": "images/428213_0.png",
                     "id": "25396_1",
-                    "text": "New Kids On The Block"
+                    "text": "Modern Talking"
                 },
                 {
                     "image": "images/428214_0.png",
                     "id": "25396_2",
-                    "text": "*NSYNC"
+                    "text": "0815-Boyband"
                 },
                 {
                     "image": "images/428215_0.png",
@@ -575,17 +575,17 @@
                 {
                     "image": "images/428216_0.png",
                     "id": "25396_4",
-                    "text": "Jonas Brothers"
+                    "text": "Tokio Hotel"
                 },
                 {
                     "image": "images/428217_0.png",
                     "id": "25396_5",
-                    "text": "Boyz II Men"
+                    "text": "Blue Man Group"
                 },
                 {
                     "image": "images/428218_0.png",
                     "id": "25396_6",
-                    "text": "Hanson"
+                    "text": "0815-Girlgroup"
                 }
             ]
         },
