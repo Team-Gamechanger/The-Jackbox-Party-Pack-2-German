@@ -1,1 +1,69 @@
-{"fields":[{"t":"B","v":"false","n":"HasBumperAudio"},{"t":"B","v":"false","n":"HasBumperType"},{"t":"B","v":"false","n":"HasCorrectAudio"},{"t":"B","v":"true","n":"HasQuestionAudio"},{"t":"S","v":"Hol.com,hündische Hexen,Hundamor,Hundetage des Sommers,Doggy Styles,Wag Offs,Schwänze der Liebe,sterilisierte Liebe,Heiss unterm Halsband,Pfoten für einen Kuss,Ruff Stuff,Maulkorb,Classy Lassie,Guter Junge,Zwinger der Liebe,entfessele deine Liebe,Bell einmal für Liebe,Knochen-Sucher","n":"Suggestions"},{"t":"S","v":"Holidog","n":"Category"},{"t":"S","v":"Tindog","n":"CorrectText"},{"t":"S","v":"None","n":"BumperType"},{"t":"S","v":"Der Name der App von Holidog, die Hunden hilft, andere Hunde zu finden.","n":"QuestionText"},{"t":"S","v":"","n":"AlternateSpellings"},{"t":"A","n":"BumperAudio"},{"t":"A","n":"CorrectAudio"},{"t":"A","v":"423810_0","n":"QuestionAudio"}]}
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Hol.com,hündische Hexen,Hundamor,Hundetage des Sommers,Doggy Styles,Wag Offs,Schwänze der Liebe,sterilisierte Liebe,Heiss unterm Halsband,Pfoten für einen Kuss,Ruff Stuff,Maulkorb,Classy Lassie,Guter Junge,Zwinger der Liebe,entfessele deine Liebe,Bell einmal für Liebe,Knochen-Sucher",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Holidog",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Tindog",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Der Name der App von Holidog, die Hunden hilft, andere Hunde zu finden.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "null",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "null",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "423810_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

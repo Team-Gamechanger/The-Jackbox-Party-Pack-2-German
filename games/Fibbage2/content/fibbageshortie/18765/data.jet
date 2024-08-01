@@ -1,1 +1,69 @@
-{"fields":[{"t":"B","v":"false","n":"HasBumperAudio"},{"t":"B","v":"false","n":"HasBumperType"},{"t":"B","v":"false","n":"HasCorrectAudio"},{"t":"B","v":"true","n":"HasQuestionAudio"},{"t":"S","v":"Wodka,Muschelsaft,Kürbissaft,Whiskey,Sirup,V8,Hotdog Wasser,Kokosmilch,BBQ Sauce,Gurkensaft,Kirschsaft,Apfelwein,Reisbranntwein,Kaffee,Kakao,Kimchi,Margarita,Tee","n":"Suggestions"},{"t":"S","v":"Kohlensäure ","n":"Category"},{"t":"S","v":"Milch","n":"CorrectText"},{"t":"S","v":"None","n":"BumperType"},{"t":"S","v":"Aus irgendeinem seltsamen Grund haben Ernährungswissenschaftler an der Cornell University <BLANK> mit Kohlensäure entwickelt.","n":"QuestionText"},{"t":"S","v":"","n":"AlternateSpellings"},{"t":"A","n":"BumperAudio"},{"t":"A","n":"CorrectAudio"},{"t":"A","v":"379469_0","n":"QuestionAudio"}]}
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Wodka,Muschelsaft,Kürbissaft,Whiskey,Sirup,V8,Hotdog Wasser,Kokosmilch,BBQ Sauce,Gurkensaft,Kirschsaft,Apfelwein,Reisbranntwein,Kaffee,Kakao,Kimchi,Margarita,Tee",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Kohlensäure ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Milch",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Aus irgendeinem seltsamen Grund haben Ernährungswissenschaftler an der Cornell University <BLANK> mit Kohlensäure entwickelt.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "null",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "null",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "379469_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

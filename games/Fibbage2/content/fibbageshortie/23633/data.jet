@@ -1,1 +1,69 @@
-{"fields":[{"t":"B","v":"true","n":"HasBumperAudio"},{"t":"B","v":"true","n":"HasBumperType"},{"t":"B","v":"false","n":"HasCorrectAudio"},{"t":"B","v":"true","n":"HasQuestionAudio"},{"t":"S","v":"Bowlingbahn,Shoppingcenter,Hotel,Feuerhydrant,Kindergarten,Zahnarztpraxis,Telefonzelle,Auditorium,Auto-Ladestation,Schule,Tankstelle,Supermarkt,Bücherei,Polizeistation,Krankenhaus,Feuerwehr,Freizeitpark,Golfplatz","n":"Suggestions"},{"t":"S","v":"tief","n":"Category"},{"t":"S","v":"Briefkasten","n":"CorrectText"},{"t":"S","v":"Roadtrip","n":"BumperType"},{"t":"S","v":"Wenn du das nächste Mal in der Nähe der Susami Bucht in Japan bist, tauche 10 Meter unter die Wasseroberfläche und entdecke den/die/das tiefste/tiefsten Unterwasser-<BLANK> der Welt.","n":"QuestionText"},{"t":"S","v":"Postkasten,Brief Kasten,Post Kasten","n":"AlternateSpellings"},{"t":"A","v":"415592_0","n":"BumperAudio"},{"t":"A","n":"CorrectAudio"},{"t":"A","v":"415587_1","n":"QuestionAudio"}]}
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Bowlingbahn,Shoppingcenter,Hotel,Feuerhydrant,Kindergarten,Zahnarztpraxis,Telefonzelle,Auditorium,Auto-Ladestation,Schule,Tankstelle,Supermarkt,Bücherei,Polizeistation,Krankenhaus,Feuerwehr,Freizeitpark,Golfplatz",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "tief",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Briefkasten",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Roadtrip",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Wenn du das nächste Mal in der Nähe der Susami Bucht in Japan bist, tauche 10 Meter unter die Wasseroberfläche und entdecke den/die/das tiefste/tiefsten Unterwasser-<BLANK> der Welt.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Postkasten,Brief Kasten,Post Kasten",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "415592_0",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "null",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "415587_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}
