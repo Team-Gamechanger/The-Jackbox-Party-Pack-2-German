@@ -219,12 +219,6 @@
     },
     {
       "x": false,
-      "id": 18292,
-      "category": "",
-      "bumper": ""
-    },
-    {
-      "x": false,
       "id": 18305,
       "category": "aus",
       "bumper": "StrangeAilments"
@@ -1071,12 +1065,6 @@
     },
     {
       "x": false,
-      "id": 19574,
-      "category": "",
-      "bumper": ""
-    },
-    {
-      "x": false,
       "id": 19580,
       "category": "speed-dating",
       "bumper": ""
@@ -1158,18 +1146,6 @@
       "id": 19667,
       "category": "Syndrom",
       "bumper": "StrangeAilments"
-    },
-    {
-      "x": false,
-      "id": 19668,
-      "category": "",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 20358,
-      "category": "",
-      "bumper": ""
     },
     {
       "x": false,
