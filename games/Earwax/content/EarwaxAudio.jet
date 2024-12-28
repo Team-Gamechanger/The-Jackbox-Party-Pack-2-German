@@ -540,7 +540,7 @@
         {
             "x": false,
             "name": "Reißverschluss hochziehen",
-            "short": "Reißver-schluss hochziehen",
+            "short": "Reißverschluss hochziehen",
             "id": 23034,
             "categories": [
                 "household"
