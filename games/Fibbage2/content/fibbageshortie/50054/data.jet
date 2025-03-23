@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "eine Atombombe,sein linkes Ohr,seinen Geschmackssinn,Zeit mit seinem Enkel,eine abgelaufene Busfahrkarte,seinen Speichel,seine Haare,den Mond,die Venus,das Mittelmeer,das Lamm Gottes,ein Schwimmbad,ein Katapult,Haferflocken,seine Zehennägel,einen McDonald's-Gutschein,den Atem vom Papst,Bernd das Brot,sein Onlindedatingprofil,seinen Arbeitsplatz",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Online-Shopping",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "seine Kirche",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Andreas Schweimer versuchte <BLANK> für 395.000€ auf <i>Kleinanzeigen</i> zu verkaufen.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "eine Kirche,ein Gotteshaus,sein Gotteshaus,die Kirche,Kirche,ein Kloster,sein Kloster,das Kloster,ein Pfarrhaus,sein Pfarrhaus,das Pfarrhaus",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

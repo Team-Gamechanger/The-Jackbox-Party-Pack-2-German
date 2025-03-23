@@ -2,7 +2,7 @@
   "fields": [
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasBumperAudio"
     },
     {
@@ -12,7 +12,7 @@
     },
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasCorrectAudio"
     },
     {
@@ -22,7 +22,7 @@
     },
     {
       "t": "S",
-      "v": "Blut,Milch,Frösche,Vögel,Reinigungsalkohol,Golfbälle,Feuer,Ahornsirup,Tannenzapfen,Säure,Kaugummi,Fische,Schlangen,Äpfel,iPods,Flugzeug-Erdnüsse,Urin,tote Fliegen",
+      "v": "Katzenhaare,Milch,Frösche,Vögel,Reinigungsalkohol,Golfbälle,Feuer,Ahornsirup,Tannenzapfen,Säure,Kaugummi,Fische,Schlangen,Äpfel,iPods,Erdnüsse,Urin,tote Fliegen",
       "n": "Suggestions"
     },
     {
@@ -42,27 +42,25 @@
     },
     {
       "t": "S",
-      "v": "Im Jahr 2015 haben sich erstaunte Wissenschaftler nahe Bergen, Norwegen versammelt, um herauszufinden warum es <BLANK> regnete.",
+      "v": "Im Jahr 2015 versammelten sich in der Nähe von Bergen, Norwegen, erstaunte Wissenschaftler, um herauszufinden, warum es <BLANK> regnete.",
       "n": "QuestionText"
     },
     {
       "t": "S",
-      "v": "Würmer",
+      "v": "Würmer,Regen Würmer",
       "n": "AlternateSpellings"
     },
     {
       "t": "A",
-      "v": "null",
       "n": "BumperAudio"
     },
     {
       "t": "A",
-      "v": "null",
       "n": "CorrectAudio"
     },
     {
       "t": "A",
-      "v": "403964_2",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

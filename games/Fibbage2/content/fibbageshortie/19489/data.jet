@@ -2,7 +2,7 @@
   "fields": [
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasBumperAudio"
     },
     {
@@ -12,7 +12,7 @@
     },
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasCorrectAudio"
     },
     {
@@ -22,12 +22,12 @@
     },
     {
       "t": "S",
-      "v": "Alkohol,Gold,Benzin,Uran,Honig,Zucker,Holz,Methan,Kokain,Karamell,Strom,Schnee,Schleim,Perlmutt,Schwefel,Unobtainium,Strass,Knochen",
+      "v": "Alkohol,Gold,Benzin,Uran,Honig,Zucker,Holz,Methan,Kokain,Karamell,Strom,Schnee,Schleim,Perlmutt,Schwefel,Unobtainium,Kupfer,DNA",
       "n": "Suggestions"
     },
     {
       "t": "S",
-      "v": "30%",
+      "v": "Drittel",
       "n": "Category"
     },
     {
@@ -42,27 +42,25 @@
     },
     {
       "t": "S",
-      "v": "Wissenschaftler glauben, dass über 30% des fernen Planeten “55 Cancri e” aus reinem <BLANK> besteht.",
+      "v": "Wissenschaftler gehen davon aus, dass mehr als ein Drittel des fernen Planeten „55 Cancri e“ aus <BLANK> besteht..",
       "n": "QuestionText"
     },
     {
       "t": "S",
-      "v": "Diamanten",
+      "v": "Diamanten,reinem Diamant,Diamond",
       "n": "AlternateSpellings"
     },
     {
       "t": "A",
-      "v": "null",
       "n": "BumperAudio"
     },
     {
       "t": "A",
-      "v": "null",
       "n": "CorrectAudio"
     },
     {
       "t": "A",
-      "v": "387173_2",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

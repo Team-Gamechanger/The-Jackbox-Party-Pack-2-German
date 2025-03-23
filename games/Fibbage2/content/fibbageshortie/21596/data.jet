@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "schwarze Kleidung tragt,gerne Zehen leckt,Kamele trainiert,Gehirne operiert,tote Sprachen studiert,euch weigert erwachsen zu werden,Hellseher aufsucht,verdorbenes Essen esst,nie badet,Sex aus dem Weg geht,Popel esst,mit Toten redet,einen Putzfimmel habt,nur Baumrinde esst,Blut trinkt,Ohrringe tragt,an griechische Götter glaubt,Termiten esst",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Definitionen",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Pferdefleisch esst",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Betreibt ihr „Hippophagie“? Ja, für den Fall, dass ihr <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Fleisch vom Pferd esst,Fleisch von Pferden esst,Pferde esst,Pferd esst,Pferde fleisch esst,Pferdefleisch essen tut,Pferdefleisch konsumiert",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -12,7 +12,7 @@
     },
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasCorrectAudio"
     },
     {
@@ -22,17 +22,17 @@
     },
     {
       "t": "S",
-      "v": "keine Sahne,keine Milch,keine Windeln,keinen Partner,keine Zahnpasta,kein Toilettenpapier,kein Reinigungsmittel,keinen Baseball,keine Salami,Atemnot,keine Bettwäsche,keine Freiminuten,Urinstein,keine Visitenkarten,kein Glück,zu viel Speichel,leere Batterien",
+      "v": "Schimmel in der Wohnung,dreckige Kleidung,keine Windeln,keinen Partner,keine Zahnpasta,irgendwo keine Toilette,Verspätung,zu viele Freunde,keine Salami,Atemnot,zu viel geschlafen,keine Freiminuten,Urinstein,kein Bewusstsein,Glück,zu viel Speichel,leere Batterien",
       "n": "Suggestions"
     },
     {
       "t": "S",
-      "v": "aus",
+      "v": "Ängste",
       "n": "Category"
     },
     {
       "t": "S",
-      "v": "keinen Handyempfang",
+      "v": "kein Handy",
       "n": "CorrectText"
     },
     {
@@ -42,27 +42,26 @@
     },
     {
       "t": "S",
-      "v": "Als Nomophobie bezeichnet man die Angst, dass man <BLANK> hat.",
+      "v": "Als Nomophobie bezeichnet man die übermäßige Angst, dass man <BLANK> hat.",
       "n": "QuestionText"
     },
     {
       "t": "S",
-      "v": "kein Handy,kein Smartphone,kein iphone,kein Empfang,kein netz",
+      "v": "kein Handy mehr,kein Smartphone,kein iphone,keinen Empfang,kein Netz",
       "n": "AlternateSpellings"
     },
     {
       "t": "A",
-      "v": "419703_0",
+      "v": "bumper",
       "n": "BumperAudio"
     },
     {
       "t": "A",
-      "v": "376340_0",
       "n": "CorrectAudio"
     },
     {
       "t": "A",
-      "v": "376337_0",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

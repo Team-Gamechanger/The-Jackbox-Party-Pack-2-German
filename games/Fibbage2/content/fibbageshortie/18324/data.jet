@@ -2,7 +2,7 @@
   "fields": [
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasBumperAudio"
     },
     {
@@ -12,7 +12,7 @@
     },
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasCorrectAudio"
     },
     {
@@ -22,12 +22,12 @@
     },
     {
       "t": "S",
-      "v": "Häusern,Hüten,Schutzbrillen,Rohren,Schuhen,Särgen,Regenschirmen,Schlitten,Hockeyschlägern,Uhren,Fahrrädern,Windeln,Bumerangs,Spazierstöcken,Betten,Toiletten,Sonnenbrillen,Spaziergängern",
+      "v": "Häusern,Hüten,Schutzbrillen,Rohren,Schuhen,Särgen,Regenschirmen,Schlitten,Hockeyschlägern,Uhren,Fahrrädern,Windeln,Bumerangs,Spazierstöcken,Betten,Toiletten,Sonnenbrillen,Ampeln",
       "n": "Suggestions"
     },
     {
       "t": "S",
-      "v": "winzig",
+      "v": "Winzig",
       "n": "Category"
     },
     {
@@ -42,7 +42,7 @@
     },
     {
       "t": "S",
-      "v": "Alfie Date, ein 109-jähriger Australier, verbringt seine Freizeit mit der Herstellung von winzigen <BLANK>.",
+      "v": "Alfie Date, ein 109-jähriger Australier, verbrachte seine Freizeit mit der Herstellung von winzigen <BLANK>.",
       "n": "QuestionText"
     },
     {
@@ -52,17 +52,15 @@
     },
     {
       "t": "A",
-      "v": "null",
       "n": "BumperAudio"
     },
     {
       "t": "A",
-      "v": "null",
       "n": "CorrectAudio"
     },
     {
       "t": "A",
-      "v": "376520_0",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

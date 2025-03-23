@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Puppen,Koran-Kopien,Vibratoren,Beinprothesen,Kindern,Taschentücher-Packungen,Plüschtieren,Laptops,iPhones,Unterwäsche,Keksen,Kondomen,Spielzeug,BHs,Leguanen,Kruzifixen,Gemälden von Picasso,Hühnereiern",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Spanische Schmuggler",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "falschen Bananen",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Im März 2017 verhaftete die spanische Polizei zwei Männer, die versucht haben, 15 Pfund Kokain in <BLANK> zu schmuggeln.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Bananen,fake Bananen,gefälschten Bananen,Fake-Bananen,unechten Bananen",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -12,7 +12,7 @@
     },
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasCorrectAudio"
     },
     {
@@ -22,12 +22,12 @@
     },
     {
       "t": "S",
-      "v": "ungewöhnliche Ähren,scharfe Objekte,Origami-Kreationen,Pop-Törtchen,Beinprothesen,Tumore,halb aufgegessene Sandwiches,Klebezettel Portraits,Gläser mit Mondschein,Schildkrötenpanzer,fliegende Untertassen,Food-Skulpturen,falsche Schnurrbärte,Fingernägel,mechanische Bullen,singende plastik Fisch,Tabaktöpfe,Tierfäkalien Gemälde",
+      "v": "ungewöhnliche Maissorten,scharfe Objekte,Origami-Kreationen,Chipssorten,Beinprothesen,Tumore,halb aufgegessene Sandwiches,Portraits aus Klebezetteln,Sektgläser,Schildkrötenpanzer,fliegende Untertassen,Gemüseskulpturen,falsche Schnurrbärte,Fingernägel,Computermäuse,singende Fische,Aschenbecher,Märchenbücher",
       "n": "Suggestions"
     },
     {
       "t": "S",
-      "v": "Vent",
+      "v": "Wahrzeichen",
       "n": "Category"
     },
     {
@@ -42,27 +42,26 @@
     },
     {
       "t": "S",
-      "v": "Wenn Du in Fort Mitchell, Kentucky, bist, besuche das Vent Haven Museum, ein einzigartiges Wahrzeichen, das heute über 800 <BLANK> beherbergt.",
+      "v": "Wenn ihr im US-amerikanischen Fort Mitchell sein solltet, besucht doch das Vent Haven Museum! Es handelt sich um ein einzigartiges Wahrzeichen, das mittlerweile über 1200 <BLANK> beherbergt.",
       "n": "QuestionText"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "Bauch Redner Puppen,Bauch-Redner-Puppen",
       "n": "AlternateSpellings"
     },
     {
       "t": "A",
-      "v": "419726_0",
+      "v": "bumper",
       "n": "BumperAudio"
     },
     {
       "t": "A",
-      "v": "381020_0f",
       "n": "CorrectAudio"
     },
     {
       "t": "A",
-      "v": "381017_1",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

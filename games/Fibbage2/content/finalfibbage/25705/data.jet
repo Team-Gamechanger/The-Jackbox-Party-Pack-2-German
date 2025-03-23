@@ -2,7 +2,7 @@
   "fields": [
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasBumperAudio"
     },
     {
@@ -12,7 +12,7 @@
     },
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasCorrectAudio"
     },
     {
@@ -22,12 +22,12 @@
     },
     {
       "t": "S",
-      "v": "Jägerin,Präsidentin,Rapperin,Secretärin,Tattookünstlerin,Hebamme,Pastorin,Heimwerkerin,Nonne,Kellnerin,Astronautin,Pfadfinder-Anführerin,Löwenzähmerin,Schaustellerin,Videospielentwicklerin,Zimmermädchen,Zigeunerin,Nahrungswissenschaftlerin",
+      "v": "Jägerin,Präsidentin,Rapperin,Sekretärin,Tattookünstlerin,Hebamme,Pastorin,Bestatterin,Nonne,Kellnerin,Astronautin,Kopfgeldjägerin,Löwenzähmerin,Schaustellerin,Gladiatorin,Zimmermädchen,Henkerin,Homöopathikerin",
       "n": "Suggestions"
     },
     {
       "t": "S",
-      "v": "Barbie",
+      "v": "<i>Barbie</i>",
       "n": "Category"
     },
     {
@@ -42,27 +42,25 @@
     },
     {
       "t": "S",
-      "v": "1999 wurde eine Karriere-Barbie veröffentlicht, deren Beruf dafür sorgte, dass die Produktion nach Beschwerden ein Jahr später gestoppt wurde.",
+      "v": "Der Beruf der umstrittenen Karriere-<i>Barbie</i>, deren Produktion nur ein Jahr nach der Veröffentlichung 1999 aufgrund von Beschwerden eingestellt wurde.",
       "n": "QuestionText"
     },
     {
       "t": "S",
-      "v": "Matador,Matador barbie",
+      "v": "Matador,Matador-Barbie,Torero-Barbie",
       "n": "AlternateSpellings"
     },
     {
       "t": "A",
-      "v": "null",
       "n": "BumperAudio"
     },
     {
       "t": "A",
-      "v": "null",
       "n": "CorrectAudio"
     },
     {
       "t": "A",
-      "v": "431355_0",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

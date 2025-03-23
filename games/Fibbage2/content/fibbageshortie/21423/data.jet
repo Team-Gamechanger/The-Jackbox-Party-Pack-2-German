@@ -2,7 +2,7 @@
   "fields": [
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasBumperAudio"
     },
     {
@@ -12,7 +12,7 @@
     },
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasCorrectAudio"
     },
     {
@@ -22,17 +22,17 @@
     },
     {
       "t": "S",
-      "v": "Pissoir,Segway,McDonalds Fahnenmast,Gefängniszelle,Deutschen Schäferhund,Polizeiabzeichen,Feuerwehrauto,Hausmeisterschrank,Go-Kart,Obdachlosen,Baby,Polizeihelm,Affen,Schulbus,Toyota Prius,Walmart,Chippendales-Kalender,Beerdigungsinstitut",
+      "v": "ein Pissoir,ein Segway,einen McDonald's-Burger,eine Gefängniszelle,einen Schäferhund,ein Maisfeld,ein Feuerwehrauto,einen Hausmeisterschrank,ein Go-Kart,einen Obdachlosen,ein Baby,einen Polizeihelm,einen Affen,einen Schulbus,einen gesamten Strand,eine ganze Kreuzung,einen Eiswagen,ein Beerdigungsinstitut",
       "n": "Suggestions"
     },
     {
       "t": "S",
-      "v": "graffiti",
+      "v": "Graffiti",
       "n": "Category"
     },
     {
       "t": "S",
-      "v": "Polizeipferd",
+      "v": "ein Polizeipferd",
       "n": "CorrectText"
     },
     {
@@ -42,27 +42,25 @@
     },
     {
       "t": "S",
-      "v": "Im Jahr 2015 war die Polizei von Los Angeles auf der Suche nach einem Graffiti-Künstler, der ausgerechnet Graffiti quer über ein/einen/einem <BLANK> gesprüht hatte.",
+      "v": "Im Jahr 2015 suchte die Polizei von Los Angeles nach einem Graffitikünstler, der ausgerechnet <BLANK> mit Graffiti besprüht hatte.",
       "n": "QuestionText"
     },
     {
       "t": "S",
-      "v": "Pferd",
+      "v": "Pferd,ein Pferd,Polizeipferd,Dienstpferd,ein Dienstpferd",
       "n": "AlternateSpellings"
     },
     {
       "t": "A",
-      "v": "null",
       "n": "BumperAudio"
     },
     {
       "t": "A",
-      "v": "null",
       "n": "CorrectAudio"
     },
     {
       "t": "A",
-      "v": "405091_1",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

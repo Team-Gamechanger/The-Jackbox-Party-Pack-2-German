@@ -12,7 +12,7 @@
     },
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasCorrectAudio"
     },
     {
@@ -22,12 +22,12 @@
     },
     {
       "t": "S",
-      "v": "Bananen,offenen Fenstern,Hosen,mikroskopischen Spinnen,Puzzlen,Pfeilen,Computern,kuchenförmigen Nahrungsmitteln,Senf,Kalendern,Butter,fiktiven Charakteren,der Regierung,Fallschirmen,Hautausschlägen,Katzen,Ziegen,eingezäunten Bereichen",
+      "v": "Bananen,offenen Fenstern,Hosen,winzigen Spinnen,Puzzlen,Pfeilen,tropfenden Wasserhähnen,klebrigen Händen,Senf,Kalendern,Butter,knarrenden Dielen,aus dem Himmel stürzenden Flugzeugen,Hautausschlägen,Katzen,Ziegen,Kerzen",
       "n": "Suggestions"
     },
     {
       "t": "S",
-      "v": "Angst",
+      "v": "Angst und Bange",
       "n": "Category"
     },
     {
@@ -47,22 +47,21 @@
     },
     {
       "t": "S",
-      "v": "Erdnussbutter,Erdnussbutter am Gaumen,Erdnussbutter im Mund,Erdnussbutter im Rachen",
+      "v": "Erdnussbutter,Erdnussbutter am Gaumen,Erdnussbutter im Mund,Erdnussbutter im Rachen,klebriger Erdnussbutter im Mundraum,Erdnussbutter im Mundraum,klebendem Erdnussmus am Gaumen,Erdnusscreme am Gaumen,klebender Erdnusscreme am Gaumen,Erdnussmus am Gaumen",
       "n": "AlternateSpellings"
     },
     {
       "t": "A",
-      "v": "424544_0",
+      "v": "bumper",
       "n": "BumperAudio"
     },
     {
       "t": "A",
-      "v": "null",
       "n": "CorrectAudio"
     },
     {
       "t": "A",
-      "v": "424539_0",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

@@ -22,7 +22,7 @@
     },
     {
       "t": "S",
-      "v": "Schwalbenschwanz,Hühnerhals,Hauttyp,Kackklo,Oberüber,Vas Deferens,Asshat,Hobbiton,Van Nawhite,Zelda,Pooperscooper,New Oldsville,Dingleberry,Troll,Starbucks,Königskönig,Pullmyfinger",
+      "v": "Kackenstock,Habemuss,Leckomio,Kackklo,BH,Hyrule,Klobrill,Hobbiton,Van Nawhite,Zelda,Bumsen,New Oldsville,Dingsda,Troll,Starbucks,Kaiserkarl,Lol Lol",
       "n": "Suggestions"
     },
     {
@@ -42,7 +42,7 @@
     },
     {
       "t": "S",
-      "v": "Wenn du in Neufundland nahe dem Oberlauf des Trinity Bay bist, vergiss nicht, die Stadt mit dem sonderbaren Namen <BLANK> zu besuchen.",
+      "v": "Wenn ihr auf Neufundland seid, denkt daran, das schnuckelige Fischereiörtchen mit dem sonderbaren Namen <BLANK> zu besuchen.",
       "n": "QuestionText"
     },
     {
@@ -52,17 +52,17 @@
     },
     {
       "t": "A",
-      "v": "419729_1",
+      "v": "bumper",
       "n": "BumperAudio"
     },
     {
       "t": "A",
-      "v": "372644_0",
+      "v": "correct",
       "n": "CorrectAudio"
     },
     {
       "t": "A",
-      "v": "372641_1",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

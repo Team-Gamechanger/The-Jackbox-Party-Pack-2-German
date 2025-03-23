@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "eine Villa,ein Autokino,ein Casino,einen UFO-Landeplatz,einen Freizeitpark,ein Bällebad,einen Golfplatz,ein Hard Rock Cafe,eine Autowaschanlage,eine U-Bahn-Station,ein Segelboot,ein Krankenhaus,eine Nachbildung des Eiffelturms,eine riesige Schere,ein Blumenbeet,einen Strand,eine Keksfabrik,eine Seilbahn",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Unter Dach und Fach",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "einen Berg",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Der exzentrische Pekinger Zhang Biqing war fest entschlossen, dass seinem Wohngebäude etwas wichtiges fehlte und baute deshalb auf sein Dach <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "eine Berglandschaft,Berge,ein Gebirge,Gebirge,Berglandschaften,einen Hügel,Hügel",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

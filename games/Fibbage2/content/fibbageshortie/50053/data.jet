@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Kanone,Stier,Konfetti,Sport,Vögel,Lacher,Massage,Schule,Blätter,Flieger,Farbe,Wessi,Ballons,Pflanzen,Füller,Möbel,Hämmer,Nähmaschinen",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "In der Glotze",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Ehe-Ring",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Eine DDR-Spielshow aus den Fünfzigern trägt den kuriosen Namen „<BLANK> frei!“.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Ehering,Hochzeitsring",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

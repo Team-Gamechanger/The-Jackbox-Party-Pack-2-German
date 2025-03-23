@@ -2,7 +2,7 @@
   "fields": [
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasBumperAudio"
     },
     {
@@ -12,7 +12,7 @@
     },
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasCorrectAudio"
     },
     {
@@ -22,12 +22,12 @@
     },
     {
       "t": "S",
-      "v": "Herr der Ringe,Wertmarken,Jahrmärkte,unangenehme Stille,Ohren,Karies,lange Rolltreppenfahrten,Pantomimen,Kiosks im Einkaufszentrum,Tokio,jemanden niesen sehen,eine TV-Sendung zu verpassen,umzukippen,Anime,unsichtbare Männer,öffentlich schwitzen,Koffein,Fremdsprachen",
+      "v": "Herr der Ringe,Pfandautomaten,Jahrmärkte,unangenehme Stille,Ohren,Karies,lange Rolltreppenfahrten,Pantomimen,Kiosks,Tokio,jemanden niesen sehen,eine TV-Sendung zu verpassen,umzukippen,Anime,unsichtbare Männer,öffentlich schwitzen,Koffein,Fremdsprachen",
       "n": "Suggestions"
     },
     {
       "t": "S",
-      "v": "afraid",
+      "v": "Angst",
       "n": "Category"
     },
     {
@@ -47,22 +47,20 @@
     },
     {
       "t": "S",
-      "v": "Geburt",
+      "v": "Geburt,Geburten,Schwangerschaften",
       "n": "AlternateSpellings"
     },
     {
       "t": "A",
-      "v": "null",
       "n": "BumperAudio"
     },
     {
       "t": "A",
-      "v": "430686_0",
       "n": "CorrectAudio"
     },
     {
       "t": "A",
-      "v": "430683_0",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

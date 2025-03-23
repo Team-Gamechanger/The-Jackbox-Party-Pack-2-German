@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "die Ärzte verklagen,erregt werden,einschlafen,nicht mehr sitzen können,„es merkwürdig machen“,sich verlieben,Witze erzählen,neidisch werden,lachen,singen,Juckanfälle kriegen,Fressanfälle kriegen,lustig laufen,Erregt werden,Blähungen kriegen,zu Fluchen anfangen,bluten,übermäßig schwitzen",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Darm-Alarm",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "explodieren",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Im Jahr 2007 schrieb ein französisches Ärzteteam einen Artikel, in dem es Ratschläge für Darmspiegelungen gab, um zu verhindern, dass die Patienten <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "hochgehen,implodieren,in die Luft gehen",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

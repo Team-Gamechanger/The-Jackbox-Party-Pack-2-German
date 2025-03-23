@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Den Schuhen,Der Unterwäsche,Einem Hut,Der Brille,Den Socken,Den Fingernägeln,Den Ohren,Einem Schal,Der Spucke,Dem Hund,Dem Kühlschrank,Der Schwiegermutter,Dem Zahnbelag,Dem Schweiß,Dem Grab,Der Anime-Sammlung,Dem Darm,Dem Aquarium",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Pilzkulturen",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "dem Bart",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Die US-amerikanische Brauerei <i>Rogue Ales</i> hat für ein Bier ihren eigenen Hefestamm entwickelt, der aus <BLANK> des Braumeisters gewonnen wurde.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Dem Gesichtshaar,Dem Schnauzbart,Den Gesichtshaaren,Dem Barthaar,Den Barthaaren,Barthaar,Bart,Gesichtshaar",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

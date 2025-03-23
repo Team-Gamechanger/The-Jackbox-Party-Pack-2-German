@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Basketball,Krocket,Scharade,Boccia,Quiplash,Cards Against Humanity,Mensch ärgere dich nicht,Poker,Twister,Reise nach Jerusalem,Risiko,Wahrheit oder Pflicht,Dart,Minecraft,Volleyball,Schach,Mario Kart,Werwolf",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Royaler Tratsch",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Monopoly",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Prinz Andrew verriet, dass die Royal Family <BLANK> nicht spielen darf, weil es „zu gemein“ wird.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

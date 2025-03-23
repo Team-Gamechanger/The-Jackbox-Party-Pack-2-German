@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "ein Erotikbuch,ein Therapeut,ein sexy Wandkalender,ein auffälliger Hut,Nagellack,Küss-Unterricht,ein Fitnesstrainer,eine Hinternmassage,ein Teller mit Austern,eine pinke Perücke,ein Bierfass,eine erotische Hotline,ein Boxspringbett,Viagra,Yoga-Training,500g Sauerkirschen,Calvin-Klein-Parfüm,eine professionelle Zahnreinigung",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Nashörner",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "ein Tinderprofil",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "In einem Versuch, es zur Paarung zu bewegen, wurde einem kenianischen Breitmaulnashorn namens Sudan <BLANK> gegeben.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "ein Tinder-Profil,Tinderprofil",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

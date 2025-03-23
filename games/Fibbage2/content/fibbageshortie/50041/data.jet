@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Sexualtrieb,Hässliche Banane,Riesige Pistazie,Zahnzerstörer,Mutter,Überteuert,Königshintern,Auge,Heimat,Ekel-Teil,Wurfgeschoss,Brustvergrößerer,Schöne Blüte,Wasserfresser,Patriotismus,Mordwerkzeug,Licht,Riesiger Käfer,Krieg",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Lebensmittel",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Hoden",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Das Wort „Avocado“ stammt aus der Sprache Nahuatl, wo es „<BLANK>“ bedeutet.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Der Hoden,die Hoden,Grüne Hoden,Grüner Hoden",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

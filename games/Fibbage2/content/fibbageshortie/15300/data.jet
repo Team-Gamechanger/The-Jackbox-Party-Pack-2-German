@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Schwimmweste,Fallschirm,Schuh,Notration,Geldbeutel,Kugelsichere Weste,Socke,Defibrillator,Telefon,VR-Brille,Rucksack,Spionagekamera,Aktentasche,Gettoblaster,Müslischüssel,Wassersieb,Granate,Bierzapfanlage",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Neuartige BH-Anwendungen",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Gasmaske",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Dr. Elena Bodnar erfand im Jahr 2009 einen BH, der auch als <BLANK> verwendet werden kann.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Gas Maske,Gas-Maske",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

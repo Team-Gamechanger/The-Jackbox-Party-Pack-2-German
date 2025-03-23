@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "eine Tasse Kaffee,eine Marmorstatue,eine Kerze,einen Flugzeugsitz,die Farbe eines Gemäldes,eine Ottomane,ein Katzenklo,einen Sandkasten,ein Nasenpiercing,ein Kirchenfenster,eine Windmühle,ein Vogelhäuschen,eine Gürtelschnalle,seinen Körper,einen Bh,einen Smartphone-Akku,ein Plüschtier,eine Sanduhr",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Asche zu Asche",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "ein Sexspielzeug",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Der Designer Mark Sturkenboom möchte einem beim Gedenken an einen geliebten Menschen helfen, indem er 21 Gramm der Asche des Verstorbenen in <BLANK> füllt.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "einen Dildo,ein Dildo,Dildos,Sexspielzeuge,einen Vibrator,Vibratoren",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

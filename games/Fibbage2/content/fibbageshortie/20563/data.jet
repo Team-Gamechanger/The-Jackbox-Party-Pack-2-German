@@ -2,7 +2,7 @@
   "fields": [
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasBumperAudio"
     },
     {
@@ -22,17 +22,17 @@
     },
     {
       "t": "S",
-      "v": "fliegen können,hungrig werden,Wasser trinken müssen,zusammenbrechen,sterben,sich paaren,kacken müssen,erbrechen müssen,sich in einen Geist verwandeln,den Besitzer anmachen,furzen,schlafen müssen,verrückt werden, etwas töten wollen,ausrutschen,Kopfschmerzen kriegen,aggressiv werden,verschwinden",
+      "v": "fliegen kann,hungrig wird,Wasser trinken muss,zusammenbricht,stirbt,sich paart,kacken muss,erbrechen muss,sich in einen Geist verwandelt,den Besitzer anschreit,furzt,schlafen muss,verrückt wird, etwas töten will,ausrutscht,Kopfschmerzen kriegt,aggressiv wird,verschwindet",
       "n": "Suggestions"
     },
     {
       "t": "S",
-      "v": "Rentier",
+      "v": "Einheit",
       "n": "Category"
     },
     {
       "t": "S",
-      "v": "pinkeln müssen",
+      "v": "pinkeln muss",
       "n": "CorrectText"
     },
     {
@@ -42,27 +42,26 @@
     },
     {
       "t": "S",
-      "v": "Die Finnen haben einen Begriff, der “Poronkusema” genannt wird, was ungefähr bedeutet, wie weit Rentiere laufen können, bevor sie <BLANK>.",
+      "v": "Die Finnen haben einen Längenmaß namens “Poronkusema”, das angibt, wie weit ein Rentier ungefähr laufen kann, bevor es <BLANK>.",
       "n": "QuestionText"
     },
     {
       "t": "S",
-      "v": "urinieren müssen,pissen müssen",
+      "v": "urinieren muss,pissen muss,Wasserlassen muss,Wasser lassen muss,",
       "n": "AlternateSpellings"
     },
     {
       "t": "A",
-      "v": "null",
       "n": "BumperAudio"
     },
     {
       "t": "A",
-      "v": "null",
+      "v": "correct",
       "n": "CorrectAudio"
     },
     {
       "t": "A",
-      "v": "400388_0",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

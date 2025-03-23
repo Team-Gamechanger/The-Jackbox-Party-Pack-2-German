@@ -12,7 +12,7 @@
     },
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasCorrectAudio"
     },
     {
@@ -22,7 +22,7 @@
     },
     {
       "t": "S",
-      "v": "aromatisierte Asche,Hautflocken,Augen,Geist,abgetrennte Daumen,Weisheitszähne,Lippen,Hypophyse,Augäpfel,kleinen Zeh,weisse Blutkörperchen,Katze,entfernte Warze,Klavier,Fingernagelreste,Gehirn,Perücke,dreckige Socken",
+      "v": "aromatisierte Asche,Hautflocken,Wimpern,Tränen,abgetrennten Daumen,Weisheitszähnen,Lippen,verlorenem Ehering,Augäpfeln,kleinem Zeh,weißen Blutkörperchen,Katze,entfernter Warze,Klavier,Fingernagelresten,Gehirn,Perücke,dreckigen Socken",
       "n": "Suggestions"
     },
     {
@@ -32,7 +32,7 @@
     },
     {
       "t": "S",
-      "v": "letzten Atemzug",
+      "v": "letztem Atemzug",
       "n": "CorrectText"
     },
     {
@@ -42,27 +42,26 @@
     },
     {
       "t": "S",
-      "v": "Steig in dein Auto und besuche das Henry Ford Museum in Detroit, in dem es eine Phiole gibt, die Thomas Edison’s <BLANK> enthält.",
+      "v": "Steigt ins Flugzeug und besucht das Henry Ford Museum in Detroit, in dem ein Fläschchen mit Thomas Edisons <BLANK> ausgestellt ist.",
       "n": "QuestionText"
     },
     {
       "t": "S",
-      "v": "Atemzug,finalen Atemzug",
+      "v": "letzten Atemzug,letzter Atemzug,letzter Atem,letzten Atem,letztem Atem",
       "n": "AlternateSpellings"
     },
     {
       "t": "A",
-      "v": "415217_0",
+      "v": "bumper",
       "n": "BumperAudio"
     },
     {
       "t": "A",
-      "v": "null",
       "n": "CorrectAudio"
     },
     {
       "t": "A",
-      "v": "415212_0",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

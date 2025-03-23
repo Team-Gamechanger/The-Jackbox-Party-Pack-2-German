@@ -22,12 +22,12 @@
     },
     {
       "t": "S",
-      "v": "David Bowie,eine Krawatte,auf Zeitreise,in einer Schneekugel,ein Fisch,ein Engel,ein Athlet,ein Schwein,ein Zombie,ein Bankangestellter,ein Alien,ein Computerprogramm,ein Cowboy,ein Roboter,wieder ein Kind,kugelsicher,ein Segler,eine Ente",
+      "v": "David Bowie,eine Wolke,auf Zeitreise,in einer Schneekugel,eine Kartoffel,ein Engel,ein Athlet,ein Schwein,ein Zombie,ein Radiergummi,ein Alien,ein Computerprogramm,ein Cowboy,eine Büroklammer,wieder ein Kind,kugelsicher,ein Segler,eine Ente",
       "n": "Suggestions"
     },
     {
       "t": "S",
-      "v": "believe",
+      "v": "Glaube",
       "n": "Category"
     },
     {
@@ -42,7 +42,7 @@
     },
     {
       "t": "S",
-      "v": "Wer an der Krankheit “Boanthrophie” leidet, glaubt, dass er in Wirklichkeit <BLANK> ist.",
+      "v": "Wer an der Krankheit „Boanthrophie“ leidet, glaubt, dass er in Wirklichkeit <BLANK> ist.",
       "n": "QuestionText"
     },
     {
@@ -52,17 +52,17 @@
     },
     {
       "t": "A",
-      "v": "418706_0",
+      "v": "bumper",
       "n": "BumperAudio"
     },
     {
       "t": "A",
-      "v": "397235_0",
+      "v": "correct",
       "n": "CorrectAudio"
     },
     {
       "t": "A",
-      "v": "397232_0",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

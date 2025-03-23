@@ -12,7 +12,7 @@
     },
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasCorrectAudio"
     },
     {
@@ -22,12 +22,12 @@
     },
     {
       "t": "S",
-      "v": "im Gefängnis zu sein,das andere Geschlecht zu sein,Raumfahrer zu sein,im Erdkern zu sein,geboren zu werden,auf LSD zu sein,wenn Aliens angreifen,Superkräfte zu haben,im antiken Rom zu leben,entführt zu werden,Sex mit sich selbst zu haben,öffentlich nackt zu sein,eine Rede zu halten,ein Präsident zu sein,eine Berühmtheit zu sein,ein Hund zu sein,den Meerboden zu erkunden,ein Baby zu sein",
+      "v": "im Gefängnis zu sein,von einem Dinosaurier gefressen zu werden,Raumfahrer zu sein,als Briefmarke verschickt zu werden,geboren zu werden,auf LSD zu sein,wenn Aliens angreifen,Superkräfte zu haben,im antiken Rom zu leben,entführt zu werden,als Mikrobe zu leben,öffentlich nackt zu sein,als Pizzabelag serviert zu werden,in einer Zeitschleife gefangen zu sein,als Schneeflocke zu schmelzen,ein Hund zu sein,den Meeresboden zu erkunden,ein Baby zu sein",
       "n": "Suggestions"
     },
     {
       "t": "S",
-      "v": "simulator",
+      "v": "Simulatoren",
       "n": "Category"
     },
     {
@@ -42,27 +42,26 @@
     },
     {
       "t": "S",
-      "v": "Suchst du nach einem Ausflugsort? Besuche den Window of the World Freizeitpark im chinesischen Shenzhen. Dort gibt es das Samadhi Game, das simuliert, wie es ist, <BLANK>.",
+      "v": "Auf der Suche nach einem Ausflugsziel? Besucht den Vergnügungspark <i>Window of the World</i> in Shenzhen, China. Dort gibt es das „Samadhi Game“, das simuliert, wie es sich anfühlt, <BLANK>.",
       "n": "QuestionText"
     },
     {
       "t": "S",
-      "v": "wenn du beerdigt wirst",
+      "v": "beerdigt zu werden",
       "n": "AlternateSpellings"
     },
     {
       "t": "A",
-      "v": "426898_1",
+      "v": "bumper",
       "n": "BumperAudio"
     },
     {
       "t": "A",
-      "v": "null",
       "n": "CorrectAudio"
     },
     {
       "t": "A",
-      "v": "407872_1",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

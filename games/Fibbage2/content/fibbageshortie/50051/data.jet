@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Reiseübelkeit,Schlafmangel,Koffeinsucht,Schlechtes Wlan,Fischgestank,Uringeruch in der U-Bahn,Blähungen,Fettiges Haar,Ohrwürmer,Sodbrennen,die Farbe von Vogelkot,Laktoseintoleranz,graues Haar nicht,die Farbe von Katzen-Erbrochenem,den Geruch von Skittles,den Geschmack von Periodenblut,die Produktion von Ohrenschmalz,die Farbe von Rückenhaaren",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Japanische Studien",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Fußgeruch",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Im Jahr 1990 veröffentlichte das Shiseido Research Center die Studie „Erläuterung von chemischen Verbindungen, die für <BLANK> verantwortlich sind“.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Schweißfüße,Schweißfuß,Schweissfüsse,Schweissfuss,den Fußgeruch,Fussgeruch,den Fussgeruch,Fussgerüche,Fußgerüche,Käsefüße,den Käsefuß,Käsefüsse,den Käsefuss,stinkende Füße,stinkende Füsse",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

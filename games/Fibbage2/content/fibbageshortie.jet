@@ -3,285 +3,15 @@
   "content": [
     {
       "x": false,
-      "id": 17809,
-      "category": "hockey",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 17811,
-      "category": "schmuggeln",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 17815,
-      "category": "psychiatrisch",
-      "bumper": "StrangeAilments"
-    },
-    {
-      "x": false,
-      "id": 17820,
-      "category": "Barker",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 17821,
-      "category": "Maskottchen",
-      "bumper": ""
-    },
-    {
-      "x": false,
       "id": 17822,
       "category": "Neufundland",
       "bumper": "Roadtrip"
     },
     {
       "x": false,
-      "id": 17827,
-      "category": "Verletzungen",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 17829,
-      "category": "Florida",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 17834,
-      "category": "Bürgermeister",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 17835,
-      "category": "Dach",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 17841,
-      "category": "pranks",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 17842,
-      "category": "greyhound",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 17845,
-      "category": "Lunge",
-      "bumper": "StrangeAilments"
-    },
-    {
-      "x": false,
-      "id": 17847,
-      "category": "betrunken",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 17850,
-      "category": "Rezepte",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 17855,
-      "category": "Zirkus",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 17859,
-      "category": "Gerüche",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 17957,
-      "category": "Angst",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 18002,
-      "category": "offiziell ",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 18003,
-      "category": "band",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 18004,
-      "category": "Stoff",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 18020,
-      "category": "Notiz",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 18058,
-      "category": "Larry",
-      "bumper": "SayWhat"
-    },
-    {
-      "x": false,
-      "id": 18076,
-      "category": "NASA",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 18133,
-      "category": "verderben",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 18143,
-      "category": "Vermont",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 18154,
-      "category": "Nazis",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 18165,
-      "category": "Rezessionen",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 18168,
-      "category": "Zecke",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 18178,
-      "category": "Frisör ",
-      "bumper": ""
-    },
-    {
-      "x": false,
       "id": 18184,
-      "category": "McLean",
+      "category": "Museum",
       "bumper": "Roadtrip"
-    },
-    {
-      "x": false,
-      "id": 18193,
-      "category": "baby",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 18201,
-      "category": "Mario und Luigi",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 18208,
-      "category": "Kellner",
-      "bumper": "Roadtrip"
-    },
-    {
-      "x": false,
-      "id": 18249,
-      "category": "Hochzeit",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 18276,
-      "category": "Rihanna",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 18305,
-      "category": "aus",
-      "bumper": "StrangeAilments"
-    },
-    {
-      "x": false,
-      "id": 18320,
-      "category": "experiment",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 18324,
-      "category": "winzig",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 18346,
-      "category": "Spa",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 18349,
-      "category": "tauschen",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 18366,
-      "category": "immun ",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 18380,
-      "category": "Huhn",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 18399,
-      "category": "tequila ",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 18401,
-      "category": "Peppa Pig",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 18440,
-      "category": "Smith",
-      "bumper": "SayWhat"
-    },
-    {
-      "x": false,
-      "id": 18448,
-      "category": "Oregon",
-      "bumper": ""
     },
     {
       "x": false,
@@ -291,224 +21,1220 @@
     },
     {
       "x": false,
-      "id": 18487,
-      "category": "Playmobil",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 18488,
-      "category": "Zahnärzte",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 18491,
-      "category": "Runde",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 18492,
-      "category": "Aktivist",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 18493,
-      "category": "Kathedrale",
-      "bumper": ""
-    },
-    {
-      "x": false,
       "id": 18494,
-      "category": "ski",
+      "category": "Chinchilla",
       "bumper": "Roadtrip"
     },
     {
       "x": false,
-      "id": 18495,
-      "category": "Wohltätigkeit",
+      "id": 18980,
+      "category": "Wahrzeichen",
+      "bumper": "Roadtrip"
+    },
+    {
+      "x": false,
+      "id": 19472,
+      "category": "Ortschaften",
+      "bumper": "Roadtrip"
+    },
+    {
+      "x": false,
+      "id": 19500,
+      "category": "Bäume",
+      "bumper": "Roadtrip"
+    },
+    {
+      "x": false,
+      "id": 19542,
+      "category": "Amtsträger",
+      "bumper": "Roadtrip"
+    },
+    {
+      "x": false,
+      "id": 21550,
+      "category": "Simulatoren",
+      "bumper": "Roadtrip"
+    },
+    {
+      "x": false,
+      "id": 23583,
+      "category": "Wahre Größe",
+      "bumper": "Roadtrip"
+    },
+    {
+      "x": false,
+      "id": 23618,
+      "category": "Thomas Edison",
+      "bumper": "Roadtrip"
+    },
+    {
+      "x": false,
+      "id": 23643,
+      "category": "Galileo",
+      "bumper": "Roadtrip"
+    },
+    {
+      "x": false,
+      "id": 24699,
+      "category": "Wettbewerb",
+      "bumper": "Roadtrip"
+    },
+    {
+      "x": false,
+      "id": 17815,
+      "category": "Echt krank!",
+      "bumper": "StrangeAilments"
+    },
+    {
+      "x": false,
+      "id": 17845,
+      "category": "Lunge",
+      "bumper": "StrangeAilments"
+    },
+    {
+      "x": false,
+      "id": 18305,
+      "category": "Ängste",
+      "bumper": "StrangeAilments"
+    },
+    {
+      "x": false,
+      "id": 19508,
+      "category": "Gesundheit!",
+      "bumper": "StrangeAilments"
+    },
+    {
+      "x": false,
+      "id": 20425,
+      "category": "Glaube",
+      "bumper": "StrangeAilments"
+    },
+    {
+      "x": false,
+      "id": 21418,
+      "category": "Pioniere",
+      "bumper": "StrangeAilments"
+    },
+    {
+      "x": false,
+      "id": 21551,
+      "category": "Königlich",
+      "bumper": "StrangeAilments"
+    },
+    {
+      "x": false,
+      "id": 24683,
+      "category": "Angst und Bange",
+      "bumper": "StrangeAilments"
+    },
+    {
+      "x": false,
+      "id": 50300,
+      "category": "Lustige Ausflüge",
+      "bumper": "Roadtrip"
+    },
+    {
+      "x": false,
+      "id": 50301,
+      "category": "Postamt",
+      "bumper": "Roadtrip"
+    },
+    {
+      "x": false,
+      "id": 50302,
+      "category": "Kathedralen",
+      "bumper": "Roadtrip"
+    },
+    {
+      "x": false,
+      "id": 50303,
+      "category": "Zäune",
+      "bumper": "Roadtrip"
+    },
+    {
+      "x": false,
+      "id": 50304,
+      "category": "Sakralbau",
+      "bumper": "Roadtrip"
+    },
+    {
+      "x": false,
+      "id": 50305,
+      "category": "Zimmer frei",
+      "bumper": "Roadtrip"
+    },
+    {
+      "x": false,
+      "id": 50306,
+      "category": "Weitwurf",
+      "bumper": "Roadtrip"
+    },
+    {
+      "x": false,
+      "id": 50307,
+      "category": "Schwester Rabiata",
+      "bumper": "StrangeAilments"
+    },
+    {
+      "x": false,
+      "id": 50308,
+      "category": "Überwältigend",
+      "bumper": "StrangeAilments"
+    },
+    {
+      "x": false,
+      "id": 50309,
+      "category": "Panik",
+      "bumper": "StrangeAilments"
+    },
+    {
+      "x": false,
+      "id": 14337,
+      "category": "Übermenschliche Kräfte",
       "bumper": ""
     },
     {
       "x": false,
-      "id": 18496,
-      "category": "Schokolade",
+      "id": 14344,
+      "category": "Kanadischer Alkohol",
       "bumper": ""
     },
     {
       "x": false,
-      "id": 18497,
-      "category": "outfit",
+      "id": 14379,
+      "category": "Hello Kitty",
       "bumper": ""
     },
     {
       "x": false,
-      "id": 18498,
-      "category": "synthetisch ",
+      "id": 14390,
+      "category": "Gefängnisausstattungen",
       "bumper": ""
     },
     {
       "x": false,
-      "id": 18501,
-      "category": "sexiest",
+      "id": 14408,
+      "category": "Indische Seifenopern",
       "bumper": ""
     },
     {
       "x": false,
-      "id": 18507,
-      "category": "billig",
+      "id": 14421,
+      "category": "Hausierer",
       "bumper": ""
     },
     {
       "x": false,
-      "id": 18515,
-      "category": "Cash",
+      "id": 14440,
+      "category": "Schwedische Namensgebung",
       "bumper": ""
     },
     {
       "x": false,
-      "id": 18605,
-      "category": "Flaschen ",
+      "id": 14725,
+      "category": "Einspruch",
       "bumper": ""
     },
     {
       "x": false,
-      "id": 18612,
-      "category": "dating",
+      "id": 14851,
+      "category": "Neues vom Patentamt",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 14892,
+      "category": "Pilzkulturen",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 15300,
+      "category": "Neuartige BH-Anwendungen",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 15369,
+      "category": "Mieten in Japan",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 15391,
+      "category": "Unaussprechliches Grauen",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 15434,
+      "category": "Oper",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 15625,
+      "category": "Offizielle Statements",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 15629,
+      "category": "Öffentliche Gesundheit",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 15745,
+      "category": "Badehosen",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 15795,
+      "category": "Kleine Helferlein",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 15962,
+      "category": "Einkaufsbummel",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 16005,
+      "category": "<i>Google</i>",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 16086,
+      "category": "Schuldig",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 17824,
+      "category": "Immer diese Amis",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 17832,
+      "category": "Auf Verhandlungsbasis",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 18227,
+      "category": "Kinder-Transport",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 18314,
+      "category": "G'schichten aus dem Tiergarten",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 18772,
+      "category": "Orgasmen",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 18987,
+      "category": "Drogenverstecke",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 18991,
+      "category": "Unglückliche Einbrüche",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 19195,
+      "category": "Reiner Wein",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 19350,
+      "category": "Verhütungsmittel",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 19399,
+      "category": "Experimente",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 19408,
+      "category": "Heringe",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 19411,
+      "category": "Scheintod",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 19413,
+      "category": "Freund und Helfer",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 19414,
+      "category": "Inzucht",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 19435,
+      "category": "Sexualkunde",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 19453,
+      "category": "Heldenhaft",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 19454,
+      "category": "Schwer verwundet",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 19488,
+      "category": "Fast Food",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 19514,
+      "category": "Superman",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 19550,
+      "category": "Kreuzzug in Prag",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 19552,
+      "category": "Hochzeitsdrama",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 19616,
+      "category": "Geheimes Gold",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 20371,
+      "category": "Bewusstsein",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 20434,
+      "category": "Laufband",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 20437,
+      "category": "<i>Herr der Ringe</i>",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 20489,
+      "category": "Frustrierte Käfer",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 20599,
+      "category": "Premierminister",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 21419,
+      "category": "Asche zu Asche",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 21460,
+      "category": "Zahnmedizin",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 21474,
+      "category": "Babyartikel",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 21596,
+      "category": "Definitionen",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 21606,
+      "category": "<i>Facebook</i>-Wettbewerbe",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 23599,
+      "category": "Olympische Spiele",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 23613,
+      "category": "Haut",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 23646,
+      "category": "Diktator-Schönheitsroutine",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 24807,
+      "category": "Wissenschaftliche Erkenntnisse",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 25740,
+      "category": "Aberglaube",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 43231,
+      "category": "Nebenwirkungen",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 43232,
+      "category": "Kleintiere",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 43239,
+      "category": "Stoßgebete",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 43242,
+      "category": "Nicht schießen!",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 43253,
+      "category": "Notlandung",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 43254,
+      "category": "Brathähnchen",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 43256,
+      "category": "Schweinereien",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 43265,
+      "category": "„Wichtige“ Forschung",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 43329,
+      "category": "Unterbekleidung",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 43337,
+      "category": "Sicherheit geht vor",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 43352,
+      "category": "Unter Dach und Fach",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 43354,
+      "category": "Tierreich",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 43367,
+      "category": "Der Mais ist heiß",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 43370,
+      "category": "Wiener Elefanten",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 43373,
+      "category": "Harte Nüsse",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 43374,
+      "category": "Kinderschmuck",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 43420,
+      "category": "Genetik",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 43424,
+      "category": "Komponisten",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 43428,
+      "category": "ABBA-Garderobe",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 43455,
+      "category": "Harte Arbeit",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 43470,
+      "category": "Alte Brettspiele",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 43474,
+      "category": "Wahrsager",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 43520,
+      "category": "Zeitlose Partys",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 43524,
+      "category": "Legalisierung",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 43525,
+      "category": "Schnäppchenjäger",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 43537,
+      "category": "Auktionsschätze",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 43539,
+      "category": "Selbstverteidigung",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 43543,
+      "category": "Internetrezensionen",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 43545,
+      "category": "Carepakete",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 43548,
+      "category": "Staatsmänner",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 43549,
+      "category": "Kanadische Gerüche",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 43561,
+      "category": "Befriedigung",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 43567,
+      "category": "Isländische Kontroversen",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 43570,
+      "category": "Royaler Tratsch",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 43691,
+      "category": "Bierisch gut",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 43719,
+      "category": "Klein aber fein",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 43841,
+      "category": "Besondere Vorlieben",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 43898,
+      "category": "Uranus",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 43924,
+      "category": "Schwedische Verbrechen",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 43932,
+      "category": "Kleine Inselstaaten",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 43934,
+      "category": "Stammbäume",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 43950,
+      "category": "Zigaretten",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 43961,
+      "category": "Blutrünstige Prinzessinnen",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 43968,
+      "category": "<i>Star Trek</i>",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 43969,
+      "category": "Entspannung",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 43970,
+      "category": "Spanische Schmuggler",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 44008,
+      "category": "Auf der Flucht",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 44100,
+      "category": "Münchener Anfälle",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 44121,
+      "category": "Polnische Winter",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 44150,
+      "category": "„Allergien“",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 44244,
+      "category": "Verbesserungen",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 44264,
+      "category": "Mitteleuropa-Rekorde",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 44265,
+      "category": "Finnland",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 44286,
+      "category": "Königliche Statuen",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 44294,
+      "category": "Exotisch",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 44310,
+      "category": "Diebstahlschutz",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 44318,
+      "category": "Wal-Qual",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 44323,
+      "category": "Warenautomaten",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 44328,
+      "category": "Erwischt!",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 44347,
+      "category": "Wilderei",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 44352,
+      "category": "Liebe",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 44390,
+      "category": "Fundstücke",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 44399,
+      "category": "Tiefe Wunden",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 44488,
+      "category": "Satte Ratte",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 44531,
+      "category": "Schildkröten",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 44540,
+      "category": "Antiker Buddhismus",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 44555,
+      "category": "Antikes Griechenland",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 44559,
+      "category": "Marketing-Stunts",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 44563,
+      "category": "Grabgeheimnisse",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 44568,
+      "category": "Pflichtlektüren",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 44571,
+      "category": "Finnisches Militär",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 44598,
+      "category": "Philippinen",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 44603,
+      "category": "Heilender Wein",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 44607,
+      "category": "Teurer Trank",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 44612,
+      "category": "Verbote",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 44641,
+      "category": "Raum",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 44694,
+      "category": "Persönlichkeiten",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 44698,
+      "category": "Darm-Alarm",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 44699,
+      "category": "Brandschutz",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 44756,
+      "category": "Guter Zweck",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 44777,
+      "category": "Geschäftsideen",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 44809,
+      "category": "Waren-Rückrufe",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 44826,
+      "category": "Barbie",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 44864,
+      "category": "Nashörner",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 44895,
+      "category": "Alligatoren",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 44900,
+      "category": "Geldsorgen",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 44906,
+      "category": "Gute Küche",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 45005,
+      "category": "Dänische Singles",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 45006,
+      "category": "Japanische Feste",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 45038,
+      "category": "Pferdechirurgie",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 45043,
+      "category": "NASA",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 45059,
+      "category": "Studentenleben",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 45064,
+      "category": "Kühne Kleinstädte",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 45106,
+      "category": "Super Duper",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 45108,
+      "category": "Voll in Form!",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 45111,
+      "category": "Geheimnisse",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 45147,
+      "category": "Königliche Titel",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 45223,
+      "category": "Multifunktional",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 45232,
+      "category": "Billiard",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 45243,
+      "category": "Schwanger!",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 45247,
+      "category": "Viagra",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 45272,
+      "category": "Gesetze aus Übersee",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 45339,
+      "category": "Disney",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 45353,
+      "category": "Fitness-Tricks",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 45677,
+      "category": "Hochzeitstraditionen",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 45923,
+      "category": "Entdeckungen",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 46109,
+      "category": "Akrobaten",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 46112,
+      "category": "Baby-Schule",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 46120,
+      "category": "Üble Metaphern",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 46174,
+      "category": "Minecraft",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 46956,
+      "category": "Porno-Suchen",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 47878,
+      "category": "Bodenanalysen",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 48467,
+      "category": "Schottische Slogans",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 18324,
+      "category": "Winzig",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 18380,
+      "category": "Hühner",
       "bumper": ""
     },
     {
       "x": false,
       "id": 18613,
-      "category": "Umschwung",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 18642,
-      "category": "fischen",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 18671,
-      "category": "sport",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 18715,
-      "category": "allergisch",
-      "bumper": "StrangeAilments"
-    },
-    {
-      "x": false,
-      "id": 18717,
-      "category": "Granate",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 18719,
-      "category": "Kampagne",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 18727,
-      "category": "Shrapnel",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 18729,
-      "category": "Geheimnis",
-      "bumper": "SayWhat"
-    },
-    {
-      "x": false,
-      "id": 18757,
-      "category": "knien",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 18761,
-      "category": "Batman",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 18763,
-      "category": "Ziegen",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 18765,
-      "category": "Kohlensäure ",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 18768,
-      "category": "Rucksack",
+      "category": "Wahlk(r)ampf",
       "bumper": ""
     },
     {
       "x": false,
       "id": 18773,
-      "category": "Mode",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 18792,
-      "category": "gälisch",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 18798,
-      "category": "Kreme",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 18812,
-      "category": "BonBon",
-      "bumper": "Roadtrip"
-    },
-    {
-      "x": false,
-      "id": 18842,
-      "category": "Mönche",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 18845,
-      "category": "Auktion",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 18851,
-      "category": "Pferde",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 18853,
-      "category": "Wunder",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 18907,
-      "category": "Chef",
+      "category": "Chic",
       "bumper": ""
     },
     {
@@ -519,1088 +1245,104 @@
     },
     {
       "x": false,
-      "id": 18953,
-      "category": "sammeln ",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 18954,
-      "category": "Einbruch",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 18968,
-      "category": "party",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 18980,
-      "category": "Vent",
-      "bumper": "Roadtrip"
-    },
-    {
-      "x": false,
-      "id": 18985,
-      "category": "Clooney",
-      "bumper": ""
-    },
-    {
-      "x": false,
       "id": 18986,
       "category": "Loch Ness",
       "bumper": ""
     },
     {
       "x": false,
-      "id": 18988,
-      "category": "essen",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 18993,
-      "category": "Peter",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 18994,
-      "category": "Supermarkt",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 19002,
-      "category": "marshals",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 19023,
-      "category": "Diebstahl",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 19144,
-      "category": "Scheidung",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 19146,
-      "category": "riesig",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 19148,
-      "category": "Papst",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 19151,
-      "category": "TripAdvisor",
-      "bumper": "Roadtrip"
-    },
-    {
-      "x": false,
-      "id": 19152,
-      "category": "hänseln",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 19165,
-      "category": "erstochen",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 19172,
-      "category": "Verlosung",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 19193,
-      "category": "Büro",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 19200,
-      "category": "Cambridge",
-      "bumper": ""
-    },
-    {
-      "x": false,
       "id": 19227,
-      "category": "Bier",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 19263,
-      "category": "Maya",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 19276,
-      "category": "Bunyan",
-      "bumper": "Roadtrip"
-    },
-    {
-      "x": false,
-      "id": 19295,
-      "category": "Eisenbahn",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 19334,
-      "category": "Zähne",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 19360,
-      "category": "Abschlussball",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 19365,
-      "category": "Roman",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 19367,
-      "category": "bank",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 19368,
-      "category": "workshop",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 19370,
-      "category": "Brust",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 19372,
-      "category": "eBay",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 19374,
-      "category": "Pinguine",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 19379,
-      "category": "Drogenboss",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 19382,
-      "category": "Gehweg ",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 19385,
-      "category": "Fetisch",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 19390,
-      "category": "Werbung",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 19403,
-      "category": "Nummernschild",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 19404,
-      "category": "Anreiz",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 19406,
-      "category": "Römer",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 19407,
-      "category": "Heidi ",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 19409,
-      "category": "Antarktis",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 19410,
-      "category": "Krieg",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 19421,
-      "category": "Rocky",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 19422,
-      "category": "Geschmack",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 19423,
-      "category": "Einsamkeit",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 19424,
-      "category": "feiern",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 19425,
-      "category": "Putin",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 19433,
-      "category": "Christopher Walken",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 19440,
-      "category": "Kickstarter",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 19441,
-      "category": "Hobbys",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 19447,
-      "category": "Elefanten",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 19449,
-      "category": "Kanaren",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 19452,
-      "category": "Abwehr",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 19461,
-      "category": "vermeiden",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 19462,
-      "category": "Farbe",
+      "category": "Braukunst",
       "bumper": ""
     },
     {
       "x": false,
       "id": 19465,
-      "category": "Achseln",
+      "category": "Achsel-Liebe",
       "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 19466,
-      "category": "Tyra",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 19468,
-      "category": "Vorschule",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 19469,
-      "category": "Finnland",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 19472,
-      "category": "35",
-      "bumper": "Roadtrip"
     },
     {
       "x": false,
       "id": 19478,
-      "category": "stricken",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 19483,
-      "category": "Ohr",
-      "bumper": "StrangeAilments"
-    },
-    {
-      "x": false,
-      "id": 19484,
-      "category": "sechzig",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 19487,
-      "category": "Heirat",
+      "category": "Strickkunst",
       "bumper": ""
     },
     {
       "x": false,
       "id": 19489,
-      "category": "30%",
+      "category": "Drittel",
       "bumper": ""
     },
     {
       "x": false,
       "id": 19494,
-      "category": "unbegrenzt",
+      "category": "Endlos",
       "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 19495,
-      "category": "Nic Cage",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 19497,
-      "category": "Pud",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 19500,
-      "category": "Baum",
-      "bumper": "Roadtrip"
     },
     {
       "x": false,
       "id": 19506,
-      "category": "Vasektomie ",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 19508,
-      "category": "Allergie",
-      "bumper": "StrangeAilments"
-    },
-    {
-      "x": false,
-      "id": 19509,
-      "category": "polnisch",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 19511,
-      "category": "Archäologen",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 19512,
-      "category": "wrestling",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 19513,
-      "category": "Deen",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 19515,
-      "category": "Markt",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 19518,
-      "category": "One Direction",
-      "bumper": "SayWhat"
-    },
-    {
-      "x": false,
-      "id": 19523,
-      "category": "geschädigt",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 19525,
-      "category": "britisch",
-      "bumper": "Roadtrip"
-    },
-    {
-      "x": false,
-      "id": 19528,
-      "category": "Jugendherberge",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 19532,
-      "category": "Schwarzenegger",
-      "bumper": "SayWhat"
-    },
-    {
-      "x": false,
-      "id": 19539,
-      "category": "Kerzen",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 19542,
-      "category": "Nebraska",
-      "bumper": "Roadtrip"
-    },
-    {
-      "x": false,
-      "id": 19543,
-      "category": "LOST",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 19547,
-      "category": "smoothies",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 19554,
-      "category": "Strom",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 19558,
-      "category": "Suspendierung",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 19560,
-      "category": "Fetische",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 19563,
-      "category": "Michigan",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 19567,
-      "category": "Orchidee",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 19569,
-      "category": "Spitzname",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 19580,
-      "category": "speed-dating",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 19596,
-      "category": "peas",
-      "bumper": "SayWhat"
-    },
-    {
-      "x": false,
-      "id": 19621,
-      "category": "Madagaskar",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 19622,
-      "category": "104",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 19630,
-      "category": "Frauen",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 19631,
-      "category": "nackt",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 19634,
-      "category": "vorgeben",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 19637,
-      "category": "station",
-      "bumper": "Roadtrip"
-    },
-    {
-      "x": false,
-      "id": 19640,
-      "category": "911",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 19651,
-      "category": "Ratten",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 19658,
-      "category": "Jamaikaner",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 19662,
-      "category": "Franco",
-      "bumper": "SayWhat"
-    },
-    {
-      "x": false,
-      "id": 19664,
-      "category": "Delfin",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 19667,
-      "category": "Syndrom",
-      "bumper": "StrangeAilments"
-    },
-    {
-      "x": false,
-      "id": 20368,
-      "category": "Keanu",
-      "bumper": "SayWhat"
-    },
-    {
-      "x": false,
-      "id": 20374,
-      "category": "Eis",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 20376,
-      "category": "Debatte",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 20377,
-      "category": "cool",
-      "bumper": "SayWhat"
-    },
-    {
-      "x": false,
-      "id": 20380,
-      "category": "Armbanduhr",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 20381,
-      "category": "birthmark",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 20386,
-      "category": "Castro",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 20387,
-      "category": "moonwalker",
+      "category": "Vasektomien",
       "bumper": ""
     },
     {
       "x": false,
       "id": 20391,
-      "category": "beauty",
+      "category": "Natürliche Schönheit",
       "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 20393,
-      "category": "Sinatra",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 20396,
-      "category": "prank",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 20402,
-      "category": "hard",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 20403,
-      "category": "unknown",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 20409,
-      "category": "mansion",
-      "bumper": "Roadtrip"
-    },
-    {
-      "x": false,
-      "id": 20410,
-      "category": "High",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 20412,
-      "category": "plea",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 20415,
-      "category": "digital art",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 20417,
-      "category": "teenagers",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 20423,
-      "category": "alone",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 20425,
-      "category": "believe",
-      "bumper": "StrangeAilments"
     },
     {
       "x": false,
       "id": 20428,
-      "category": "Science",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 20431,
-      "category": "defecating",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 20446,
-      "category": "Vancouver ",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 20448,
-      "category": "soap opera",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 20449,
-      "category": "Free Stuff",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 20450,
-      "category": "marathon",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 20453,
-      "category": "drinking",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 20458,
-      "category": "weird",
-      "bumper": "SayWhat"
-    },
-    {
-      "x": false,
-      "id": 20461,
-      "category": "Sex",
+      "category": "Wissenschaft",
       "bumper": ""
     },
     {
       "x": false,
       "id": 20468,
-      "category": "three",
+      "category": "Rekordverdächtig",
       "bumper": ""
     },
     {
       "x": false,
       "id": 20470,
-      "category": "Decisions",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 20471,
-      "category": "masquerade ",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 20473,
-      "category": "purgatory",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 20483,
-      "category": "hungry",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 20484,
-      "category": "future",
+      "category": "Entscheidungen",
       "bumper": ""
     },
     {
       "x": false,
       "id": 20485,
-      "category": "Catalonia",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 20498,
-      "category": "air",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 20499,
-      "category": "dolls",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 20502,
-      "category": "operation",
+      "category": "Feliz Navidad",
       "bumper": ""
     },
     {
       "x": false,
       "id": 20504,
-      "category": "WD-40",
+      "category": "<i>WD-40</i>",
       "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 20505,
-      "category": "cocktail",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 20506,
-      "category": "Tyson",
-      "bumper": "SayWhat"
     },
     {
       "x": false,
       "id": 20511,
-      "category": "coma",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 20515,
-      "category": "substance",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 20523,
-      "category": "Beastie",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 20524,
-      "category": "Finnland",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 20527,
-      "category": "Schweine",
+      "category": "Koma",
       "bumper": ""
     },
     {
       "x": false,
       "id": 20531,
-      "category": "Wal",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 20534,
-      "category": "Lieferwagen",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 20536,
-      "category": "sex",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 20553,
-      "category": "100",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 20554,
-      "category": "Island",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 20555,
-      "category": "Türkei",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 20559,
-      "category": "IRS",
+      "category": "Alter",
       "bumper": ""
     },
     {
       "x": false,
       "id": 20563,
-      "category": "Rentier",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 20569,
-      "category": "Vandalen",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 20571,
-      "category": "entspannen",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 20572,
-      "category": "Raub",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 20573,
-      "category": "Colbert",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 20576,
-      "category": "position",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 20579,
-      "category": "ball",
-      "bumper": "Roadtrip"
-    },
-    {
-      "x": false,
-      "id": 20580,
-      "category": "Sehvermögen",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 20582,
-      "category": "schrei",
+      "category": "Einheit",
       "bumper": ""
     },
     {
       "x": false,
       "id": 20583,
-      "category": "Un",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 20585,
-      "category": "Ware",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 20586,
-      "category": "Uber",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 20588,
-      "category": "Google",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 20593,
-      "category": "Väter",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 20595,
-      "category": "TV",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 20598,
-      "category": "Kugel",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 20600,
-      "category": "Spelling",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 20603,
-      "category": "gruselig",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 20604,
-      "category": "Fortsetzung",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 20634,
-      "category": "Oktopus",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 20709,
-      "category": "Kambodscha",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 20721,
-      "category": "Snook",
+      "category": "Schulbücher",
       "bumper": ""
     },
     {
@@ -1611,242 +1353,20 @@
     },
     {
       "x": false,
-      "id": 21368,
-      "category": "springs",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 21369,
-      "category": "Crack",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 21373,
-      "category": "Kanalisation",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 21375,
-      "category": "Bier",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 21377,
-      "category": "Saskatchewan",
-      "bumper": ""
-    },
-    {
-      "x": false,
       "id": 21378,
       "category": "Regen",
       "bumper": ""
     },
     {
       "x": false,
-      "id": 21380,
-      "category": "Hell’s Angels",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 21383,
-      "category": "Kostüm",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 21385,
-      "category": "Grab",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 21386,
-      "category": "bizarr",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 21387,
-      "category": "Unterwerfung",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 21388,
-      "category": "Agoraphobie",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 21396,
-      "category": "Abschlussball",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 21398,
-      "category": "Bekämpfung",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 21399,
-      "category": "Kanone",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 21403,
-      "category": "verrückt",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 21408,
-      "category": "Kenia",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 21410,
-      "category": "Creme",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 21413,
-      "category": "Skandal",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 21414,
-      "category": "Spendenaktion",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 21416,
-      "category": "Manure",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 21417,
-      "category": "DNA",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 21418,
-      "category": "erregt",
-      "bumper": "StrangeAilments"
-    },
-    {
-      "x": false,
-      "id": 21420,
-      "category": "Gedenkstätte",
-      "bumper": ""
-    },
-    {
-      "x": false,
       "id": 21422,
-      "category": "schmuggeln",
+      "category": "Schmuggler",
       "bumper": ""
     },
     {
       "x": false,
       "id": 21423,
-      "category": "graffiti",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 21424,
-      "category": "camp",
-      "bumper": "Roadtrip"
-    },
-    {
-      "x": false,
-      "id": 21426,
-      "category": "Sarg",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 21429,
-      "category": "Stephen Hawking",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 21430,
-      "category": "pasta",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 21431,
-      "category": "Geruch",
-      "bumper": "SayWhat"
-    },
-    {
-      "x": false,
-      "id": 21432,
-      "category": "Brooklyn",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 21433,
-      "category": "football",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 21435,
-      "category": "Evakuierung",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 21436,
-      "category": "morgen",
-      "bumper": "SayWhat"
-    },
-    {
-      "x": false,
-      "id": 21442,
-      "category": "Gemälde",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 21443,
-      "category": "Spendensammlung",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 21445,
-      "category": "paratrooping",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 21449,
-      "category": "Entschuldigung",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 21451,
-      "category": "Tod",
+      "category": "Graffiti",
       "bumper": ""
     },
     {
@@ -1857,393 +1377,15 @@
     },
     {
       "x": false,
-      "id": 21462,
-      "category": "verstopft",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 21466,
-      "category": "Blocker",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 21467,
-      "category": "Samstag",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 21468,
-      "category": "laut",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 21470,
-      "category": "Gerät",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 21472,
-      "category": "nuklear",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 21473,
-      "category": "Weltraum",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 21475,
-      "category": "Krankheit",
-      "bumper": "StrangeAilments"
-    },
-    {
-      "x": false,
-      "id": 21480,
-      "category": "kündigen",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 21482,
-      "category": "Nippel",
-      "bumper": ""
-    },
-    {
-      "x": false,
       "id": 21497,
       "category": "Sumo",
       "bumper": ""
     },
     {
       "x": false,
-      "id": 21498,
-      "category": "Überwachung",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 21505,
-      "category": "leiden",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 21506,
-      "category": "Hemingway",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 21507,
-      "category": "Hochzeit",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 21508,
-      "category": "mythisch",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 21511,
-      "category": "rap",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 21512,
-      "category": "comedy",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 21522,
-      "category": "Morning",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 21523,
-      "category": "switchblade",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 21525,
-      "category": "elephants",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 21529,
-      "category": "Teammates",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 21531,
-      "category": "zoological",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 21547,
-      "category": "magnificent",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 21549,
-      "category": "DMV",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 21550,
-      "category": "simulator",
-      "bumper": "Roadtrip"
-    },
-    {
-      "x": false,
-      "id": 21551,
-      "category": "rare",
-      "bumper": "StrangeAilments"
-    },
-    {
-      "x": false,
-      "id": 21555,
-      "category": "wanted",
-      "bumper": "SayWhat"
-    },
-    {
-      "x": false,
-      "id": 21563,
-      "category": "half-brother",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 21564,
-      "category": "beachcombers",
-      "bumper": "Roadtrip"
-    },
-    {
-      "x": false,
-      "id": 21565,
-      "category": "kidnapper",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 21569,
-      "category": "McDonald’s",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 21572,
-      "category": "französisch",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 21574,
-      "category": "viel Glück",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 21580,
-      "category": "niesen",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 21583,
-      "category": "ladies",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 21586,
-      "category": "betrunken",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 21587,
-      "category": "Gesetz",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 21595,
-      "category": "ausgeben",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 21599,
-      "category": "Bestattung",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 21600,
-      "category": "Kabel",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 21603,
-      "category": "Subway",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 21949,
-      "category": "Anwalt",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 21987,
-      "category": "Hauptsitz",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 23578,
-      "category": "Coney Island",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 23583,
-      "category": "baker",
-      "bumper": "Roadtrip"
-    },
-    {
-      "x": false,
-      "id": 23587,
-      "category": "Hinterhof",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 23601,
-      "category": "Würste",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 23607,
-      "category": "downing",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 23618,
-      "category": "Thomas Edison",
-      "bumper": "Roadtrip"
-    },
-    {
-      "x": false,
-      "id": 23624,
-      "category": "Katerstimmung",
-      "bumper": ""
-    },
-    {
-      "x": false,
       "id": 23629,
-      "category": "verstimmt",
+      "category": "Beschwerden",
       "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 23630,
-      "category": "Seil",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 23633,
-      "category": "tief",
-      "bumper": "Roadtrip"
-    },
-    {
-      "x": false,
-      "id": 23641,
-      "category": "protest",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 23643,
-      "category": "Galileo",
-      "bumper": "Roadtrip"
-    },
-    {
-      "x": false,
-      "id": 23648,
-      "category": "The Beach Boys",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 23652,
-      "category": "karaoke",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 23656,
-      "category": "Halskette",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 23660,
-      "category": "König",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 23673,
-      "category": "Preis",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 23681,
-      "category": "Gefangene",
-      "bumper": "Roadtrip"
-    },
-    {
-      "x": false,
-      "id": 23684,
-      "category": "fallen",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 23688,
-      "category": "KISS ",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 23694,
-      "category": "Neujahr",
-      "bumper": "Roadtrip"
     },
     {
       "x": false,
@@ -2254,163 +1396,19 @@
     {
       "x": false,
       "id": 23705,
-      "category": "Hintern",
+      "category": "Seenotrettung",
       "bumper": ""
     },
     {
       "x": false,
       "id": 23709,
-      "category": "glühen",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 23711,
-      "category": "Exekution",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 23712,
-      "category": "James Bond",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 23722,
-      "category": "Wohnmobil",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 23727,
-      "category": "Kunst",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 23730,
-      "category": "Münzen",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 23731,
-      "category": "Kaktus",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 23732,
-      "category": "ecstasy",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 23734,
-      "category": "Mississippi",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 23735,
-      "category": "550",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 23798,
-      "category": "jüngster",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 23799,
-      "category": "Soziologie",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 24002,
-      "category": "Kampf",
+      "category": "Sternenhimmel",
       "bumper": ""
     },
     {
       "x": false,
       "id": 24007,
-      "category": "Rupie",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 24024,
-      "category": "Kartoffel",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 24314,
-      "category": "saugen",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 24433,
-      "category": "Gründer",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 24474,
-      "category": "Termite",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 24678,
-      "category": "Bootsfahrt",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 24679,
-      "category": "Roboter",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 24681,
-      "category": "Gary Busey",
-      "bumper": "SayWhat"
-    },
-    {
-      "x": false,
-      "id": 24682,
-      "category": "Clarkson",
-      "bumper": "SayWhat"
-    },
-    {
-      "x": false,
-      "id": 24683,
-      "category": "Angst",
-      "bumper": "StrangeAilments"
-    },
-    {
-      "x": false,
-      "id": 24684,
-      "category": "Mitternacht",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 24685,
-      "category": "Lehrer",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 24686,
-      "category": "gut",
+      "category": "Rupien",
       "bumper": ""
     },
     {
@@ -2421,74 +1419,8 @@
     },
     {
       "x": false,
-      "id": 24699,
-      "category": "Schönheit",
-      "bumper": "Roadtrip"
-    },
-    {
-      "x": false,
-      "id": 24700,
-      "category": "Zufall",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 24732,
-      "category": "Scharen",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 24800,
-      "category": "DiCaprio",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 24806,
-      "category": "Süssigkeiten",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 24808,
-      "category": "Frühstück",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 24811,
-      "category": "Fessel",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 24938,
-      "category": "Harvard",
-      "bumper": ""
-    },
-    {
-      "x": false,
       "id": 24941,
-      "category": "Ford",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 25193,
-      "category": "überzeugen",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 25602,
-      "category": "Luxus",
-      "bumper": ""
-    },
-    {
-      "x": false,
-      "id": 25603,
-      "category": "Spanien",
+      "category": "<i>Ford</i>",
       "bumper": ""
     },
     {
@@ -2499,56 +1431,416 @@
     },
     {
       "x": false,
-      "id": 25727,
-      "category": "couch",
+      "id": 14338,
+      "category": "Gerichte",
       "bumper": ""
     },
     {
       "x": false,
-      "id": 25729,
-      "category": "Radiergummi",
+      "id": 14359,
+      "category": "Parken",
       "bumper": ""
     },
     {
       "x": false,
-      "id": 25732,
-      "category": "verspottet",
+      "id": 14369,
+      "category": "Alexander der Große",
       "bumper": ""
     },
     {
       "x": false,
-      "id": 25733,
-      "category": "Saturn",
+      "id": 14396,
+      "category": "Strandgut",
       "bumper": ""
     },
     {
       "x": false,
-      "id": 25734,
-      "category": "Bewusstsein",
+      "id": 14405,
+      "category": "Boot",
       "bumper": ""
     },
     {
       "x": false,
-      "id": 25735,
-      "category": "Pinocchio",
+      "id": 14533,
+      "category": "Nigeria",
       "bumper": ""
     },
     {
       "x": false,
-      "id": 25737,
-      "category": "geboren",
+      "id": 14548,
+      "category": "Gut gebettet",
       "bumper": ""
     },
     {
       "x": false,
-      "id": 25738,
-      "category": "König Tut",
+      "id": 14649,
+      "category": "Erregung",
       "bumper": ""
     },
     {
       "x": false,
-      "id": 25739,
-      "category": "verstörend",
+      "id": 14656,
+      "category": "Verliebt, Verlobt, Verschuldet?",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 14677,
+      "category": "Haftgründe",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 14924,
+      "category": "<i>iPod</i>",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 14981,
+      "category": "Buenos Aires",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 15213,
+      "category": "Warnhinweis",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 15262,
+      "category": "Weltraum",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 15297,
+      "category": "Geklaut!",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 15367,
+      "category": "Wie der Vater..?",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 15621,
+      "category": "Psycho",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 15744,
+      "category": "Rezepte",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 15783,
+      "category": "Spieglein, Spieglein...",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 15787,
+      "category": "Rumänien",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 15797,
+      "category": "Lehrer",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 15827,
+      "category": "Löwe",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 15839,
+      "category": "Straßburg",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 15858,
+      "category": "Nase",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 15915,
+      "category": "Isländische Natur",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 15958,
+      "category": "Heirat",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 15969,
+      "category": "Angeln",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 15988,
+      "category": "Schokolade",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 16020,
+      "category": "Steuerung",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 16070,
+      "category": "Regenwald",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 16071,
+      "category": "Milchmädchen-Rechnung",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 16078,
+      "category": "<i>Snickers</i>",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 16085,
+      "category": "Beagle",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 16213,
+      "category": "Gesichter",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 16224,
+      "category": "Rückruf",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 50000,
+      "category": "Verkehrskontrollen",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 50001,
+      "category": "Zuckrige Freuden",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 50002,
+      "category": "Rettungaktionen",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 50005,
+      "category": "Kinderkram",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 50006,
+      "category": "Trendsetter",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 50007,
+      "category": "Raubzüge",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 50008,
+      "category": "Vor Gericht",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 50026,
+      "category": "Geschmeidige Sache",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 50028,
+      "category": "Handwerkliche Begabung",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 50029,
+      "category": "Verbotene Handlungen",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 50030,
+      "category": "Handyspiele",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 50031,
+      "category": "Archäologie",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 50033,
+      "category": "Hamburg",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 50035,
+      "category": "Internet-Katzen",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 50037,
+      "category": "Mozart",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 50038,
+      "category": "Schaffe schaffe, Häusle baue",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 50040,
+      "category": "Weltrekorde",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 50041,
+      "category": "Lebensmittel",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 50043,
+      "category": "Zur See",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 50046,
+      "category": "Deutscher Erfinderreichtum",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 50047,
+      "category": "Onlineshops",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 50050,
+      "category": "Um die Wette",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 50051,
+      "category": "Japanische Studien",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 50052,
+      "category": "Bundesautobahn 20",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 50053,
+      "category": "In der Glotze",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 50054,
+      "category": "Online-Shopping",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 50055,
+      "category": "Italienischer Adel",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 50056,
+      "category": "Überfall!",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 50057,
+      "category": "Rasante Rennen",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 50058,
+      "category": "Ex",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 50059,
+      "category": "P!nk",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 50068,
+      "category": "Fotobeweis",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 50069,
+      "category": "Wald und Wiesen",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 50070,
+      "category": "China",
       "bumper": ""
     }
   ]

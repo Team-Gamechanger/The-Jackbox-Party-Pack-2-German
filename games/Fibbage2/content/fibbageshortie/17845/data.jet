@@ -22,7 +22,7 @@
     },
     {
       "t": "S",
-      "v": "Rattenkopfes,Trompeten Mundstücks,Twinkies,Massage Kissens,Pistolenabzugs,Spielzeug Pferds,Zigarrenstummels,iPhones,Schlangenzahns,Gewehrkugelstücks,Zahns,Vogelnests,Diamanten,Teebeutels,Zehs,Mikrofons, Beatles Albums,Tellers",
+      "v": "Rattenkopf,Lakritzschnecken,Buntsftift,Massagekissen,Pistolenabzug,Gartenschlauch,Zigarrenstummel,Ladeadapter,Schlangenzahn,Gewehrkugel,Türklinken,Vogelnest,Diamanten,Teebeutel,Granaten,Mikrofon,Taschentuch,Salat",
       "n": "Suggestions"
     },
     {
@@ -32,7 +32,7 @@
     },
     {
       "t": "S",
-      "v": "Plastiklöffels",
+      "v": "Plastiklöffel",
       "n": "CorrectText"
     },
     {
@@ -42,27 +42,27 @@
     },
     {
       "t": "S",
-      "v": "Ein Mann aus North Carolina hatte immer wieder Anfälle von Husten und Lungenentzündung, bis Ärzte einen Teil eines <BLANK> aus seiner Lunge entfernten.",
+      "v": "Ein Mann aus North Carolina litt immer wieder an Husten und Lungenentzündung, bis Ärzte ein <BLANK>-Stück aus seiner Lunge entfernten.",
       "n": "QuestionText"
     },
     {
       "t": "S",
-      "v": "Löffels,Plastikstücks,Stücks Plastik",
+      "v": "Löffel,Plastikbesteck,Besteck,Plastik Löffel,Kunststofflöffel,Kunststoff Löffel",
       "n": "AlternateSpellings"
     },
     {
       "t": "A",
-      "v": "null",
+      "v": "bumper",
       "n": "BumperAudio"
     },
     {
       "t": "A",
-      "v": "373292_0",
+      "v": "correct",
       "n": "CorrectAudio"
     },
     {
       "t": "A",
-      "v": "373289_0",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

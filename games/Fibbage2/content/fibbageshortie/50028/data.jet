@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Dem Wetter,Ihrem Mittagessen,Ihrer Laune,Ihrem Blutzuckerspiegel,Der Mona Lisa,Angela Merkels Hosenanzüge,Dem Radioprogramm,Promigeburtstagen,Der Flugzeuganzahl,Ihrem Kontostand,Ihrem Suchverlauf,Der Anzahl an Eilmeldungen,ihrer Haarfarbe,ihrer Fruchtbarkeit,der Mondphase,den Sternzeichen,ihrer erhaltenen Post,ihrem Chamäleon,ihrer Hautfarbe,ihrem Muttermal",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Handwerkliche Begabung",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "der Bahnverspätung",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Claudia Weber aus Moosburg versteigerte im Jahr 2019 einen selbstgestrickten Schal für 7550€, dessen Farbgebung sich nach <BLANK> richtete.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Bahnverspätung,der Zugverspätung,der Verspätung ihrer Bahn,der Verspätung ihres Zuges,Verspätung,ihrer Verspätung mit der Bahn,Zugausfällen,den Zugausfällen",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

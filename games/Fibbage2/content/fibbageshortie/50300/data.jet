@@ -1,0 +1,69 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Godzilla,eine nichtdetonierte Atombombe,die Unschuld,der Jungbrunnen,das eigene Selbst,ein CO2-neutrales Restaurant,ein riesiger Schmetterling,ein mysteriöser Piratenschatz,ein echter Samurai,eine echte Meerjungfrau,die Hölle,ein Schokoladenvulkan,die weltgrößte Katze,ein UFO,der größte Mülleimer der Welt,nichts,der beliebteste Mensch der Welt,der größte Affe der Welt",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Lustige Ausflüge",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "das Grab von Jesus",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Roadtrip",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Die japanische Stadt Aomori behauptet, sie sei einzigartig, weil sich dort <BLANK> befände.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Jesus,das Grab von Jesus Christus,Jesus Christus' Grab,Jesus' Grab,Jesus Christus Grab,Jesus Grab,das Grab Jesu Christi,Jesu Christi Grab,das Grab Jesus,das Jesus-Grab",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "bumper",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

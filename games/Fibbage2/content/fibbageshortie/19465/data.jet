@@ -2,7 +2,7 @@
   "fields": [
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasBumperAudio"
     },
     {
@@ -22,17 +22,17 @@
     },
     {
       "t": "S",
-      "v": "Blumen,Kautabakpackungen,Dolche,Münzen,Visitenkarten,Fotos von sich selbst,Schnitzel,Fächer,Lippenstifthülsen,Höschen,Federn,Kieselsteine,Muffins,Taschentücher,Querbinder,Socken,Murmeln,Haarsträhnen",
+      "v": "ein Taschentuch,Kautabak,eine Rose,Münzen,ein Stück Schokolade,Fotos von sich selbst,eine Haarlocke,einen Ring,ein Bonbon,ein Lavendelkissen,eine Feder,einen Kieselstein,ein Stück Würfelzucker,eine Socke,ihren Haustürschlüssel,einen Glücksbringer,Murmeln,ein Stoffherz",
       "n": "Suggestions"
     },
     {
       "t": "S",
-      "v": "Achseln",
+      "v": "Achsel-Liebe",
       "n": "Category"
     },
     {
       "t": "S",
-      "v": "Apfelstücke",
+      "v": "ein Apfelstück",
       "n": "CorrectText"
     },
     {
@@ -42,27 +42,26 @@
     },
     {
       "t": "S",
-      "v": "Als Teil eines seltsamen Balzritual in Österreich während des 19. Jahrhunderts, lagerten alleinstehende Frauen während eines Tanzes <BLANK> in ihren Achselhöhlen und boten sie dann nachher dem Kerl an, der sie am meisten faszinierte.",
+      "v": "Im 19. Jahrhundert gab es in Österreich einen Brauch, bei dem alleinstehende Frauen während eines Tanzes <BLANK> in ihrer Achselhöhle aufbewahrten und anschließend einem Mann schenkten, der es ihnen angetan hatte.",
       "n": "QuestionText"
     },
     {
       "t": "S",
-      "v": "Äpfel",
+      "v": "Apfel,Apfelstück,Apfelschnitz,einen Apfelschnitz,Äpfel,Äpfelstücke,Apfelschnitze,eine Apfelscheibe,ein Stück Apfel\n",
       "n": "AlternateSpellings"
     },
     {
       "t": "A",
-      "v": "null",
       "n": "BumperAudio"
     },
     {
       "t": "A",
-      "v": "386576_0f",
+      "v": "correct",
       "n": "CorrectAudio"
     },
     {
       "t": "A",
-      "v": "386573_1",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

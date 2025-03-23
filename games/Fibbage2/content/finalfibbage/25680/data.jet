@@ -2,7 +2,7 @@
   "fields": [
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasBumperAudio"
     },
     {
@@ -12,7 +12,7 @@
     },
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasCorrectAudio"
     },
     {
@@ -22,12 +22,12 @@
     },
     {
       "t": "S",
-      "v": "Fingernägel auf der Tafel,schreiendes Baby im Flugzeug,knirschende Zähne,Zahnarzt Bohrer,Fran Drescher’s Lache,Autoalarm,Strassenbahn in der Kurve,Einwahlmodem,Presslufthammer,bellender Hund,Vuvuzelas,Weckeralarm,quietschender Automotor,Gilbert Gottfried,sterbender Papagei,laute Telefongespräche,jemand, der sich die Nase putzt,räuspern und spucken",
+      "v": "Fingernägel auf der Tafel,schreiendes Baby im Flugzeug,knirschende Zähne,Zahnarzt-Bohrer,Unehrliches Lachen,Autoalarm,Straßenbahn in der Kurve,Einwahlmodem,Presslufthammer,bellender Hund,Vuvuzelas,Wecker,Brechende Knochen,Quietschende Schuhe,sterbender Papagei,laute Telefongespräche,Nase putzen,räuspern",
       "n": "Suggestions"
     },
     {
       "t": "S",
-      "v": "cringe-worthy",
+      "v": "Schreckliches",
       "n": "Category"
     },
     {
@@ -42,27 +42,25 @@
     },
     {
       "t": "S",
-      "v": "Das furchtbarste Geräusch laut einer Studie der Salford University.",
+      "v": "Das schrecklichste Geräusch laut einer Studie der englischen Universität Salford.",
       "n": "QuestionText"
     },
     {
       "t": "S",
-      "v": "Brechen,sich übergeben,kotzen",
+      "v": "Brechen,sich übergeben,kotzen,Übergeben",
       "n": "AlternateSpellings"
     },
     {
       "t": "A",
-      "v": "null",
       "n": "BumperAudio"
     },
     {
       "t": "A",
-      "v": "430985_0f",
       "n": "CorrectAudio"
     },
     {
       "t": "A",
-      "v": "430982_0",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

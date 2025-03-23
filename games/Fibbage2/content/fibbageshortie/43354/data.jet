@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "eigenen Kot essen,ihren Zwilling töten,explodieren,bis zum Tod niesen,sich mit sich selbst paaren,ihr Inneres nach außen kehren,eine zweite Vagina erhalten,Stacheln bekommen,masturbieren,Gold erbrechen,ihr Hirn essen,ihre Zunge verschlucken,Säure bluten,Albträume bekommen,ihre Kinder essen,einen zusätzlichen Kopf bekommen,sich tot noch fortpflanzen,sich klonen",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Tierreich",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "ihren eigenen Penis abbeißen",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Bananenschnecken betreiben manchmal „Apophallie“. Das bedeutet, dass sie <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "ihren Penis abbeißen,ihren Pimmel abbeißen,ihren Penis abbeissen,den Penis abbeißen,sich den Penis abbeißen,sich den eigenen Penis abbeißen,sich ihren eigenen Penis abbeißen,sich ihren Penis abbeißen",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

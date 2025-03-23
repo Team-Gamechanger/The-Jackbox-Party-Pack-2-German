@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "zum Meme geworden,tot,unwissentlich verheiratet,ein Roboter,ein Doppelgänger eines Prominenten,als Schauspieler gecastet,ein Mafiaboss,angeblich ein Spion,Lottogewinner,ein bekannter Influencer,ein berühmter Sänger,ein Kunstdieb,ein berühmter Stuntman,der Gründer einer Sekte,ein verlorener Königssohn,ein Topmodel,Bankrott,Poetry-Slammer",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "<i>Google</i>",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "ein meistgesuchter Krimineller",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Als Christopher Viatafa sich 2014 selbst googelte, war er überrascht, als er feststellte, dass er <BLANK> war.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "ein gesuchter Verbrecher,ein gesuchter Straftäter,auf der Fahndungsliste,ein polizeilich Gesuchter,ein flüchtiger Krimineller,ein Fahndungsflüchtiger,ein geuschter Krimineller,ein meistgesuchter Verbrecher,ein meistgesuchter Straftäter,ein gesuchter Straftäter",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

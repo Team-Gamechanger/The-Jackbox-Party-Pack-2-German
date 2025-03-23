@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Hummus,menschlichen Blut,Goldmünzen,Schlangengift,Rum,Knallerbsen,Krabbencocktail,hunderten Würmern,Mangoeis,Erbrochenem,Nervengift,Seesternsperma,Krabbenhirn,Affenkacke,Echsenurin,Fischmagen,Cola,Lactose",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Philippinen",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "einer ungeborenen Ente",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Wenn ihr das nächste Mal ein wenig zu viel gefeiert habt, probiert „Balut“: Ein traditionelles philippinisches Katerheilmittel, das aus einem mit <BLANK> gefüllten Ei besteht.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "einem Embryo,Embryo,einem Entenembyro,Enten Embryo,Einem Enten Embryo,einem Entenfötus,einem Enten Fötus,Entenfötus,einer Ente,Ente,einem Fötus,Fötusl,ungeborener Ente",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

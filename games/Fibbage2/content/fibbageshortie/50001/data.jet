@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Ledersitzen,Schmieröl,Holzkohle,Glasreiniger,Ölfarben,Bärenfutter,Katzenstreu,Glühbirnen,Gewehren,Pflanzensamen,Bienen,Kirchenglocken,Krawatten,Medikamenten,Kaffeelöffeln,Tabakdosen,Sonnenbrillen,Föhnen,Trillerpfeifen,Lesezeichen",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Zuckrige Freuden",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Fliegenfängern",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Der Süßwarenhersteller Katjes produzierte in seinen ersten Jahren keine Süßigkeiten, sondern handelte mit <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Fliegenpapier,Honigstreifen,Fliegenfänger",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

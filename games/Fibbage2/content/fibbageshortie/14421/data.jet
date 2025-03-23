@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Drogen,Barbiepuppen,Welpen,VHS-Kassetten,Umarmungen,Gartenarbeit,Eiswürfel,Bibeln,Autos,Steaks,Panzermunition,Strumpfhosen,Menschliche Schädel,Messer,iPads,Maßgeschneiderte Lederjacken,Bargeld,Sammelkarten",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Hausierer",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Dynamit",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "In der amerikanischen Stadt Rogers in Arkansas wurde ein Mann namens Johnny Lee Nichols verhaftet, weil er von Tür zu Tür ging und anbot, <BLANK> gegen Sex zu tauschen.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Sprengstoff,Sprengsätze",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -2,7 +2,7 @@
   "fields": [
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasBumperAudio"
     },
     {
@@ -12,7 +12,7 @@
     },
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasCorrectAudio"
     },
     {
@@ -22,17 +22,17 @@
     },
     {
       "t": "S",
-      "v": "Gold,ein Haus,einen Hahn,eine Klimaanlage,eine Frau,Bier,Diamanten,eine persönliche Assistentin,ein Auto,eine Massage,Schmuck,Schuhe,Geld,Tickets für ein Konzert,seine eigene Radiosendung,einen Fernseher,ein Handy,ein Pferd",
+      "v": "Gold,ein Haus,einen Hahn,eine Klimaanlage,eine Frau,Bier,einen Diamanten,eine persönliche Assistentin,ein Auto,eine Massage,Schmuck,Schuhe,Geld,Konzerttickets,eine eigene Radiosendung,einen Fernseher,ein Handy,ein Pferd",
       "n": "Suggestions"
     },
     {
       "t": "S",
-      "v": "Vasektomie ",
+      "v": "Vasektomien",
       "n": "Category"
     },
     {
       "t": "S",
-      "v": "eine Waffenlizenz",
+      "v": "einen Waffenschein",
       "n": "CorrectText"
     },
     {
@@ -42,27 +42,25 @@
     },
     {
       "t": "S",
-      "v": "2008 wurde in Shivpuri, Indien, ein Anreiz eingeführt, um Männer zu einer Vasektomie zu verleiten. Als Gegenleistung für das Beschneiden erhielt ein Mann <BLANK>",
+      "v": "Im Jahr 2008 sollten in der indischen Stadt Shivpuri mehr Männer zu einer Vasektomie verleitet werden, indem sie im Gegenzug <BLANK> erhielten.",
       "n": "QuestionText"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "Waffenscheine,eine Waffenlizenz,Waffenlizenzen,Waffenlizenz,Waffenschein",
       "n": "AlternateSpellings"
     },
     {
       "t": "A",
-      "v": "null",
       "n": "BumperAudio"
     },
     {
       "t": "A",
-      "v": "387542_0",
       "n": "CorrectAudio"
     },
     {
       "t": "A",
-      "v": "387539_0",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

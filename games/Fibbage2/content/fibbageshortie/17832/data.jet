@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Kleinem Finger,Seele,Lippen,Babys,Socken,Bauchnabelflusen,Abgeschnittenen Fingernägeln,Spucke,Deodorant,Erstem Arbeitsvertrag,Haarbürste,Müll,Stimme,Tränen,Entferntem Muttermal,Plazenta,Badewasser,Aprikosenmarmelade",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Auf Verhandlungsbasis",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Atem",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Ein amerikanisches Onlinecasino zahlte auf <i>eBay</i> 523 US-Dollar für ein Glas, gefüllt mit Angelina Jolies <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Hauch,Ausgeatmeter Luft,Luft",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

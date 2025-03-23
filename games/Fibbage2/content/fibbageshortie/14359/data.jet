@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "einem Schuldschein,Küssen,Umarmungen,High Fives,Chicken Nuggets,Salz,Waffen,Organen,Briefmarken,abgelaufenen Parktickets,Uhren,Pommes,Toilettenpapier,antiken Lampen,Stickern,lebenden Spinnen,einem guten Zeugnis,Tinte",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Parken",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Kastanien",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Im Herbst 2013 gab ein englischer Parkhausbetreiber seinen Kunden die Möglichkeit, mit <BLANK> zu bezahlen.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Edelkastanien,Esskastanien",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "einer Tasse,einem EC-Karten-Lesegerät,einer Muschel,einem Koffer,einer Perücke,einem Wischmop,einem Sandwich,einem Smartphone,einem Flaschenöffner,einem BH,einem Kühlschrankmagneten,einem Hustenbonbon,einer Bahncard,einer Holz-Pommesgabel,einem Pfirsichkern,einer VHS-Kassette,Kopfhörern,einem Tiefkühl-Baguette,seiner Hose,einer Tüte voller Hundekot",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Hamburg",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "einer toten Möwe",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "In einem Hamburger Park entblöste sich im August 2022 ein Mann und griff im Anschluss eine Passantin mit <BLANK> an.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "einer Möwe,toten Möwen,Möwen",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

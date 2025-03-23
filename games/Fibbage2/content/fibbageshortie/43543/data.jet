@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Das Profilbild,Das Schnarchen,Den neuen Freund,Das Tanzen,Die Instagrambilder,Die Kochfähigkeiten,Das Fahrverhalten,Die Videospielkompetenz,Den Freundeskreis,Die Bienenzucht-Fähigkeiten,Das Fußballtalent,Die Treffsicherheit mit Pfeil und Bogen,Die Gedichte,Den Stammbaum,Die Textnachrichten,Die Vorbereitungen auf die Apokalypse,Die Spotify-Playlist,Die Küssfähigkeiten",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Internetrezensionen",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Den Entschuldigungsbrief",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Nick Lutz, ein amerikanischer Student, ging im Jahr 2017 viral, nachdem er öffentlich <BLANK> seiner Ex-Freundin benotet hatte.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Die Entschuldigungsnachricht,Die Entschuldigung,Das Entschuldigungsschreiben,Das Entschuldigungsanschreiben,Die Entschuldigungen,Den Entschuldigungstext,Die Entschuldigungsbriefe",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

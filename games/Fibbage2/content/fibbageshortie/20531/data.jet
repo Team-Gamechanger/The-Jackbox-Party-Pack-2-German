@@ -2,7 +2,7 @@
   "fields": [
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasBumperAudio"
     },
     {
@@ -22,12 +22,12 @@
     },
     {
       "t": "S",
-      "v": "Herz,Körperfett,Kot,Nasenhaare,Zähnen,Zungen,Fingernägeln,Magenschleimhäuten,Dickdarmen,Augenringen,Fussnägeln,Lebern,Brusthaaren,Blaslöchern,Rückenflossen,Paarungstänzen,Falten,Knochenschichten",
+      "v": "Herz,Körperfett,Kot,Nasenhaaren,Zähnen,Zunge,Verletzungen,Magenschleimhaut,Dickdärmen,Augenringen,Flossennägeln,Leber,Brusthaaren,Blaslöchern,Algenanhaftungen,Zahnbelag,Falten,Knochenschichten",
       "n": "Suggestions"
     },
     {
       "t": "S",
-      "v": "Wal",
+      "v": "Alter",
       "n": "Category"
     },
     {
@@ -47,22 +47,21 @@
     },
     {
       "t": "S",
-      "v": "",
+      "v": "Ohrwachs,Ohrenschleim,Ohrenschmalzes,Ohrenablagerungen",
       "n": "AlternateSpellings"
     },
     {
       "t": "A",
-      "v": "null",
       "n": "BumperAudio"
     },
     {
       "t": "A",
-      "v": "399854_0",
+      "v": "correct",
       "n": "CorrectAudio"
     },
     {
       "t": "A",
-      "v": "399851_0",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

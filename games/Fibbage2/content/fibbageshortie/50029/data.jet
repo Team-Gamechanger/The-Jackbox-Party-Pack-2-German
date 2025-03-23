@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Parkplätzen,Taschenlampen,Lollipops,Ferngläsern,Computern,Koffern,Getränkeautomaten,Rollstühlen,Kühlschränken,Mikrofonen,Schweißgeräten,Deorollern,Feuerlöschern,Raumschiffen,Straßenbahnen,Badehosen,Jeanshosen,Baggern,Kassetten,Lockenwicklern",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Verbotene Handlungen",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Tischkickern",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Ein in den 1960er-Jahren in der Türkei erlassenes Verbot führte dazu, dass die Herstellung, der Verkauf und das öffentliche Benutzen von <BLANK> verboten wurde.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Tischfußball,Tischfussball,Kickern,Krökeln,Wuzzeln,Balankan,Zoistsn,Töggelä,Jöggelä,Hackersche,Knack",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

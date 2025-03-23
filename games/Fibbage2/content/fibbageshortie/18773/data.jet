@@ -2,7 +2,7 @@
   "fields": [
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasBumperAudio"
     },
     {
@@ -12,7 +12,7 @@
     },
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasCorrectAudio"
     },
     {
@@ -22,12 +22,12 @@
     },
     {
       "t": "S",
-      "v": "radioaktivem Uran,Fischschuppen,Fäkalien,Spielkarten,CDs,Käfern,Comicbüchern,altem Brot,Servietten,Glasscherben,Windeln,Luftpolsterfolie,recycelten Kugeln,Tofu,Glubschaugen,Rohrreinigern,Zehennägelknipser,Kompost",
+      "v": "Atommüll,Fischschuppen,recycelten Autoreifen,Spielkarten,CDs,Käfern,geschmolzenen Plastikmöbeln,altem Brot,ungenutzten Zahnarztutensilien,Glasscherben,ausrangierten Straßenschildern,Luftpolsterfolie,kaputten Musikinstrumenten,benutzten Bierdeckeln,verlorenen Kopfhörern,weggeworfenen Zahnbürsten,abgelaufenen Medikamenten,getragenen Mundschutzmasken",
       "n": "Suggestions"
     },
     {
       "t": "S",
-      "v": "Mode",
+      "v": "Chic",
       "n": "Category"
     },
     {
@@ -42,27 +42,25 @@
     },
     {
       "t": "S",
-      "v": "Die Firma von Modedesignerin Pamela Paquin ist darauf spezialisiert, ethisch einwandfreie Mode-Accessoires aus <BLANK> herzustellen.",
+      "v": "Das Unternehmen der Modedesignerin Pamela Paquin hat sich auf die Herstellung ethischer Modeaccessoires aus <BLANK> spezialisiert.",
       "n": "QuestionText"
     },
     {
       "t": "S",
-      "v": "getöteten Tieren",
+      "v": "getöteten Tieren,Überfahrenen Tieren,überfahrene Tiere,toten Straßentieren,Roadkill,überfahrenem Wild",
       "n": "AlternateSpellings"
     },
     {
       "t": "A",
-      "v": "null",
       "n": "BumperAudio"
     },
     {
       "t": "A",
-      "v": "379643_0f",
       "n": "CorrectAudio"
     },
     {
       "t": "A",
-      "v": "379640_0",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

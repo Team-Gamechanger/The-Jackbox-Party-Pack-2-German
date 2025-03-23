@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "BHs,Quietscheentchen,Topflappen,Schweine,Smartphones,Geldbündel,Mafiosi,Teebeutel,Katzenpfoten,Schwämme,QR-Codes,Toaster,Panzer,Pferdeäpfel,Zungen,Raufasertapeten,traurige Emojis,Fritteusen,Taxameter,schwarze Löcher",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Italienischer Adel",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Hoden",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Die alte italienische Adelsfamilie Colleoni hat ein eigentümliches Familienwappen, auf dem drei <BLANK> abgebildet sind.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Testikel",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

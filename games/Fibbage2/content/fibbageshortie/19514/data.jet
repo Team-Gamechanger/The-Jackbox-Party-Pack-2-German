@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "einem Gedichtwettbewerb,einer Umarmung mit Batman,einem Kostümwechsel,einem Rock-Konzert,einer Ballettaufführung,einem Umzug nach Brasilien,einem Tanz mit Wonder Woman,einem Zirkus-Besuch,dem Diebstahl der Kronjuwelen,dem Tragen eines Tutus,einer Hochzeit mit Lois Lane,einem Auftritt in einer Talkshow,einer Teilnahme bei einer Dating-Show\n,Purzelbäumen durch Metropolis,einer Fast-Food-Werbung,einer Wrestling-Karriere,einem Friseurbesuch,der Adoption eines Pinguins",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Superman",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "der Produktion eines Sextapes",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "<i>Action Comics</i> #592 und #593 sind bemerkenswert, weil ein Bösewicht Superman mit übersinnlichen Kräften zu <BLANK> zwingt.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "einem Pornodreh,pornografischen Aufnahmen,einem Erotikfilm,sexuellen Handlungen vor der Kamera,der Aufnahme von Erotikvideos,einem pornografischen Video",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

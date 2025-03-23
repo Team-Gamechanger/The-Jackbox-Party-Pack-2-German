@@ -2,7 +2,7 @@
   "fields": [
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasBumperAudio"
     },
     {
@@ -12,7 +12,7 @@
     },
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasCorrectAudio"
     },
     {
@@ -22,7 +22,7 @@
     },
     {
       "t": "S",
-      "v": "Schlangen,Banditen,Waschbären,Nerds,Gefangenen,Waisen,Bären,Ninjas,Drachen,Roboter,Motorradbanden,Schmetterlingen,Nazis,Vielfrassen,Aalen,Hasen,Models,Schildkröten",
+      "v": "Schlangen,Banditen,Waschbären,Influencern,Vogelspinnen,Waisen,Bären,Ninjas,Drachen,Robotern,Motorradbanden,Schmetterlingen,Astronomen,Vielfrassen,Aalen,Hasen,Models,Schildkröten",
       "n": "Suggestions"
     },
     {
@@ -42,27 +42,25 @@
     },
     {
       "t": "S",
-      "v": "Tashirojima ist eine Insel vor Japan, die von <BLANK> komplett überrannt wird.",
+      "v": "Tashirojima ist eine Insel vor der Küste Japans, die von <BLANK> geradezu überrannt wird.",
       "n": "QuestionText"
     },
     {
       "t": "S",
-      "v": "ein Haufen Katzen,wilden Katzen,obdachlosen Katzen,Strassenkatzen",
+      "v": "ein Haufen Katzen,wilden Katzen,obdachlosen Katzen,Strassenkatzen,Katze,Kätzchen,Straßenkatzen,streunenden Katzen,Miezen",
       "n": "AlternateSpellings"
     },
     {
       "t": "A",
-      "v": "null",
       "n": "BumperAudio"
     },
     {
       "t": "A",
-      "v": "null",
       "n": "CorrectAudio"
     },
     {
       "t": "A",
-      "v": "317910_3",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

@@ -2,7 +2,7 @@
   "fields": [
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasBumperAudio"
     },
     {
@@ -12,7 +12,7 @@
     },
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasCorrectAudio"
     },
     {
@@ -22,12 +22,12 @@
     },
     {
       "t": "S",
-      "v": "menschlichen Haaren,Gummibändern,Spinnenseide,Getränkedosen,alten Handys,Grillen,Einkaufstüten,Bienenstöcken,Büchern,Trockeneis,Fingernägeln,Bierflaschen,Hühnerknochen,alten Gameboys,gebrauchten Geburtstagskarten,Shrek DVDs,Socken,Zucker",
+      "v": "menschlichen Haaren,Gummibändern,Spinnenseide,Getränkedosen,alten Handys,Grillen,Einkaufstüten,Bienenstöcken,Büchern,Trockeneis,Fingernägeln,Bierflaschen,Hühnerknochen,alten Gameboys,gebrauchten Geburtstagskarten,DVDs,Socken,Zucker",
       "n": "Suggestions"
     },
     {
       "t": "S",
-      "v": "Ford",
+      "v": "<i>Ford</i>",
       "n": "Category"
     },
     {
@@ -42,7 +42,7 @@
     },
     {
       "t": "S",
-      "v": "Im Juni 2014 kündigte Ford an, dass sie versuchen würden, neue Autoteile zu entwickeln, die aus, glaub es oder nicht, <BLANK> bestehen.",
+      "v": "Im Juni 2014 kündigte <i>Ford</i> an, dass sie versuchen würden, neue Autoteile aus <BLANK> zu entwickeln.",
       "n": "QuestionText"
     },
     {
@@ -52,17 +52,15 @@
     },
     {
       "t": "A",
-      "v": "null",
       "n": "BumperAudio"
     },
     {
       "t": "A",
-      "v": "null",
       "n": "CorrectAudio"
     },
     {
       "t": "A",
-      "v": "426011_1",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

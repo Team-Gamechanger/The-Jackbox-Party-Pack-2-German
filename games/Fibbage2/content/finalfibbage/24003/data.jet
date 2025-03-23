@@ -2,7 +2,7 @@
   "fields": [
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasBumperAudio"
     },
     {
@@ -12,7 +12,7 @@
     },
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasCorrectAudio"
     },
     {
@@ -22,7 +22,7 @@
     },
     {
       "t": "S",
-      "v": "ihr Gehirn,ihre Seele,Narnia,Himmel,den heiligen Gral,Antarktis,Robin Hood’s Leiche,das Loch Ness Monster,der Felsen von Gibraltar,der Jahrtausend Falke,der Krieg gegen den Terrorismus,Superman’s Umhang,Haley’s Komet,ihren Sinn für Humor,ein Drache,ihr eingewachsener Fussnagel,ihre angetrennten Knochen,ihre Haare",
+      "v": "ihr Gehirn,ihre Seele,Narnia,Himmel,Autobahnbrücken,Antarktis,Robin Hoods Leiche,das Loch-Ness-Monster,Den Felsen von Gibraltar,Das Kap der Guten Hoffnung,der Krieg gegen den Terrorismus,Supermans Umhang,Halleyscher Komet,ihren Sinn für Humor,ein Drache,ihren eingewachsenen Fußnagel,die Milchstraße,ihre Haare",
       "n": "Suggestions"
     },
     {
@@ -42,7 +42,7 @@
     },
     {
       "t": "S",
-      "v": "Was die Spanierin Maria Angeles Duran stückweise auf eBay verkaufen wollte, bis sie gestoppt wurde.",
+      "v": "Was die Spanierin Maria Angeles Duran Stück für Stück bei <i>eBay</i> verkaufen wollte, bis sie gestoppt wurde.",
       "n": "QuestionText"
     },
     {
@@ -52,17 +52,15 @@
     },
     {
       "t": "A",
-      "v": "null",
       "n": "BumperAudio"
     },
     {
       "t": "A",
-      "v": "null",
       "n": "CorrectAudio"
     },
     {
       "t": "A",
-      "v": "420986_0",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

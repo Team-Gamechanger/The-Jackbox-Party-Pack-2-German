@@ -1,0 +1,69 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "polnisch zu schreien,ununterbrochen zu lachen,Brände zu stiften,Gott zu leugnen,sich selbst zu geißeln,nur noch nackt herumzulaufen,Schlafzuwandeln,zu Breakdancen,sich zu küssen,kürzere Kleider zu tragen,Steine zu backen,nicht mehr zu blinzeln,zu Flüstern,monatelang zu weinen,tagsüber zu schlafen,der Armee beizutreten,vegan zu werden,Nester zu bauen",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Schwester Rabiata",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "wie Katzen zu miauen",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "StrangeAilments",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Im Mittelalter wurde ein französisches Kloster von einer mysteriösen Krankheit heimgesucht, die alle Nonnen dazu brachte, <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "zu Miauen,Miauen,zu Mauen,sich wie Katzen zu verhalten,sich für Katzen zu halten",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "bumper",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

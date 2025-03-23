@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Scheidung,Überdosis,Ungewollte Schwangerschaft,Börsencrash,Einzug in den Krieg,Ermordet,Verwitwet,Lepra,Cholera,deceitful butler,Die Treppe heruntergefallen,fitful spasm,dog murder,Demenz,Vermisstes Kind,Ertrinken,Weinender Geist,spontane menschliche Selbstentzündung",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Alte Brettspiele",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Suizid",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Als Milton Bradley 1860 die erste Version des Brettspiels Das Spiel des Lebens herausbrachte, konnten unglückliche Spieler auf dem „<BLANK>“-Feld landen.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Selbstmord",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

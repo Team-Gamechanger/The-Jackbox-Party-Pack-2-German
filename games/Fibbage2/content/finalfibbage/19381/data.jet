@@ -2,7 +2,7 @@
   "fields": [
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasBumperAudio"
     },
     {
@@ -12,7 +12,7 @@
     },
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasCorrectAudio"
     },
     {
@@ -22,12 +22,12 @@
     },
     {
       "t": "S",
-      "v": "Eine Gabel,Ein Schlüssel,Gesicht,Fussball,Hockeyschläger,Eine Hand,Ein Stück Wassermelone,Eine Vagina,Peace-Symbol,Ein Gummibär,Ein Holzklotz,Ein Rennwagen-Bett,Ein Fahrrad,Bierfass,Surfboard,Papierdrache,Korkenzieher,Pyramide",
+      "v": "Eine Gabel,Ein Schlüssel,Gesicht,Fußball,Hockeyschläger,Eine Hand,Ein Stück Wassermelone,Eine Vagina,Peace-Symbol,Ein Gummibär,Ein Holzklotz,Eine Schere,Ein Fahrrad,Bierfass,Surfboard,Papierdrache,Korkenzieher,Pyramide",
       "n": "Suggestions"
     },
     {
       "t": "S",
-      "v": "dragonfly",
+      "v": "Libelle",
       "n": "Category"
     },
     {
@@ -52,17 +52,15 @@
     },
     {
       "t": "A",
-      "v": "null",
       "n": "BumperAudio"
     },
     {
       "t": "A",
-      "v": "384197_0",
       "n": "CorrectAudio"
     },
     {
       "t": "A",
-      "v": "384194_0",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

@@ -2,7 +2,7 @@
   "fields": [
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasBumperAudio"
     },
     {
@@ -22,12 +22,12 @@
     },
     {
       "t": "S",
-      "v": "Perücken,Brusthaaren,Nudeln,Hamburgern,einem Buchhalter,Essstäbchen,dem Präsident,Teebeuteln,Neffen,Rotz,Stachelschweinen,Alkoholiker,Schnüre,Nasenhaaren,Gefangenen,Rennmäusen,Senatoren,Absperrungen",
+      "v": "Gummibändern,Brusthaaren,Spaghetti,Bananenschalen,einem Buchhalter,Essstäbchen,Zahnseide,Teebeuteln,dem Neffen,Büroklammern,Stachelschweinen,Alkoholikern,Regenwürmern,Nasenhaaren,Gefängnisinsassen,Rennmäusen,Politikern,Katzen",
       "n": "Suggestions"
     },
     {
       "t": "S",
-      "v": "stricken",
+      "v": "Strickkunst",
       "n": "Category"
     },
     {
@@ -42,27 +42,26 @@
     },
     {
       "t": "S",
-      "v": "Kendall Corlius ist der Autor eines bizarren Handwerksbuchs namens <i>Stricken mit <BLANK></i>.",
+      "v": "Kendall Corlius ist der Autor eines bizarren Handwerksbuchs, bei dem man lernt, mit <BLANK> zu stricken.",
       "n": "QuestionText"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "Hundehaar,Hundewolle,Hundefell",
       "n": "AlternateSpellings"
     },
     {
       "t": "A",
-      "v": "null",
       "n": "BumperAudio"
     },
     {
       "t": "A",
-      "v": "386912_0",
+      "v": "correct",
       "n": "CorrectAudio"
     },
     {
       "t": "A",
-      "v": "386909_0",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

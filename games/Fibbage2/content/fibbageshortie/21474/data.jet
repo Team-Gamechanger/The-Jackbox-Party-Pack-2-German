@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Steakmesser,BHs,EC-Karten,Parfüm,Handtaschen,Laptops,Motorräder,Pfefferspray,Fallschirmsprünge,Wein,Make-up,Schlagringe,Tangas,Pistolen,Taschenmesser,Viagra,Deodorant,Goldzähne",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Babyartikel",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "High Heels",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Die US-Amerikanerin Michele Holbrook erzürnte zahlreiche Eltern, als sie ein Unternehmen gründete, das <BLANK> für Babys verkauft.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Highheels,Stöckelschuhe,Absatzschuhe,hochhackige Schuhe",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

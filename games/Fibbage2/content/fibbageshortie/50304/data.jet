@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "einer Kaffeetasse,einem Gameboy,einer Wassermelone,einer Klimaanlage,einem Pizzastück,einem Smartphone,einer Glühbirne,einem Hamburger,einer Ananas,einer Kreditkarte,einem Flugzeug,einem Toaster,einer Waschmaschine,einem Gummibärchen,einem Rubiks Cube,einer Cola-Dose,einer Münze,einer Flasche,einem Eimer,einem Kopfkissen",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Sakralbau",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "einem Stöckelschuh",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Roadtrip",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Wer einmal einen Fuß in die taiwanesische Stadt Chiayi setzt, sollte sich die einzigartige Kirche in der ungewöhnlichen Form von <BLANK> nicht entgehen lassen.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "einem High Heel",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "bumper",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

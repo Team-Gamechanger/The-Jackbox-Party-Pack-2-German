@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Luftpolsterfolie ploppen,an Fitness denken,Tischtennis spielen,jodeln,vor dem Spiegel weinen,Schinken essen,Hühner jagen,nichts essen,lachen,kuscheln,Kekse backen,ihre Haare kämmen,literweise Vollmilch trinken,Haareschneiden,Urlaubsgeschichten erzählen,Reise nach Jerusalem spielen,schreien,Eisskulpturen bauen",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Voll in Form!",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "geschlafen",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "<i>David Lloyd Clubs</i> hat 2017 einen neuen Fitnesskurs an seinem Standort in London eingeführt. Um in Form zu kommen, mussten die Teilnehmer 45 Minuten lang <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "sleeping,in bed,snoozing,napping",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

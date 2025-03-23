@@ -12,7 +12,7 @@
     },
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasCorrectAudio"
     },
     {
@@ -22,12 +22,12 @@
     },
     {
       "t": "S",
-      "v": "Präsident,winzig,belgisch,aus Sellerie,Mechaniker,Albaner,Auftragsmörder,nackt,Angela Merkel,elektrisch aufgeladen,von einem anderen Planeten,aus Metall,drei Metergross,Babys,Meerjungfrauen,Kinder,hochintelligent,Politiker",
+      "v": "Präsident,winzig,belgisch,aus Sellerie,Mechaniker,Albaner,Auftragsmörder,nackt,Jesus,elektrisch aufgeladen,von einem anderen Planeten,aus Metall,drei Meter groß,Babys,Meerjungfrauen,Kinder,hochintelligent,Politiker",
       "n": "Suggestions"
     },
     {
       "t": "S",
-      "v": "psychiatrisch",
+      "v": "Echt krank!",
       "n": "Category"
     },
     {
@@ -52,17 +52,16 @@
     },
     {
       "t": "A",
-      "v": "419702_0",
+      "v": "bumper",
       "n": "BumperAudio"
     },
     {
       "t": "A",
-      "v": "372452_1",
       "n": "CorrectAudio"
     },
     {
       "t": "A",
-      "v": "372449_0",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

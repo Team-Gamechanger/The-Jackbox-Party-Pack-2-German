@@ -2,7 +2,7 @@
   "fields": [
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasBumperAudio"
     },
     {
@@ -22,7 +22,7 @@
     },
     {
       "t": "S",
-      "v": "in den Anden überleben,ein Reh füttern,das Haus tapezieren,in Babysprache sprechen,Französisch lernen,Filme anschauen,ein Auto reparieren,ins Space Camp gehen,einen Babyschimpansen grossziehen,ein Flugzeug fliegen,Monopoly spielen,nur das Wort blau verwenden,bei einem Spiel mitmachen,ein Wochenende in Nova Scotia verbringen,das Bootcamp der Armee durchstehen,ein Erntedankfest Essen kochen,einen Roboter bauen",
+      "v": "in den Anden überleben,ein Reh füttern,das Haus tapezieren,in Babysprache sprechen,Französisch lernen,Filme anschauen,ein Auto reparieren,ins Weltall fliegen,einen Babyschimpansen großziehen,ein Flugzeug fliegen,Monopoly spielen,nur blaue Sachen verwenden,eine Maus jagen,ein Wochenende im Dschungel verbringen,ein Bootcamp durchstehen,für ihre ganze Familie kochen,einen Roboter bauen",
       "n": "Suggestions"
     },
     {
@@ -32,7 +32,7 @@
     },
     {
       "t": "S",
-      "v": "IKEA Möbel zusammenbauen",
+      "v": "IKEA-Möbel zusammenbauen",
       "n": "CorrectText"
     },
     {
@@ -42,27 +42,26 @@
     },
     {
       "t": "S",
-      "v": "Der bahnbrechende Therapeut Dr. Ramani Durvasula hilft Paaren, ihre Kommunikationsfähigkeiten zu verbessern, indem sie sie zusammen <BLANK> läßt.",
+      "v": "Die bahnbrechende Therapeutin Dr. Ramani Durvasula lässt Paare gemeinsam <BLANK>, um ihre Kommunikationsfähigkeit zu verbessern.",
       "n": "QuestionText"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "IKEA-Möbel aufbauen,IKEA-Möbel bauen,Möbel zusammenbauen,Möbel aufbauen,Möbel bauen,Ikea Möbel aufbauen,Ikea Möbel zusammenbauen,Ikea Möbel bauen",
       "n": "AlternateSpellings"
     },
     {
       "t": "A",
-      "v": "null",
       "n": "BumperAudio"
     },
     {
       "t": "A",
-      "v": "null",
+      "v": "correct",
       "n": "CorrectAudio"
     },
     {
       "t": "A",
-      "v": "405892_1",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

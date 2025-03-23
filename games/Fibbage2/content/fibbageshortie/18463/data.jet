@@ -22,7 +22,7 @@
     },
     {
       "t": "S",
-      "v": "Vaginas,Herzen,Bienenstöcke,Pfeile,Finger,Katzen,menschliche Köpfe,perfekte Kugeln,Hühner,Schneemänner,Schornsteine,Mickey Maus,Schwerter,Rippenkäfige,Popos,gespitze Lippen,Kreuze,Schädel",
+      "v": "Vaginas,Herzen,Bienenstöcke,Pfeile,Finger,Katzen,menschliche Köpfe,perfekte Kugeln,Hühner,Schneemänner,Schornsteine,Micky Maus,Schwerter,Katzen,Hintern,gespitze Lippen,Kreuze,Schädel",
       "n": "Suggestions"
     },
     {
@@ -42,27 +42,27 @@
     },
     {
       "t": "S",
-      "v": "Wenn du dich in der Kappadokien-Region der Türkei befindest, solltest du unbedingt das berühmte Love Valley besichtigen, mit seinen vielen unglaublichen Felsformationen, die aussehen wie <BLANK>.",
+      "v": "Solltet ihr mal in der türkischen Region Kappadokien sein, dann müsst ihr unbedingt das „Love Valley“ besichtigen, mit seinen vielen unglaublichen Felsformationen, die wie <BLANK> aussehen.",
       "n": "QuestionText"
     },
     {
       "t": "S",
-      "v": "Penis,Penishaufen,pimmel,schwänze",
+      "v": "Penis,Penishaufen,pimmel,schwänze,Penes",
       "n": "AlternateSpellings"
     },
     {
       "t": "A",
-      "v": "419723_0",
+      "v": "bumper",
       "n": "BumperAudio"
     },
     {
       "t": "A",
-      "v": "377465_1",
+      "v": "correct",
       "n": "CorrectAudio"
     },
     {
       "t": "A",
-      "v": "377462_1",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

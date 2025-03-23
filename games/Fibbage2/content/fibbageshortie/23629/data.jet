@@ -2,7 +2,7 @@
   "fields": [
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasBumperAudio"
     },
     {
@@ -12,7 +12,7 @@
     },
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasCorrectAudio"
     },
     {
@@ -22,12 +22,12 @@
     },
     {
       "t": "S",
-      "v": "rohe Eier,Pferdeaugen,ganze Schweine,Stücke Schwefel,Toilettenrollen,geschnittene Fingernägel,Marmorblöcke,Blasen einer Kuh,Löffel seines eigenen Blutes,Truthahnfedern,Paar Unterhosen,Kugelkopf-Akazien,Schierlingsbeeren,Walrossdärme,Bananenschalen,Büschel seiner eigenen Haare,Murmeln,Diener",
+      "v": "rohe Eier,Pferdeaugen,ganze Schweine,Stücke Schwefel,Toilettenrollen,abgeschnittene Fingernägel,Marmorblöcke,Kuh-Lebern,Löffel seines eigenen Blutes,Truthahnfedern,Paar Unterhosen,Goldstücke,Schierlingsbeeren,Walrossdärme,Bananenschalen,Büschel seiner eigenen Haare,Murmeln,Diener",
       "n": "Suggestions"
     },
     {
       "t": "S",
-      "v": "verstimmt",
+      "v": "Beschwerden",
       "n": "Category"
     },
     {
@@ -42,27 +42,25 @@
     },
     {
       "t": "S",
-      "v": "Der äthiopische Herrscher Menelik II hatte ein ungewöhnliches Heilmittel für Magenverstimmung. Wenn er sich schlecht fühlte, aß er ein paar <BLANK>.",
+      "v": "Der äthiopische Herrscher Menelik II. hatte ein ungewöhnliches Mittel gegen Magenbeschwerden. Wenn er sich unwohl fühlte, aß er ein paar <BLANK>.",
       "n": "QuestionText"
     },
     {
       "t": "S",
-      "v": "Bibelseiten,Seiten aus der heiligen Schrift",
+      "v": "Bibelseiten,Seiten der Bibel,Bibel Seiten,Seiten aus der Bibel",
       "n": "AlternateSpellings"
     },
     {
       "t": "A",
-      "v": "null",
       "n": "BumperAudio"
     },
     {
       "t": "A",
-      "v": "null",
       "n": "CorrectAudio"
     },
     {
       "t": "A",
-      "v": "415487_0",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

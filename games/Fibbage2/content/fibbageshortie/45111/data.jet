@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Furzgerüche,Millennials,eingewachsenen Zehennägel,Milchhäute,Kugelschreiber,Salamistangen,Rückenhaare,Vorliebe für 90er Musik,Weihnachtsmänner,Bigfoot-Schwangerschaften,vollen Windeln,Flugzeugtoiletten,Eichhörnchen-Telepathie,Augenringe,Mid-Life-Crisis,Cargoshorts,deutschen Blätter-Glasschüsseln,erotischen Kornkreise",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Geheimnisse",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Delfinvaginas",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Dara Orbach von der Dalhousie University hat ihr Leben einem spannenden Forschungsgebiet gewidmet: der Lösung des Geheimnisses der <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Delphinvaginas,Delfinvagina,Delphinvagina",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

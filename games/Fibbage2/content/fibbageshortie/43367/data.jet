@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "betrunkener Teenager,Hinterwäldler,Nudisten,Vogelscheuchen,Vampirfledermäuse,Freimaurer,Harry-Potter-Fans,Politiker,verliebter Pärchen,radioaktiver Hirsche,Jonglierer,Labyrinthe,Maler,riesiger Hasen,Weltkriegsbomben,Drogendealer,Tunnel der Mafia,Bauern",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Der Mais ist heiß",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "kannibalischer Hamster",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Eine steigende Maisproduktion in Frankreich führte zeitgleich zu einer beunruhigenden Entwicklung: Die Maisfelder waren voller <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Hamster,Kannibalen,fleischessender Hamster,fleischfressender Hamster,Kannibalen-Hamster,Hamster-Kannibalen",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

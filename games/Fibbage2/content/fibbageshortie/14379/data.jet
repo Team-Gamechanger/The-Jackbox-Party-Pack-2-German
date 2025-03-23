@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Zigarren,Tangas,Antidepressiva,Früchte,Kondome,Wodka,Seetang,Puppen,Zahnspangen,Lollis,Briefmarken,Tintenkiller,Isotonische Getränke,Essbare Buntstifte,Frostschutzmittel,Zahnschützer,Atemalkoholtester,Aspirin",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Hello Kitty",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Bier",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Im Jahr 2013 brachte Hello Kitty „<BLANK> mit Fruchtgeschmack“ als brandneue Produktlinie auf den Markt.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Alkohol,Alkoholische Getränke",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

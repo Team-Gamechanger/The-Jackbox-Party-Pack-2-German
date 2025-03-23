@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "“Ich liebe dich” sagen wollte,tanzen wollte,ihren Namen aussprechen konnte,persönlich erschien,seine Schuhe ausziehen wollte,nüchtern war,kochen konnte,ein Gedicht aufsagen konnte,ihre Lieblingsfarbe kannte,aufhörte zu gähnen,seine Handy-PIN verraten wollte,in ihre Augen schauen wollte,schnipsen konnte,aufstand,ihr Gewicht erraten wollte,auf einem Bein stehen konnte,jonglierte,ohne Smartphone leben wollte",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Hochzeitsdrama",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "rechnen konnte",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Eine Braut in Uttar Pradesh, Indien, stürmte von ihrer Hochzeit, als ihr Bräutigam nicht <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Mathe konnte,addieren konnte,rechnete",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Mönche,Witwen,Kinder,Papageien,Lehrer,Single-Mütter,Nonnen,Athleten,Friseure,Raves,Karpfen,Touristen,Präsidenten,Obdachlose,Schildkröten,Krankenhauspatienten,Gefängnisinsassen,Bestatter",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Reiner Wein",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Katzen",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Der japanische Getränkehersteller <i>B&H Lifes</i> hat einen alkoholfreien Wein speziell für <BLANK> hergestellt.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Kätzchen",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

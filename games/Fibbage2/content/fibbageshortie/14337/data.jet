@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Benzin,Proteinshakes,Yoga,Bier,Stepptanz,Eiscreme,Rappen,Hustensaft,Schnee,Radioaktives Eis,Dating,Baseball-Sammelkarten,Kürbisse,Ehestreitigkeiten,Flugzeugtreibstoff,Benutzte Windeln,Elektrische Rasenmäher,Schnabeltiere",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Übermenschliche Kräfte",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Kokain",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Der Superschurke Snowflame aus dem DC-Universum erhielt seine Kräfte durch <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Cocain,Crack,Zu viel Kokain,Koks,Zu viel Koks,Eine Kokainüberdosis,Eine Koksüberdosis,Eine Überdosis Kokain,Eine Überdosis Koks",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

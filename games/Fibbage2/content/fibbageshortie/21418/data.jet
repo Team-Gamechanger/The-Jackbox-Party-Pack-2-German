@@ -22,12 +22,12 @@
     },
     {
       "t": "S",
-      "v": "singen,erbrechen,ersticken,rülpsen,schwitzen,urinieren,weinen,sich die Knochen brechen,in einen Schockzustand geraten,sterben,ihre Zähne verlieren,sich ein high-five geben,spucken,husten,lachen,taub werden,blind werden,die Kontrolle über ihren Darm verlieren",
+      "v": "singen,erbrechen,Jodeln,rülpsen,schwitzen,urinieren,weinen,sich die Knochen brechen,Zungenbrecher aufsagen,Vogelstimmen imitieren,Zähne verlieren,Beatboxen,spucken,husten,lachen,taub werden,blind werden,die Kontrolle über ihren Darm verlieren",
       "n": "Suggestions"
     },
     {
       "t": "S",
-      "v": "erregt",
+      "v": "Pioniere",
       "n": "Category"
     },
     {
@@ -42,27 +42,27 @@
     },
     {
       "t": "S",
-      "v": "Dr. Mahmoud Bhutta und Dr. Harold Maxwell leisteten Pionierarbeit für eine Studie über eine seltene Erkrankung, bei der Menschen <BLANK>, wenn sie sexuell erregt sind.",
+      "v": "Dr. Mahmoud Bhutta und Dr. Harold Maxwell leisteten Pionierarbeit bei der Erforschung einer seltenen Krankheit, bei der Menschen <BLANK>, wenn sie sexuell erregt sind.",
       "n": "QuestionText"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "nießen,Niesen müssen,Niesen bekommen,einen Nieser haben,einen Niesreiz bekommen,Niesreize bekommen,einen Niesanfall haben,einen Niesanfall bekommen,Niesanfälle bekommen,Niesanfälle haben",
       "n": "AlternateSpellings"
     },
     {
       "t": "A",
-      "v": "425116_2",
+      "v": "bumper",
       "n": "BumperAudio"
     },
     {
       "t": "A",
-      "v": "404974_1",
+      "v": "correct",
       "n": "CorrectAudio"
     },
     {
       "t": "A",
-      "v": "404971_0",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "unter Fingernägeln,an Dienstagen,in Pandaaugen,bei Vollmond,in der Nähe von Schaffarmen,von Spinnen,auf dem Mars,von Spargel,auf dem Mount Everest,unter Fahrradsitzen,in Wäschetrocknern,auf geklonten Ratten,auf Eisbergen,auf Schweinezungen,auf Flöhen,auf Yogamatten,in Straßenlaternen,in Fernsehern",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Kleintiere",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "auf Hummerlippen",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Die winzige Tierart <i>Symbion pandora</i> ist einzigartig, da sie nur <BLANK> lebt.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "den Lippen von Hummern,auf dem Mundwerkzeug von Hummern,auf Mundwerkzeugen von Hummern,auf Hummermündern,auf dem Mund von Hummern",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

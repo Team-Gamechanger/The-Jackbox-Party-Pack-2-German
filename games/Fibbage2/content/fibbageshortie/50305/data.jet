@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Game of Thrones,Elvis,Zyklopen,Kakteen,Anglerfische,Stefan Raab,Pudding,Mülltonnen,Bergsteigeroutfits,Bauchrednerpuppen,Zahnärzte,Eiswürfel,Steuerberater,Illuminaten,Candy Crush,Operationen,U-Boote,Telefonzellen",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Zimmer frei",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Clowns",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Roadtrip",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Wenn ihr im US-amerikanischen Ort Tonopah seid, solltet ihr unbedingt einmal in dessen einzigartigen Motel übernachten, in dem sich alles um <BLANK> dreht.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Zirkus",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "bumper",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

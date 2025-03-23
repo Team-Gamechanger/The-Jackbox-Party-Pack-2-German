@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Nonnen,Piraten,den rauchenden Piloten,Pferdeäpfel,eine streunende Katze,ein explodierendes Handy,einen Koala mit Durchfall,einen schmelzenden Nintendo DS,weinende Babys,einen betrunkenen blinden Passagier,einen angeschalteten Toaster,einen Blindgänger,das Eiersandwich des Kopiloten,einen Sodastream,einen Kiffer,eine Heißluftfritteuse,Arnold Schwarzenegger,Mundharmonika-Musik",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Notlandung",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "furzende Schafe",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Im Jahr 2015 musste ein Frachtflug von Australien nach Kuala Lumpur unerwartet landen, nachdem der Feueralarm durch <BLANK> ausgelöst worden war.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "pupsende Schafe,Schaffürze,Schafpupse,Pupsen,Furzen,Flatulenzen,ein furzendes Schaf,ein pupsendes Schaf",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

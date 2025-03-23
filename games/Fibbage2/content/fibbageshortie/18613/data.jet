@@ -2,7 +2,7 @@
   "fields": [
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasBumperAudio"
     },
     {
@@ -22,12 +22,12 @@
     },
     {
       "t": "S",
-      "v": "eine Ente,ein Mormone,ein Lampenschirm,eine Zeichentrickfigur,ein Toter,ein Planet,ein Toaster,eine Kuh,eine alte Scheune,ein Baby,eine Ziege,ein Schimpanse,ein Obdachloser,ein Strassenschild,ein Traktor,ein Sandwich,ein Staubkorn,ein Baum",
+      "v": "eine Ente,ein Straßenhund,ein Lampenschirm,eine Zeichentrickfigur,ein Toter,ein Planet,ein Toaster,eine Kuh,ein Fußballmaskottchen,ein vierjähriges Kind,eine Ziege,ein Schimpanse,ein Kuscheltier,ein Verkehrsschild,ein Traktor,ein Sandwich,ein Zufallsgenerator,ein Baum",
       "n": "Suggestions"
     },
     {
       "t": "S",
-      "v": "Umschwung",
+      "v": "Wahlk(r)ampf",
       "n": "Category"
     },
     {
@@ -42,27 +42,26 @@
     },
     {
       "t": "S",
-      "v": "Die Einwohner der brasilianischen Stadt Sao Paulo waren mehr als überrascht, als 1959 <BLANK> die Stadtratwahl gewonnen hatte.",
+      "v": "Die Einwohner der brasilianischen Stadt Sao Paulo waren mehr als überrascht, als 1958 <BLANK> die Stadtratwahl gewonnen hatte.",
       "n": "QuestionText"
     },
     {
       "t": "S",
-      "v": "Rhino,Rhinozeros,Nashorn",
+      "v": "ein Nashornbulle,ein Nashornweibchen,ein Rhinozeros,das Nashorn,das Rhinozeros,ein Rhino",
       "n": "AlternateSpellings"
     },
     {
       "t": "A",
-      "v": "null",
       "n": "BumperAudio"
     },
     {
       "t": "A",
-      "v": "378461_0",
+      "v": "correct",
       "n": "CorrectAudio"
     },
     {
       "t": "A",
-      "v": "378458_0",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

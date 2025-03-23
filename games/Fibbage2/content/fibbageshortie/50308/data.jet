@@ -1,0 +1,69 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "die Sonne anzuschreien,Leuten in die Augen zu starren,Grammatikfehler zu korrigieren,das Sonnenlicht zu meiden,Fingernägel zu kauen,nasse Farbe anzufassen,Milch zu trinken,zum Arzt zu gehen,mit Schlüsseln zu klimpern,Süßigkeiten zu essen,Zehen anzufassen,Sport zu machen,Podcasts anzuhören,Sport anzuschauen,Sushi zu essen,langsam zu fahren,Vögel anzuschauen,Fotos von allem zu machen",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Überwältigend",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "im Bett zu bleiben",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "StrangeAilments",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Leidet ihr an Klinomanie? Wenn ja, dann habt ihr den überwältigenden Drang, <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "ins Bett zu gehen,nicht aus dem Bett aufzustehen,nicht aufzustehen,im Bett bleiben",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "bumper",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

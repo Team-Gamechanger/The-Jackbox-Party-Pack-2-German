@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "eine Fluchtklappe,Nahrungsmittel,einen Welpen,eine Krone,einen Dildo,eine Schokoladentafel,einen seltenen Edelstein,das Skelett eines Hahns,ein Kuchenrezept,einen Geist,ein Gemälde von Da Vinci,einen Sexratgeber,Haustürschlüssel,ein Korsett,eine Zigarette,eine Tretmine,eine Schatzkarte,eine Affenpfote",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Grabgeheimnisse",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "ein Baby",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Als Wissenschaftler den Sarg des Bischofs Peder Winstrup untersuchten, waren sie schockiert, als sie <BLANK> darin versteckt fanden.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "ein Kind,ein Fötus,einen Fötus,ein Fetus,einen Fetus,Baby,Kind,ein Kleinkind",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -12,7 +12,7 @@
     },
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasCorrectAudio"
     },
     {
@@ -22,12 +22,12 @@
     },
     {
       "t": "S",
-      "v": "Hosen,Geistern,Sandwiches,Pizza,Kugeln,Dr. Pepper,Würmern,Mais,Kautabak,Radiergummis,Gesichtern,Steuerrückzahlungen,Kaugummis,Beton,Waffeln,Handys,Vorhängeschlössern,Liebesbriefen",
+      "v": "Hosen,Schlüsseln,Toilettensitzen,Glühbirnen,Wäscheklammern,Korkenziehern,Würmern,Mais,Fahrradhelmen,Radiergummis,Teebeuteln,Einkaufswagen,Briefen,Weckern,Waffeln,Handys,Vorhängeschlössern,Liebesbriefen",
       "n": "Suggestions"
     },
     {
       "t": "S",
-      "v": "Baum",
+      "v": "Bäume",
       "n": "Category"
     },
     {
@@ -42,27 +42,26 @@
     },
     {
       "t": "S",
-      "v": "Wenn du in Milltown, Indiana bist, vergiss nicht den berühmten Baum zu besuchen, der komplett mit <BLANK> beschmückt ist.",
+      "v": "Wenn ihr in der US-amerikanischen Stadt Milltown seid, vergesst nicht, den berühmten Baum zu besuchen, der über und über mit <BLANK> geschmückt ist.",
       "n": "QuestionText"
     },
     {
       "t": "S",
-      "v": "Sneakers",
+      "v": "Sneakers,Schuhen,Schuhe,Schuh,Schuhpaare,Schuhwerk,Schuhpaaren",
       "n": "AlternateSpellings"
     },
     {
       "t": "A",
-      "v": "412674_1",
+      "v": "bumper",
       "n": "BumperAudio"
     },
     {
       "t": "A",
-      "v": "387419_0",
       "n": "CorrectAudio"
     },
     {
       "t": "A",
-      "v": "387416_0",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

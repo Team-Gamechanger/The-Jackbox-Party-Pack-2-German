@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "lecker,vegan,koscher,gratis,unsichtbar,mit Schokolade überzogen,ohne Käse,in Schweden illegal,dreieckig,Big Macs,auf dem Mars erhältlich,doppelt so groß,nicht mehr erhältlich,leuchtend im Dunkeln,nur noch virtuell,mit Gold belegt",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Fast Food",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Linkshänder",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "In einem Werbegag in 1998 kündigte <i>Burger King</i> an, dass ihre Whopper jetzt <BLANK> seien.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "linkshändig",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

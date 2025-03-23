@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Jongleur,Veganer,ein Schüler,Zauberer,eine Meerjungfrau,Linkshänder,keine Frau,ein Profikoch,Programmierer,blind,im Rollstuhl,Franzose,ein Oktopus,Dichter,Doktor der Physik,ein Superheld,Perückenmacher,Korbflechter",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Königliche Statuen",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "ein Pinguin",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Im Jahr 2005 wurde in Edinburgh eine Statue zu Ehren von Sir Nils Olav errichtet, dem ersten Mitglied der norwegischen Königsgarde, das <BLANK> war.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Pinguin,ein Kaiserpinguin,Kaiserpinguin",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

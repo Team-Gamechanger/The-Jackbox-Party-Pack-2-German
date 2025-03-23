@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "das Vorspiel,Kerzenziehen,Esssucht,FKK-Strände,Verhütungsmittel,Pfannenwender,Karate,Rauchen,Dinosaurier,Yoga,Bordelle,Flachwitze,den perfekten Pub-Burger,die Flacherde,Tarotkarten,Bier mit Zitronenlimonade,Modestandards in der High School,Meerjungfrauen",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Staatsmänner",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Aliens",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Winston Churchill verfasste im Jahr 1939 ein ungewöhnliches und nie veröffentliches Essay über <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "außerirdisches Leben,Außerirdische,Ausserirdisches Leben,Ausserirdische,Alien,Ufos,Ufo",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

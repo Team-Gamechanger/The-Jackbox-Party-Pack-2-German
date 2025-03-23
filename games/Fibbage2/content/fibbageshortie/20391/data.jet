@@ -2,7 +2,7 @@
   "fields": [
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasBumperAudio"
     },
     {
@@ -12,7 +12,7 @@
     },
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasCorrectAudio"
     },
     {
@@ -22,12 +22,12 @@
     },
     {
       "t": "S",
-      "v": "Katzen zu streicheln,Holzspäne,Kamelspucke zu trinken,Sklaven schlagen,im Sand zu rollen,Hundeohren,Feigenblätter zu rauchen,in Tränen zu baden,in Milch zu baden, Asche zu schnupfen,Zunge zu essen,niemals Seife zu verwenden,Libellenflügel,ein Bad im Blut ihrer Feinde,Waschen mit schmutzigem Wasser,Fleischhüte,Eigenurintherapien,Schlammbäder",
+      "v": "das Streicheln von Katzen,Holzspäne,Kamelspucke,das Schlagen von Sklaven,Rollen im Sand,Hundeohren,das Rauchen von Feigenblättern,Bäder in Tränen,Schlangengift, Asche-Schnupfen,Palmenharz,ein Seifenverbot,Libellenflügel,Bäder im Blut ihrer Feinde,Katzenurin,Fleischhüte,Krokodilsblut,Elfenbein-Injektionen",
       "n": "Suggestions"
     },
     {
       "t": "S",
-      "v": "beauty",
+      "v": "Natürliche Schönheit",
       "n": "Category"
     },
     {
@@ -42,27 +42,25 @@
     },
     {
       "t": "S",
-      "v": "Auch wenn es heute nicht als Schönheitshilfe betrachtet wird, hat Cleopatra ihr gutes Aussehen auf <BLANK> zurückgeführt.",
+      "v": "Kurioserweise soll Kleopatra ihr gutes Aussehen auf <BLANK> zurückgeführt haben.",
       "n": "QuestionText"
     },
     {
       "t": "S",
-      "v": "viel Gurken essen,eine Ernährung mit Gurken,Gurken,Gurken essen,Essiggurken essen",
+      "v": "eine Ernährung mit Gurken,Gurken,Gurken essen,Essiggurken essen,Gewürzgurken,saure Gurken,eingelegte Gurken",
       "n": "AlternateSpellings"
     },
     {
       "t": "A",
-      "v": "null",
       "n": "BumperAudio"
     },
     {
       "t": "A",
-      "v": "396419_0",
       "n": "CorrectAudio"
     },
     {
       "t": "A",
-      "v": "396416_0",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

@@ -12,7 +12,7 @@
     },
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasCorrectAudio"
     },
     {
@@ -22,12 +22,12 @@
     },
     {
       "t": "S",
-      "v": "Messers,Plastikbeins,Liegestuhls,Schuhs,Skateboards,Wollknäuels,Computers,Eiffelturm Imitats,Reifens,Fahnenmastes,Salatkopfes,LEGO Turms,Leuchtturms,Aktenschrankes,Flugzeugs,schweizer Taschenmessers,leeren Blattes Papier,Crackers",
+      "v": "Messers,Gummibärchens,Kaugummiautomaten,Schuhs,Dosenöffners,Wollknäuels,Computers,Radiergummis,Reifens,Fahnenmastes,Salatkopfes,LEGO-Turms,Nagelknipsers,Aktenschrankes,Flugzeugs,Schweizer Taschenmessers,Teebeutels,Kleiderbügels",
       "n": "Suggestions"
     },
     {
       "t": "S",
-      "v": "baker",
+      "v": "Wahre Größe",
       "n": "Category"
     },
     {
@@ -42,27 +42,26 @@
     },
     {
       "t": "S",
-      "v": "Für etwas echt aufregendes gehe am besten nach Baker in Kalifornien und bestaune den Anblick des größten <BLANK> der Welt.",
+      "v": "Wer etwas wirklich Aufregendes erleben will, sollte in die kalifornische Ortschaft Baker fahren und den Anblick des größten <BLANK> der Welt bestaunen.",
       "n": "QuestionText"
     },
     {
       "t": "S",
-      "v": "Themometers,Thermoters,Thermeters,Termometers",
+      "v": "Themometers,Thermoters,Thermeters,Termometers,Thermometer,Temperaturanzeigers,Temperaturmessers,Temperaturmessgeräts,Wärmemesser,Wärmemessers",
       "n": "AlternateSpellings"
     },
     {
       "t": "A",
-      "v": "414478_0",
+      "v": "bumper",
       "n": "BumperAudio"
     },
     {
       "t": "A",
-      "v": "null",
       "n": "CorrectAudio"
     },
     {
       "t": "A",
-      "v": "414473_0",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

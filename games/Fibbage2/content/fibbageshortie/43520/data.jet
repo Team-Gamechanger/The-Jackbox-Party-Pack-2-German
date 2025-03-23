@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Nerds,Meerjungfrauen,Personen die Stephen heißen,Pazifisten,NBA-Spieler,Fans von My Little Pony,Science-Fiction-Autoren,Kickboxer,Til Schweiger,Künstliche Intelligenz,Pensionierte Bürgermeister,Außerirdisches Leben,Seine ehemaligen Physiklehrer,Gamer,Burger King Mitarbeiter,Vegetarier,Bewohner eines Seniorenheims,Seine 73 Katzen",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Zeitlose Partys",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Zeitreisende",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Am 28. Juni 2009 veranstaltete der Physiker Stephen Hawking eine Party, zu der nur <BLANK> eingeladen waren.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Zeitreisende Menschen,Zeitreisende Personen,Personen die durch die Zeit reisen",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

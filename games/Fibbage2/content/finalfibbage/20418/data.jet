@@ -2,7 +2,7 @@
   "fields": [
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasBumperAudio"
     },
     {
@@ -12,7 +12,7 @@
     },
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasCorrectAudio"
     },
     {
@@ -22,12 +22,12 @@
     },
     {
       "t": "S",
-      "v": "Maurice,Liam,Oliver,Dylan,Isaac,Pip,Pequod,Hannibal,Vlad,Rhett,Mookie,Ramona,Ichabod,Atticus,Hester,Quasimodo,Jim,Wayne,Willi,Olaf,Hans,Günther,Klaus",
+      "v": "Maurice,Günther,Oliver,Dylan,Leopold,Pip,Alexander,Hannibal,Albert,Raphael,Theodor,Ramona,Zacharias,Viktor,Albert,Louis,Jim,Richard,Sam,Olaf,Hans,Günther,Klaus",
       "n": "Suggestions"
     },
     {
       "t": "S",
-      "v": "cookie",
+      "v": "Keks",
       "n": "Category"
     },
     {
@@ -42,27 +42,25 @@
     },
     {
       "t": "S",
-      "v": "Krümelmonster’s echter Vorname.",
+      "v": "Der Vorname des Krümelmonsters.",
       "n": "QuestionText"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "Syd",
       "n": "AlternateSpellings"
     },
     {
       "t": "A",
-      "v": "null",
       "n": "BumperAudio"
     },
     {
       "t": "A",
-      "v": "null",
       "n": "CorrectAudio"
     },
     {
       "t": "A",
-      "v": "397064_0",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

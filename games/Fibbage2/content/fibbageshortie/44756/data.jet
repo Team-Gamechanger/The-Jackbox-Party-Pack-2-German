@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Zirkuswaisen,Schlangen,Obstbäume,Ameisenbären,Quizshow-Moderatoren,verfluchte Puppen,Birkenstock-Sandalen,Echsen,Sandwiches,Mülleimer,Beweise,Rollerskates,Schallplatten,Freizeit,olympische Athleten,Mumien,Handy-Ladekabel,Videospiele",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Guter Zweck",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Esel",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Die einzigartige Wohltätigkeitsorganisation Longhopes findet ein Zuhause für ungewollte <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Hausesel,Wildesel",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

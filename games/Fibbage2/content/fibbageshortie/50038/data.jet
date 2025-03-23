@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Ketchup,Altpapier,Dünger,Hausmüll,alten Socken,Leder,Parmesan,Wespennestern,Kronkorken,alten Batterien,alten Handys,Autoreifen,Rasierklingen,Tintenpatronen,Knochen,vertrockneten Blumen,benutzten Teebeuteln,Katzenstreu",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Schaffe schaffe, Häusle baue",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Popcorn",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "An der Uni Göttingen entwickelten Forscher ein neues CO2-neutrales Baumaterial, das aus Hanf, Flachs und <BLANK> hergestellt wird.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "altem Popcorn,Popkorn,weggeworfenem Popcorn",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

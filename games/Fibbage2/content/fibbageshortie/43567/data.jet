@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Hitzefrei,Indoor-Seilspringen,Filme im Unterricht,Deodorant,coole Autos,Stimmungsschwankungen,Mikrowellenessen,Fast Food,fettige Haare in der Schule,Duschen in Sporthallen,Kaugummi,Jugendsprache,tanzen,das Wort “cool”,Grimassen,Comicbücher,Kugelschreiber in Klausuren,Schulausfälle",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Isländische Kontroversen",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Ananaspizza",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Kontroversen Aussagen gegenüber Schülern folgend gab der isländische Präsident Gudni Johannesson auf Facebook bekannt, dass er <BLANK> nicht verbieten werde.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Pizza mit Ananas,mit Ananas belegte Pizza,Pizza Ananas,Pizza,Ananas auf Pizza",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

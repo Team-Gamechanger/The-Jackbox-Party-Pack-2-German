@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "den Sinn für Humor,die Fähigkeit zu sprechen,ihre Zähne,ihr Kurzzeitgedächtnis,das Sehvermögen,den Gefallen an Musik,ihren Geruchssinn,die Schlüssel,ihr Gehör,die Liebe zu ihrer Familie,das Gleichgewicht,das Modebewusstsein,die Fingernägel,ihr Rhythmusgefühl,die Fähigkeit zu schnarchen,ihren moralischen Kompass,ihre Haarfarbe,die Kreativität",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Nebenwirkungen",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "ihren Fingerabdruck",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Medizinischen Studien nach kann die Einnahme des Medikaments Capecitabin dazu führen, dass Patienten vorübergehend <BLANK> verlieren.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "den Fingerabdruck,die Fingerabdrücke",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

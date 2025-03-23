@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "einem Verkehrsschild,einer Katze,Trockeneis,einem Space Shuttle,Autoabgasen,einem Kaktus,Klapperschlangen-Gift,Senfgas,der Sonne,einem Flammenwerfer,dem Atem eines Feuerschluckers,Reibung,Feuerwerk,einer Kanone,seinen Gedanken,einem Laser,einem Vulkan,dem Magnetfeld der Erde",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Zigaretten",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "einer Atombombe",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Im Jahr 1952 war der US-Amerikaner Ted Taylor der erste Mensch, der sich eine Zigarette mit <BLANK> anzündete.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Atombomben,einer Bombe",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

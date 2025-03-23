@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Leopardenfell,Göffeln,Hirschgeweihen,alten Schuhen,Lebkuchen,Müll,Zahnstochern,Bienenwachs,Wolle,Luftpolsterfolie,Trockeneis,altem Kaugummi,lebenden Kühen,altem Brot,Munition,Panzertape,Bierkrügen,Blumentöpfen",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Kathedralen",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Karton",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Roadtrip",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Bei einem Besuch in Christchurch, Neuseeland, solltet ihr euch die 3,7 Millionen Euro teure Kathedrale aus <BLANK> ansehen.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Pappe,Papier,Kartons",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "bumper",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

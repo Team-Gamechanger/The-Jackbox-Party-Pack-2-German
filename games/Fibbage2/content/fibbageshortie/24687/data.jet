@@ -2,7 +2,7 @@
   "fields": [
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasBumperAudio"
     },
     {
@@ -12,7 +12,7 @@
     },
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasCorrectAudio"
     },
     {
@@ -22,7 +22,7 @@
     },
     {
       "t": "S",
-      "v": "Käfern,der Sonne,Clowns,Milch,dem Meer,älteren Menschen,Ausserirdischen,Regen,der Regierung,unreinen Blutlinien,Hühnern,einem Statusverlust,Geistern,Bäumen,Blitzen,Spinnen,Walrossen,Statuen",
+      "v": "Käfern,der Sonne,Clowns,Milch,dem Meer,älteren Menschen,Außerirdischen,Regen,der Regierung,unreinen Blutlinien,Hühnern,einem Statusverlust,Geistern,Bäumen,Blitzen,Spinnen,Walrossen,Statuen",
       "n": "Suggestions"
     },
     {
@@ -42,7 +42,7 @@
     },
     {
       "t": "S",
-      "v": "2015 fand eine Gruppe von Wissenschaftlern der Universität von Pittsburgh heraus, dass die Menschen im antiken Griechenland enorme Angst vor <BLANK> hatten.",
+      "v": "Im Jahr 2015 fand eine Gruppe von Wissenschaftlern der Universität Pittsburgh heraus, dass die Menschen im antiken Griechenland große Angst vor <BLANK> hatten.",
       "n": "QuestionText"
     },
     {
@@ -52,17 +52,15 @@
     },
     {
       "t": "A",
-      "v": "null",
       "n": "BumperAudio"
     },
     {
       "t": "A",
-      "v": "null",
       "n": "CorrectAudio"
     },
     {
       "t": "A",
-      "v": "424639_0",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

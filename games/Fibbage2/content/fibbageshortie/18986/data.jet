@@ -2,7 +2,7 @@
   "fields": [
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasBumperAudio"
     },
     {
@@ -22,7 +22,7 @@
     },
     {
       "t": "S",
-      "v": "Pennies,Plesiosaurier Scheisse,Frisbees,Schuhe,Autoreifen,Loch Ness Monster Souvenirs,Schlüsselanhänger,Totenköpfe,Kunststoff-Six-Pack-Ringe,Flaschen Scotch,Kronkorken,Fischskelette,antike Statuen,Mikroben,Pappteller,Schnorchel,Militär Erkennungsmarken,Curling Steine",
+      "v": "Münzen,Quietscheenten,Bierkrüge,Schuhe,Autoreifen,Eheringe,Schlüsselanhänger,Totenköpfe,Plastikflaschen,Kugelschreiber,Kronkorken,Fischskelette,antike Statuen,Nessie-Stofftiere,Pappteller,Schnorchel,Zähne,Schnuller",
       "n": "Suggestions"
     },
     {
@@ -32,7 +32,7 @@
     },
     {
       "t": "S",
-      "v": "Golfbällen",
+      "v": "Golfbälle",
       "n": "CorrectText"
     },
     {
@@ -42,27 +42,26 @@
     },
     {
       "t": "S",
-      "v": "Im Jahr 2009 entdeckten Wissenschaftler, die Loch Ness in einem U-Boot erkundeten, unerwartet Hunderttausende von <BLANK> am Boden.",
+      "v": "Im Jahr 2009 entdeckten Wissenschaftler bei der Erkundung von Loch Ness per U-Boot unerwartet hunderttausende <BLANK>.",
       "n": "QuestionText"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "Golfball,Golf-Bälle,Golf Bälle,Golfkugeln,Golf-Kugeln,Golf Kugeln",
       "n": "AlternateSpellings"
     },
     {
       "t": "A",
-      "v": "null",
       "n": "BumperAudio"
     },
     {
       "t": "A",
-      "v": "381164_0",
+      "v": "correct",
       "n": "CorrectAudio"
     },
     {
       "t": "A",
-      "v": "381161_0f",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "aus Kissen besteht,freundlich und effizient ist,auf einem Schrottplatz liegt,im Dunkeln leuchtet,von Robotern betrieben wird,auf einem Vulkan steht,auf einem Piratenschiff liegt,nur nachts geöffnet hat,auf einem Friedhof liegt,von Pinguinen bewacht wird,kopfüber hängt,in einem Flugzeugwrack ist,von Affen geleitet wird,immer brennt",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Postamt",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "unter Wasser liegt",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Roadtrip",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Wenn ihr in Vanuatu seid, solltet ihr unbedingt die Postfiliale von Port Vila besuchen, die ungewöhnlicherweise <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "unter Wasser ist,im Meer liegt,im Meer ist",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "bumper",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

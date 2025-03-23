@@ -2,7 +2,7 @@
   "fields": [
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasBumperAudio"
     },
     {
@@ -12,7 +12,7 @@
     },
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasCorrectAudio"
     },
     {
@@ -22,7 +22,7 @@
     },
     {
       "t": "S",
-      "v": "Einrad tragen,Ehemann jongleiren,Kuh Wrestling,Auto heben,Pudding Skulptur machen,Nasenpflücken,High-Five Wettbewerb,wie Conan O’Brien aussehen,Karaoke rückwärts,Penis Wrestling,Biertrinken,Kühe melken,Schafe scheren,der blasseste Ingwer der Welt,fange den Kobold,Bauchnabelfussel rollen,der längste Futz der Welt,den Lügendetektor schlagen",
+      "v": "Einrad tragen,Ehemann jonglieren,Kuh-Wrestling,Autoheben,Pudding-Skulptur bauen,Nasenpflücken,High-Five-Wettbewerb,die Topfschlagen-Weltmeisterschaft,Rückwärts-Karaoke,Penis-Wrestling,Biertrinken,Kühe melken,Schafe scheren,der hässlichste Ingwer der Welt,fang den Kobold,Bauchnabelfussel rollen,der längste Furz der Welt,Schlag den Lügendetektor",
       "n": "Suggestions"
     },
     {
@@ -42,7 +42,7 @@
     },
     {
       "t": "S",
-      "v": "Der wirklich seltsame Wettbewerb, der 2015 beim irischen Lady of the Lake Festival dazugekommen ist.",
+      "v": "Der wirklich seltsame Wettbewerb, der 2015 Teil des irischen Lady of the Lake Festivals wurde.",
       "n": "QuestionText"
     },
     {
@@ -52,17 +52,15 @@
     },
     {
       "t": "A",
-      "v": "null",
       "n": "BumperAudio"
     },
     {
       "t": "A",
-      "v": "null",
       "n": "CorrectAudio"
     },
     {
       "t": "A",
-      "v": "430008_0",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

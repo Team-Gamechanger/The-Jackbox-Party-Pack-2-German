@@ -2,7 +2,7 @@
   "fields": [
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasBumperAudio"
     },
     {
@@ -12,7 +12,7 @@
     },
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasCorrectAudio"
     },
     {
@@ -22,7 +22,7 @@
     },
     {
       "t": "S",
-      "v": "sich übergibt,den Limbo schafft,einen Stuhl zerstört,einen kompletten Truthahn schluckt,beim Minigolf mit einem Schlag einlocht,ein Papierflugzeug bastelt,ein Dreirad 30 Meter weit fährt,ein Feuer löscht,eine Kuh melkt,in eine Toilette stürzt,Hula Dance macht,furzt,einen Krawattenknoten bindet,twerkt,10 Seilsprünge schafft,einen Bären zu Boden ringt,eine Matheaufgabe löst,10 Kämpfe in Folge gewinnt",
+      "v": "speit,den Limbo schafft,einen Stuhl zerstört,einen kompletten Truthahn isst,ein Hole-in-One beim Minigolf schafft,ein Papierflugzeug bastelt,ein Dreirad 30 Meter weit fährt,ein Feuer löscht,eine Kuh melkt,in eine Toilette stürzt,weint,furzt,einen Krawattenknoten bindet,twerkt,10 Seilsprünge schafft,einen Bären zu Boden ringt,eine Matheklausur löst,10 Kämpfe in Folge gewinnt",
       "n": "Suggestions"
     },
     {
@@ -42,27 +42,25 @@
     },
     {
       "t": "S",
-      "v": "Eine jährliche Tradition des Nakizumo Festivals ist, dass Sumoringer wetteifern, wer zuerst <BLANK>.",
+      "v": "Eine alljährliche Tradition des Nakizumo-Festivals ist, dass Sumoringer darum wetteifern, wer zuerst <BLANK>.",
       "n": "QuestionText"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "Baby zum Weinen bringt,ein Baby Weinen lässt",
       "n": "AlternateSpellings"
     },
     {
       "t": "A",
-      "v": "null",
       "n": "BumperAudio"
     },
     {
       "t": "A",
-      "v": "null",
       "n": "CorrectAudio"
     },
     {
       "t": "A",
-      "v": "406863_0",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

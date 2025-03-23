@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Babyurin getrunken,verdorbenen Thunfisch gegessen,Schlangengift gegurgelt,mit Tigermilch geduscht,in Batteriesäure geschwommen,Giraffenurin inhaliert,Benzin auf seine Haut geschmiert,Vodka auf seine Kopfhaut aufgetragen,Giftsumach gegessen,Weichspüler geschnupft,Eiweiss in seine Augen getropft,Coca-Cola in seine Muskeln gespritzt,Hanfdecken gestrickt,Diesel in seinen Kaffee geschüttet,Elefantendung geleckt,seinen Penis in Bleiche getaucht,nackt Fallschirmsprünge gemacht,Cartoons geschaut",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Diktator-Schönheitsroutine",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "in Delfinblut gebadet",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Aus dem Glauben heraus, dass er dadurch jung bleiben würde, hat der burmesische Diktator Ne Win manchmal <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "in Delfinblut geschwommen,in Delfinblut getaucht,in Delfin Blut gebadet,in Delfin Blut geschwommen,in Delfin Blut getaucht,Delfinblutbäder gemacht,Delfin Blut Bäder gemacht,Delfinblut-Bäder gemacht",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

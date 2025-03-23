@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Leichen,Schokolade,Kräuterquark,Atommüll,Socken,Limonade,Wandfarbe,Geld,Kot,Autogramme von Markus Lanz,Sperrmüll,Gewürzketchup,Koks,Aale,Trinkkelche,Goldbarren,Kondome,Pestmedikamente,NES-Spiele",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Zur See",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Gin",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Im Dezember 2022 verschwand aus dem Bodensee eine 800 Kilogramm schwere Edelstahlkugel voller <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -2,7 +2,7 @@
   "fields": [
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasBumperAudio"
     },
     {
@@ -12,7 +12,7 @@
     },
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasCorrectAudio"
     },
     {
@@ -22,7 +22,7 @@
     },
     {
       "t": "S",
-      "v": "Yuppies,Gamer,Zocker,Leute die Furzen,Fallschirmspringer,Fans von Batman,Cosplayer,Snowboarder,Nudisten,Veganer,Grosswildjäger,Briefträger,Tierpfleger,Jockeys,Stenografen,Krankenschwestern,Golf Caddies,Floristen",
+      "v": "Hinterwäldler,Gamer,Zocker,Leute die Furzen,Fallschirmspringer,Fans von Batman,Cosplayer,Snowboarder,Nudisten,Veganer,Großwildjäger,Briefträger,Tierpfleger,Jockeys,Stenografen,Krankenschwestern,Golfspieler,Floristen",
       "n": "Suggestions"
     },
     {
@@ -42,27 +42,25 @@
     },
     {
       "t": "S",
-      "v": "Laut einer seltsamen Studie eines Psychologie Professors der Humboldt-Universität zählen <BLANK> zu der Gruppe von Menschen, die mit ihrem Leben am zufriedensten sind.",
+      "v": "Einer kuriosen Studie der US-amerikanischen Humboldt-Universität folgend, gehören <BLANK> zu der Gruppe von Menschen, die mit ihrem Leben am zufriedensten sind.",
       "n": "QuestionText"
     },
     {
       "t": "S",
-      "v": "Metler,Metaler,Rock Fans,80er Metaler",
+      "v": "Metler,Metaler,Rock Fans,80er Metaler,Metal Fans,Fans von Heavy Metal,Heavy-Metal-Fans,Heavy Metal Fans",
       "n": "AlternateSpellings"
     },
     {
       "t": "A",
-      "v": "null",
       "n": "BumperAudio"
     },
     {
       "t": "A",
-      "v": "431085_1",
       "n": "CorrectAudio"
     },
     {
       "t": "A",
-      "v": "431082_3",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

@@ -22,12 +22,12 @@
     },
     {
       "t": "S",
-      "v": "Kiefernzapfen,Weizen Brot,Baumwollsocken,Brieftaschen,Paste,Rollkragenpullover,Wetterfahnen,Filzhut,die Farbe Grau,Silos,khaki Hosen,Stroh,Bingo,Schlamm,Mikrofone,Bärte,Brühe",
+      "v": "Kiefernzapfen,Weizenbrot,Baumwollsocken,Brieftaschen,Isolierpaste,Rollkragenpullover,Wetterfahnen,Filzhütte,Enten,Silos,Jeanshosen,Stroh,Bingo,Schlamm,Mikrofone,Bärte,Soße",
       "n": "Suggestions"
     },
     {
       "t": "S",
-      "v": "McLean",
+      "v": "Museum",
       "n": "Category"
     },
     {
@@ -42,27 +42,27 @@
     },
     {
       "t": "S",
-      "v": "In McLean, Texas, gibt es ein Museum in dem es alles zu sehen gibt rund um das einfache und banale Thema <BLANK>.",
+      "v": "Im texanischen McLean gibt es ein Museum, in dem sich einfach alles um das Thema <BLANK> dreht.",
       "n": "QuestionText"
     },
     {
       "t": "S",
-      "v": "Stachel draht,Stacheldrahtzaun,Stachel draht zaun,stacheldraht zaun",
+      "v": "Stachel draht,Stacheldrahtzaun,Stachel draht zaun,stacheldraht zaun,Maschendraht,Maschendrahtzaun,Maschen Draht",
       "n": "AlternateSpellings"
     },
     {
       "t": "A",
-      "v": "419728_0",
+      "v": "bumper",
       "n": "BumperAudio"
     },
     {
       "t": "A",
-      "v": "375578_2",
+      "v": "correct",
       "n": "CorrectAudio"
     },
     {
       "t": "A",
-      "v": "375575_1",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

@@ -2,7 +2,7 @@
   "fields": [
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasBumperAudio"
     },
     {
@@ -22,12 +22,12 @@
     },
     {
       "t": "S",
-      "v": "Ziege Kot,Achselhaare,Zehennägel,Troll Fleisch,Rentier Geweihen,toten Tieren,Eichhörnchen Pelze,Babywindeln,Schmutz,Hirsch Penisen,Handtüchern,Teppichen,Ratten,Klee,Blauschimmelkäse,Lachs,Eier,Couscous",
+      "v": "gefrorenen Tränen,Achselhaaren,Zehennägeln,Rentier-Schweiß,Geweihen,Lavagestein,Robbenmilch,Windeln,Erde,Hirsch-Penissen,Handtüchern,Teppichen,Ratten,Klee,Blauschimmelkäse,Lachs,Eiern,Couscous",
       "n": "Suggestions"
     },
     {
       "t": "S",
-      "v": "Bier",
+      "v": "Braukunst",
       "n": "Category"
     },
     {
@@ -42,27 +42,26 @@
     },
     {
       "t": "S",
-      "v": "Für eine begrenzte Zeit im Jahr 2015 verkaufte die Stedji-Mikrobrauerei in Island ein unangenehm klingendes Bier, das mit <BLANK> aromatisiert wurde.",
+      "v": "Für eine begrenzte Zeit im Jahr 2015 verkaufte die isländische Mikrobrauerei Stedji ein kurios klingendes Bier, das mit <BLANK> aromatisiert war.",
       "n": "QuestionText"
     },
     {
       "t": "S",
-      "v": "Walbällen,Wal-Hoden,geräucherten Walbällen,Walnüssen,geräucherten Walnüssen",
+      "v": "geräuchertem Walhoden,geräucherte Walhoden,Walhoden,geräucherten Testikeln vom Wal,geräucherten Wal-Testikeln,Testikeln vom Wal,Wal-Testikeln,Wal Hoden",
       "n": "AlternateSpellings"
     },
     {
       "t": "A",
-      "v": "null",
       "n": "BumperAudio"
     },
     {
       "t": "A",
-      "v": "null",
+      "v": "correct",
       "n": "CorrectAudio"
     },
     {
       "t": "A",
-      "v": "382871_1",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

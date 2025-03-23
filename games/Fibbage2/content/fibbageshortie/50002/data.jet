@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "einem Matratzenlager,einem Flugzeugtank,einem Automotor,einem Wasserfall,einer Achterbahn,einem Schweinestall,ihrer Spülmaschine,ihrem Keller,einem Wasserturm,einer Kläranlage,einem Windrad,einem Maislabyrinth,einer alten Kupfermine,einem Koffer,einem Kopfkissenbezug,einer Baumkrone,einem See,einem Tornado,einem U-Boot,einem Standmixer",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Rettungaktionen",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "einem Plumpsklo",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Eine Frau aus Michigan musste von der Polizei aus <BLANK> gerettet werden, nachdem sie versucht hatte, ihre <i>Apple Watch</i> zu retten.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "einer Toilette,nem Plumpsklo,ner Toilette,einem Klo,nem Klo,einem WC,nem WC",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Bier,Gummistiefel,Didgeridoo,Hut,Sonnenbrillen,Barbiepuppen,Surfbrett,Schaf,Kiwi,Strandkorb,Garnelen,Schuh,Ehering,Kugelschreiber,Küchenschwamm,Eier,Toilettenpapier,Bürgermeister",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Weitwurf",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Thunfisch",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Roadtrip",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Wenn ihr im Januar im australischen Port Lincoln seid, müsst ihr unbedingt den dort seit 1979 jährlich stattfindenden <BLANK>-Weitwurf-Wettbewerb miterleben.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Thunfisches,Thun,Tunfisch,Tuna,Thuna,Tunfische,Thunfische,",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "bumper",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -2,7 +2,7 @@
   "fields": [
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasBumperAudio"
     },
     {
@@ -12,7 +12,7 @@
     },
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasCorrectAudio"
     },
     {
@@ -22,7 +22,7 @@
     },
     {
       "t": "S",
-      "v": "Thunfisch,Laserstrahlen,Mädchen mit Zöpfen,Möbel,berühmten Verbrecher,Prominenten,Smartphones,Mäusen,der Besetzung von “Full House”,hausgemachten Mahlzeiten,anderen Katzen,Neugeborene,Diktatoren,Traktoren,wütenden Gesichter,Katzenminze,Hunden,Katzenklos",
+      "v": "Thunfisch,Laserstrahlen,Mädchen mit Zöpfen,Möbeln,berühmten Verbrechern,Prominenten,Smartphones,Mäusen,anderen Katzen,Neugeborenen,Diktatoren,Traktoren,wütenden Gesichtern,Katzenminze,Hunden,Katzenklos,Computermäusen,Kastenbrot",
       "n": "Suggestions"
     },
     {
@@ -42,27 +42,25 @@
     },
     {
       "t": "S",
-      "v": "Eine Gruppe von Wissenschaftlern der University of Illinois, der University of Pennsylvania, der University of Florida, der Fairfield University und der Harvard University schrieb ein wissenschaftliches Dokument über die Reaktionen von Katzen auf Fotos von <BLANK>.",
+      "v": "Eine Gruppe Wissenschaftler verschiedenster US-amerikanischer Universitäten schrieb 1999 einen wissenschaftlichen Bericht über die Reaktionen von Katzen auf Fotos von <BLANK>.",
       "n": "QuestionText"
     },
     {
       "t": "S",
-      "v": "Männer mit Bart",
+      "v": "Männer mit Bart,Männern mit Bart",
       "n": "AlternateSpellings"
     },
     {
       "t": "A",
-      "v": "null",
       "n": "BumperAudio"
     },
     {
       "t": "A",
-      "v": "380636_0",
       "n": "CorrectAudio"
     },
     {
       "t": "A",
-      "v": "380633_1",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

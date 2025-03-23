@@ -12,7 +12,7 @@
     },
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasCorrectAudio"
     },
     {
@@ -22,12 +22,12 @@
     },
     {
       "t": "S",
-      "v": "den Präsident,Holzschuhe,Marihuana,Poi,Bier,allein sein,alles,Wasser,Eier,Unterwäsche,ihre eigenen Haare,Kissen,Papier,Paris,Gras,Licht,Käse,Lügen",
+      "v": "ihre Mundflora,Käse,Cannabis,Nasenhaar,Bier,Einsamkeit,Raufasertapete,Wasser,Keramik,Unterwäsche,ihre eigenen Haare,Glas,Papier,Paris,Gras,Schokolade,Käse,Lügen",
       "n": "Suggestions"
     },
     {
       "t": "S",
-      "v": "Allergie",
+      "v": "Gesundheit!",
       "n": "Category"
     },
     {
@@ -42,27 +42,26 @@
     },
     {
       "t": "S",
-      "v": "Eine 2015 niederländische Studie führte 45 grippeähnliche Symptome bei Männern auf etwas zurück, das P.O.I.S. genannt wird, eine Allergie gegen <BLANK>.",
+      "v": "Eine niederländische Studie aus dem Jahr 2015 führte 45 grippeähnliche Symptome bei Männern auf P.O.I.S. zurück, eine Allergie gegen <BLANK>.",
       "n": "QuestionText"
     },
     {
       "t": "S",
-      "v": "ihr Sperma",
+      "v": "ihr Sperma,das eigene Sperma,ihre Samenflüssigkeit,ihre Spermien,ihre Spermazellen,den eigenen Samen",
       "n": "AlternateSpellings"
     },
     {
       "t": "A",
-      "v": "412676_0",
+      "v": "bumper",
       "n": "BumperAudio"
     },
     {
       "t": "A",
-      "v": "387590_0",
       "n": "CorrectAudio"
     },
     {
       "t": "A",
-      "v": "387587_0",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

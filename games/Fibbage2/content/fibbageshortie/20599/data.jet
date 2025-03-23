@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "das Land verlassen,Rente,ein Ehrenamt,Seniorenrabatte,in ein Altersheim umziehen,bezahlten Urlaub,in einem Hockeyteam spielen,einen neuen Ausweis,eine Steuerrückzahlung,ein persönliches Treffen,sich scheiden lassen,ihn als Anwalt,ihn zu einem Volksfest einladen,das Rezept für sein Leibgericht,mit dem Häkeln anfangen,den Namen ändern,eine kostenlose kanadische Flagge,einmal etwas Ruhe und Frieden",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Premierminister",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "einen Geburtstagsgruß",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Wer in Kanada wohnt und älter als 65 Jahre ist, muss den Premierminister mindestens sechs Wochen im Voraus informieren, wenn man <BLANK> möchte.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Geburtstagsgrüße,eine Geburtstagskarte,einen Gruß zum Geburtstag,Grüße zum Geburtstag,Geburtstagsglückwünsche,einen Geburtstagsglückwunsch,Glückwünsche zum Geburtstag,einen Glückwunsch zum Geburtstag",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

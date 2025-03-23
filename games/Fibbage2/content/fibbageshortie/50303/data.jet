@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Socken,Regenschirm,Quietscheentchen,Zahnbürsten,Kaffeetassen,Schlüssel,Fahrrad,Krawatten,Wäscheklammer,Handtaschen,Hut,Kopfhörer,Haarspangen,Stofftier,Gartenzwerg,Brief,Toilettenpapier,Katzen,Flaschen,Kartoffelzaun",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Zäune",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "BH",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Roadtrip",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Wenn ihr in der neuseeländischen Region Otago seid, solltet ihr unbedingt einmal einer lokalen Touristenattraktion einen Besuch abstatten: Dem <BLANK>-Zaun von Cardrona. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Büstenhalter,Bra,Buestenhalter",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "bumper",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

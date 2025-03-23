@@ -12,7 +12,7 @@
     },
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasCorrectAudio"
     },
     {
@@ -22,12 +22,12 @@
     },
     {
       "t": "S",
-      "v": "Chinchillas,überfahrene Tiere,Schlangen,Baguettes,Stöcke,Dingos,Schrotflinten,Schlackenblöcke,Kinder,Strassenschilder,Feuerwerksraketen,Tastaturen,Schubkarren,Käse,Schuhkartons,Luftgitarren,Bürostühle,Foster Bierdosen",
+      "v": "Chinchillas,überfahrene Tiere,Schlangen,Baguettes,Stöcke,Dingos,Schrotflinten,Bienennester,Kinder,Straßenschilder,Feuerwerksraketen,Tastaturen,Schubkarren,Käse,Schuhkartons,Luftgitarren,Bürostühle,Bierkästen",
       "n": "Suggestions"
     },
     {
       "t": "S",
-      "v": "ski",
+      "v": "Chinchilla",
       "n": "Category"
     },
     {
@@ -42,27 +42,26 @@
     },
     {
       "t": "S",
-      "v": "Wenn Ihr jemals in Chinchilla, Australien seid, besucht das Bizarre Festival, bei welchem die Festivalgänger versuchen Ski zu fahren und dabei <BLANK> als Skier benutzen.",
+      "v": "Wenn ihr jemals in Chinchilla, Australien seid, besucht das bizarre Festival, bei dem die Teilnehmer versuchen, Ski zu fahren, indem sie <BLANK> als Skier benutzen.",
       "n": "QuestionText"
     },
     {
       "t": "S",
-      "v": "eine wassermelone,eine wasser melone,wasser melonen",
+      "v": "eine wassermelone,eine wasser melone,wasser melonen,die Wassermleonen",
       "n": "AlternateSpellings"
     },
     {
       "t": "A",
-      "v": "419725_0",
+      "v": "bumper",
       "n": "BumperAudio"
     },
     {
       "t": "A",
-      "v": "377747_0",
       "n": "CorrectAudio"
     },
     {
       "t": "A",
-      "v": "377744_1",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

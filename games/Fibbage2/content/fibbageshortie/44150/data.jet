@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Fußwege,Leitungswasser,ihre eigenen Fingernägel,Kaffee,Baskenmützen,Unhöflichkeit,Lärm,schlechtes Fernsehen,Bärte,Baguette,Luft,Unterwäsche,Arbeit,schlechte Nachrichten,Die Guardians of the Galaxy,Frankreich,Abgaße,Stopp-Schilder",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "„Allergien“",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "WLAN",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Im Jahr 2015 sprach ein französisches Gericht einer Frau eine Berufsunfähigkeitrente von 800 Euro zu, weil sie angeblich allergisch auf <BLANK> reagiert.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "WIFI,Wi-Fi,Funkfrequenzen,Mobilfunk",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

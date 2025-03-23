@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Fleischklöpse,Vogelscheuchen,Omelette,Sushi,Pfannkuchen,Wiener Würstchen,Kürbisse,Eiscreme,Erdnüsse,Pizza,M&Ms,Benjamin-Blümchen-Torte,Zuckerstangen,ein Sofa,Marshmallows,Thüringer Klöße,Radieschen,Steak",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Wiener Elefanten",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Weihnachtsbäume",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Einmal im Jahr dürfen die Elefanten im Wiener Tiergarten Schönbrunn <BLANK> fressen.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Bäume,Tannenbäume,Lichterbäume,Christbäume,Weihnachts Bäume",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

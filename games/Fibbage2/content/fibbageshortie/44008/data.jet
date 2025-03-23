@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Bibeln,Kleintierstreu,Yorkshire-Pudding,Erste-Hilfe-Kästen,Milchpulver,Filzlaus-Salbe,Keksdosen,Steinen,Käselaiben,Cricketschlägern,Fischdosen,Toilettenpapier,BMWs,Zigarettenschachteln,Briefen aus der Heimat,Seilen,Alkoholrationen,Matratzen",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Auf der Flucht",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Monopoly-Spielen",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Während des Zweiten Weltkriegs verhalfen die Briten ihren Soldaten zur Flucht aus deutschen Gefangenenlagern, indem sie Kompasse, Feilen und Karten in <BLANK> versteckten.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "monopoly,monnopoly,monoppoly,Brettspielen,Brett Spielen,Spielen",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -2,7 +2,7 @@
   "fields": [
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasBumperAudio"
     },
     {
@@ -12,7 +12,7 @@
     },
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasCorrectAudio"
     },
     {
@@ -22,12 +22,12 @@
     },
     {
       "t": "S",
-      "v": "Band-Aids,Fingernägelknipser,Ananas-Stiele,Frühstücksfleisch,Flip Flops,Teetassen,Meeräsche,McDonald’s Spielzeug,Sonnenbrillen,Postkarten,Bilder von Affen,Gepäck,Furby Puppen,Schokolinsen,Kopfhörer,tote Ratten,Bud Light,Schmortöpfe",
+      "v": "Vulkansteine,Fingernägelknipser,Ananas-Stiele,Krabbenaugen,Flip-Flops,Teetassen,Seesterne,McDonald’s Spielzeug,Sonnenbrillen,Postkarten,Bilder von Affen,Gepäck,Furbys,Schokolinsen,Kopfhörer,Mangokerne,Seepferdchenherzen,Schildkrötenpanzer",
       "n": "Suggestions"
     },
     {
       "t": "S",
-      "v": "currency",
+      "v": "Währung",
       "n": "Category"
     },
     {
@@ -42,27 +42,25 @@
     },
     {
       "t": "S",
-      "v": "Das ungewöhnliche Objekt, das die Dorfbewohner auf den Solomon Islands als eine Form der Währung benutzen.",
+      "v": "Der ungewöhnliche Gegenstand, den Bewohner der Salomoninseln als eine Form der Währung benutzen.",
       "n": "QuestionText"
     },
     {
       "t": "S",
-      "v": "Zähne von Delfinen,Delfinzahn,Zahn eines Delfins,Zahn von einem Delfin",
+      "v": "Zähne von Delfinen,Delfinzahn,Zahn eines Delfins,Zahn von einem Delfin, Delfin Zahn,Delfin Zähne",
       "n": "AlternateSpellings"
     },
     {
       "t": "A",
-      "v": "null",
       "n": "BumperAudio"
     },
     {
       "t": "A",
-      "v": "null",
       "n": "CorrectAudio"
     },
     {
       "t": "A",
-      "v": "430832_0",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

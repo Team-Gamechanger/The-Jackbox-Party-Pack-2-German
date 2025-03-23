@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Gruppenzellen,Kabelfernsehen,Fenstern,Chor,Wachen,offiziellem Maskottchen,Kanonen,professionellem Cateringteam,Fernseher,Kopfkissen und Decken,Hundewelpen,Kunstunterricht,Klimatisierung,Gruppentherapien,Internet,Bücherei,Bettwanzen,Außentoiletten",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Gefängnisausstattungen",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "warmem Duschwasser",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "In der Zeit bis 1963, in der Alcatraz noch in Benutzung war, war es das einzige Gefängnis der Vereinigten Staaten mit <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Heißen Duschen,Beheizten Duschen,Heißem Wasser,Warmen Duschen,Warmem Wasser,Heißem Duschwasser,Warmwasser,heißer Dusche,warmer Dusche,beheizter Dusche",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

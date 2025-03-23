@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Pornografie,Masturbation,Schwangerschaft,Analsex,Tangas,öffentlicher Nacktheit,Alkohol,Sexting,Viagra,Hig Heels,Skinnyjeans,Parfüm,Schlagsahne,Brustimplantaten,Küssen in der Öffentlichkeit,Maskenbällen,Bordellen,Sonnenstudios",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Verhütungsmittel",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Ehebruch",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Die Aktien südkoreanischer Verhütungsmittelhersteller stiegen im Februar 2015 an, nachdem die Regierung ein 62 Jahre langes Verbot von <BLANK> aufgehoben hatte.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Fremdgehen,Ehe Bruch",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

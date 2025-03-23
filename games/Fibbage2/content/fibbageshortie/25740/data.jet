@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "pupsen,zu tanzen anfangen,explodieren,weinen,verschwinden,schmelzen,wachsen,schreien,zittern,sich erbrechen,schrumpfen,gelb werden,flüstern,sich ausziehen,wegrennen,ein Lied singen,Gänsehaut bekommen,diesen anstarren",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Aberglaube",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "bluten",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Im Mittelalter wurde die „Bahrprobe“ bei Mordermittlungen angewendet, die in dem Aberglauben begründet ist, dass die Leiche eines Mordopfers in Anwesenheit des Täters <BLANK> würde.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "mit dem bluten anfangen,zu bluten anfangen,das bluten beginnen,zu bluten beginnen,das bluten anfangen,blutet",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

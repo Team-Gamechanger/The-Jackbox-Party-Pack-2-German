@@ -2,7 +2,7 @@
   "fields": [
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasBumperAudio"
     },
     {
@@ -22,17 +22,17 @@
     },
     {
       "t": "S",
-      "v": "brennt,einen Esel küsst,von der Polizei davon rennet,sich ein Tattoo stechen lässt,einen Daumen nach unten zeigt,Sex hat,seine Zunge zu Jesus raus streckt,eine Ziege schlachtet,Kekse kocht,in der Nase bohrt,in seinen Schritt greift,seine Zähne putzt,Seifenblasen bläst,eine Kuh melkt,sich rasiert,ein Schwein malt,eine Steinschleuder abfeuert,Dame spielt",
+      "v": "brennt,einen Esel küsst,schläft,Suppe kocht,einen Daumen nach unten zeigt,Sex hat,seine Zunge zu Jesus rausstreckt,eine Ziege schlachtet,Kekse bäckt,in der Nase bohrt,in seinen Schritt greift,seine Zähne putzt,Seifenblasen bläst,eine Kuh melkt,sich rasiert,ein Schwein malt,eine Steinschleuder abfeuert,Dame spielt",
       "n": "Suggestions"
     },
     {
       "t": "S",
-      "v": "Catalonia",
+      "v": "Feliz Navidad",
       "n": "Category"
     },
     {
       "t": "S",
-      "v": "kackt",
+      "v": "seine Notdurft verrichtet",
       "n": "CorrectText"
     },
     {
@@ -42,27 +42,26 @@
     },
     {
       "t": "S",
-      "v": "Eine katalanische Weihnachtskrippe während der Weihnachtszeit ist ein bisschen einzigartig, da sie normalerweise eine winzige Figur enthält, bekannt als  “Caganer”. Der Caganer ist ein Bauer mit einem roten Hut, der <BLANK>.",
+      "v": "Eine katalanische Weihnachtskrippe enthält meist eine Figur namens „Caganer“, ein Bauer mit rotem Hut, der <BLANK>.",
       "n": "QuestionText"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "kackt,scheißt,kotet,stuhlt",
       "n": "AlternateSpellings"
     },
     {
       "t": "A",
-      "v": "null",
       "n": "BumperAudio"
     },
     {
       "t": "A",
-      "v": "398654_1",
+      "v": "correct",
       "n": "CorrectAudio"
     },
     {
       "t": "A",
-      "v": "398651_1",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

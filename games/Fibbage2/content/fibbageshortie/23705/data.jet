@@ -2,7 +2,7 @@
   "fields": [
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasBumperAudio"
     },
     {
@@ -12,7 +12,7 @@
     },
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasCorrectAudio"
     },
     {
@@ -22,12 +22,12 @@
     },
     {
       "t": "S",
-      "v": "Rübensaft,Orangensaft,Bier,kochend heissem Wasser,Kaffee,Milch,Alkohol,Salzlauge,Helium,püriertem Lauch,Met,Eiswasser,Wein,Seife,Wodka,Perfüm,Wüstenmäuse,Maiskolben",
+      "v": "Rübensaft,Orangensaft,Bier,kochend heißem Wasser,Kaffee,Milch,Alkohol,Salzlauge,Helium,püriertem Lauch,Met,Eiswasser,Wein,Seife,Wodka,Parfüm,Wüstenmäusen,Maiskolben",
       "n": "Suggestions"
     },
     {
       "t": "S",
-      "v": "Hintern",
+      "v": "Seenotrettung",
       "n": "Category"
     },
     {
@@ -42,27 +42,25 @@
     },
     {
       "t": "S",
-      "v": "Europäische Ärzte des 17. und 18. Jahrhunders versuchten tatsächlich, ertrunkene Leute wiederzubeleben, indem sie ihren Hintern mit <BLANK> füllten.",
+      "v": "Europäische Ärzte des 17. und 18. Jahrhunderts versuchten tatsächlich, Ertrunkene wiederzubeleben, indem sie ihren Hintern mit <BLANK> füllten.",
       "n": "QuestionText"
     },
     {
       "t": "S",
-      "v": "Zigarettenrauch,Tabak,Zigarrenrauch,Zigarren Rauch, Zigaretten Rauch,,Tabak,Tabak Rauch,Tabakrauch",
+      "v": "Zigarettenrauch,Tabak,Zigarrenrauch,Zigarren Rauch, Zigaretten Rauch,Tabak,Tabak Rauch,Tabakrauch",
       "n": "AlternateSpellings"
     },
     {
       "t": "A",
-      "v": "null",
       "n": "BumperAudio"
     },
     {
       "t": "A",
-      "v": "417390_0",
       "n": "CorrectAudio"
     },
     {
       "t": "A",
-      "v": "417387_2",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

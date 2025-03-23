@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "vier Halfpence,einen Geist,ein Pfund Fleisch,ein Neugeborenes,eine Krawatte,ein Sandwich,eine Opernmaske,eine bunte Perücke,eine Posaune,ein Fahrrad,Penicillin,eine Leiche,eine Tulpe,auch ein exotisches Tier,eine Pistole,einen seltenen Diamanten,eine Flasche Eigenurin,einen lustigen Hut",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Exotisch",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "einen Hund",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Im 18. Jahrhundert kostete der Eintritt zu den exotischen Tieren in der Londoner Royal Menagerie drei Halfpence. Aber man konnte das Eintrittsgeld umgehen, indem man <BLANK> mitbrachte.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "seinen Hund,Hunde,Hund,eine Katze,seine Katze,Katze,Katzen,einen Kater,seinen Kater,Kater",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

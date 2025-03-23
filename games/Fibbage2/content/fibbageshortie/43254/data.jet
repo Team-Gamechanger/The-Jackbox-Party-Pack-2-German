@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Limonade,Parfüm,Filzstifte,ein Auto,Müsli,Katzenstreu,einen Lufterfrischer,ein T-Shirt,Salat,einen Sportbeutel,Schuhe,Bettwäsche,Haargel,ein Spülmittel,einen Geldbeutel,Taschentücher,eine Zahnpasta,Kopfkissen",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Brathähnchen",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Sonnencreme",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Die Firma KFC gab im Jahr 2016 bekannt, dass sie <BLANK> mit Brathähnchengeruch entwickelt habe.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Sonnenschutz,Sonnenmilch,Sonnenschutzmittel",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

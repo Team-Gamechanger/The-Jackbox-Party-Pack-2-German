@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Waschmaschine,Angela Merkel,Baumarkt,Steuererklärung,Gartenzwerge,Sockenwolle,Bahnverspätung,Currywurst,Fahrkartenautomat,Leberwurst,Berliner Mauer,Apfelstrudel,Biergarten,Dackel,Kaffeepause,Brezel,Ampelkoalition,Mülltrennung,Bürokratie,Schrebergarten",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Porno-Suchen",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Fidget Spinner",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Pornhub hat einige seltsame Suchanfragen auf seiner Website, aber besonders seltsam wurde es im Mai 2017, als 2,5 Millionen Suchanfragen nach „<BLANK>“ eingingen.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Fidgetspinner,Fidget-Spinner,Handkreisel,Spinner",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

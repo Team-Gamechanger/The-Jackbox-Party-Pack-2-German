@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "beim Rasieren,beim Masturbieren,während dem Pinkeln,nackt,singend,beim Sex,beim tanzen,beim Frühstück,betrunken,bei einer Beerdigung,beim Rennen,beim Kartenspielen,krabbelnd,beim Nachladen,an Sonntagen,beim Baden,schlafend,hinterrücks",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Nicht schießen!",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "beim Kacken",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Laut dem Historiker Alfred Jay Bollet gab es im Amerikanischen Bürgerkrieg unter den Soldaten das ungeschriebene Gesetz, dass sie nicht <BLANK> aufeinander schießen",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "beim scheissen,beim scheißen,scheissend,scheißend,kackend,kotend,beim Koten",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

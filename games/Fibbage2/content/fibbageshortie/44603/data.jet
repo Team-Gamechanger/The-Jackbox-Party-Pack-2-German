@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Fingern,Hundepenissen,AAA-Batterien,M&Ms,menschlichen Augenbrauen,Zehennägeln,Goldfischen,Tropfen Blut,rohen Eiern,Seesternen,Diamanten,Giftpilzen,Kakerlaken,Katzenpfoten,Lakritzstangen,Chicken Wings,Maden,Seifenstücken",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Heilender Wein",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Babymäusen",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Aus dem alten China und Korea stammt ein Heilgetränk aus Reiswein, fermentiert mit 10 bis 15 <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Mäusen,Baby Mäusen,Baby Mäusen",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

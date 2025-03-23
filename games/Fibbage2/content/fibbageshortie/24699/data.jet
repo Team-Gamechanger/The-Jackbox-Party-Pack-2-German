@@ -12,7 +12,7 @@
     },
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasCorrectAudio"
     },
     {
@@ -22,12 +22,12 @@
     },
     {
       "t": "S",
-      "v": "alten Männern,Schaufensterpuppen,Papageien,Leichen,Vogelscheuchen,Auberginen,Cartoon-Figuren,Ratten,Babys,Geistern,Robotern,Katzen,Stühlen,Hexen,Kühen,Riesen,Amputierten,Hunden",
+      "v": "alte Männer,Schaufensterpuppen,Papageien,Leichen,Vogelscheuchen,Auberginen,Ratten,Babys,Geister,Vierzehnjährige,Katzen,Stühle,Hexen,Kühe,Riesen,Stechpalmen,Dackel,Lehrer",
       "n": "Suggestions"
     },
     {
       "t": "S",
-      "v": "Schönheit",
+      "v": "Wettbewerb",
       "n": "Category"
     },
     {
@@ -42,7 +42,7 @@
     },
     {
       "t": "S",
-      "v": "Wenn du mal in das litauische Dörfchen Ramygala kommen solltest, achte darauf, es zur Zeit des jährlichen Schönheitswettbewerbes zu besuchen, bei welchem das Teilnehmerfeld ausschließlich aus <BLANK> besteht.",
+      "v": "Wer das litauische Dorf Ramygala besucht, sollte dies zur Zeit des jährlichen Schönheitswettbewerbs tun, an dem ausschließlich <BLANK> teilnehmen.",
       "n": "QuestionText"
     },
     {
@@ -52,17 +52,16 @@
     },
     {
       "t": "A",
-      "v": "424871_1",
+      "v": "bumper",
       "n": "BumperAudio"
     },
     {
       "t": "A",
-      "v": "null",
       "n": "CorrectAudio"
     },
     {
       "t": "A",
-      "v": "424866_2",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

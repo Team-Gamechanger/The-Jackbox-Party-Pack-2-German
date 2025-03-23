@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "geliebt,betrogen,aufgezogen,ausgeraubt,getötet,verheiratet,abserviert,getauft,gegessen,entführt,verhaftet,im Fechten gelehrt,erschossen,verführt,mit Kuhdung abgeworfen,geohrfeigt,frisiert,vergiftet",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Komponisten",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "erblindet",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Einigen Historikern zufolge wurden die Komponisten Bach und Händel beide vom selben Mann <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "blind,made blind,rendered blind",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

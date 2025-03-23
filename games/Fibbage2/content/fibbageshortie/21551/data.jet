@@ -12,7 +12,7 @@
     },
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasCorrectAudio"
     },
     {
@@ -22,12 +22,12 @@
     },
     {
       "t": "S",
-      "v": "Federn,Klingen,Kartoffeln,Geistern,Träumen,Papier,Käfern,Schlamm,Kohl,Wolken,Metall,Schlangen,Gras,Teppich,Eis,Dämonen,Latrinen,Felsen",
+      "v": "Federn,Klingen,Kartoffeln,Luft,Träumen,Papier,Käfern,Schlamm,Kohl,Wolken,Metall,Seife,Gras,Teppich,Eis,Dämonen,Wachs,Felsen",
       "n": "Suggestions"
     },
     {
       "t": "S",
-      "v": "rare",
+      "v": "Königlich",
       "n": "Category"
     },
     {
@@ -42,27 +42,26 @@
     },
     {
       "t": "S",
-      "v": "Wenn du an der gleichen psychischen Krankheit wie König Karl VI leidest, dann denkst du, dass du aus <BLANK> gemacht bist.",
+      "v": "Wer an der selben psychischen Krankheitleidet wie der französische König Karl VI., glaubt, aus <BLANK> zu bestehen.",
       "n": "QuestionText"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "Glass,Kristall,Kristallglas,Gläsern,Gläser",
       "n": "AlternateSpellings"
     },
     {
       "t": "A",
-      "v": "426899_0",
+      "v": "bumper",
       "n": "BumperAudio"
     },
     {
       "t": "A",
-      "v": "null",
       "n": "CorrectAudio"
     },
     {
       "t": "A",
-      "v": "407896_0",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

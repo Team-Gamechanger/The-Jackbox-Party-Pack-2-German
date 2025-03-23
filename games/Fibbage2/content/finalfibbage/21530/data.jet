@@ -2,7 +2,7 @@
   "fields": [
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasBumperAudio"
     },
     {
@@ -12,7 +12,7 @@
     },
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasCorrectAudio"
     },
     {
@@ -22,12 +22,12 @@
     },
     {
       "t": "S",
-      "v": "Superbier,Pandablut,Walspeichel,Mondwasser,Australischer Wodka,Elefantenschweiss,Dinosauriertränen,Anakonda-Gift,Badewasser des Papsts,100% reines Quecksilber,Original Coca Cola,Queen Elizabeths Spaghettisauce,Flüssiges Gold,Bonsaibaum-Harz,Tigerplasma,Raketentreibstoff für den tiefen Weltraum,Sprite Platinum,Sprühglas",
+      "v": "Superbier,Pandablut,Walspeichel,Marswasser,Australischer Wodka,Elefantenschweiß,Dinosauriertränen,Anakonda-Gift,Badewasser des Papstes,100% reines Quecksilber,Original-Pepsi,Mammuturin,Flüssiges Gold,Bonsaibaum-Harz,Tigerplasma,Druckertinte,Diamantenwasser,Sprühglas",
       "n": "Suggestions"
     },
     {
       "t": "S",
-      "v": "expensive",
+      "v": "Teuer teuer",
       "n": "Category"
     },
     {
@@ -42,27 +42,25 @@
     },
     {
       "t": "S",
-      "v": "Mit 9,4 Millionen Euro pro Liter die teuerste Flüssigkeit der Welt.",
+      "v": "Mit 9,5 Millionen Euro pro Liter die teuerste Flüssigkeit der Welt.",
       "n": "QuestionText"
     },
     {
       "t": "S",
-      "v": "Skorpionstich,Skorpionsgift,Skorpion Giftstoff",
+      "v": "Skorpionstich,Skorpionsgift,Skorpion Giftstoff,Skorpion Gift",
       "n": "AlternateSpellings"
     },
     {
       "t": "A",
-      "v": "null",
       "n": "BumperAudio"
     },
     {
       "t": "A",
-      "v": "null",
       "n": "CorrectAudio"
     },
     {
       "t": "A",
-      "v": "407636_0",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

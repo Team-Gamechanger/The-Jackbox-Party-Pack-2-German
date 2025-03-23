@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Fremden aus dem Internet,Postboten,Sich selbst,Werwölfen,Fans von Justin Bieber,Geburtstagsclowns,Roboter,Tollwütigen Waschbären,Den eigenen Kindern,Wütenden Ziegen,Sekten,Finanzhaien,Drohnen,Bigfoot,Abhörung,Flyerverteilern,Ninjas,Radiomoderatoren",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Selbstverteidigung",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Einem Händedruck von Donald Trump",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Die <i>Relson Gracie Jiu-Jitsu Academy</i> veröffentlichte ein Lehrvideo, in dem gezeigt wird, wie man sich vor <BLANK> schützen kann.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Einen Handschlag von Donald Trump,Donald Trump,Einen Händedruck von Donald Trump,Einem Handschlag von Donald Trump,Einem Händedruck von Trump,Einem Handschlag von Trump,Trump",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

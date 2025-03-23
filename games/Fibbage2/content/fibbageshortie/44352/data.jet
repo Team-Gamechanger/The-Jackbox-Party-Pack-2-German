@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Kristallen,Zauberen,Büffeln,Wölfen,Bettlaken,Früchten,der Sphynx,Autos,Schaufensterpuppen,Avataren,Sims,Pornos,Piraten,Hydranten,Honigmelonen,Einhörnern,Kentauren,Aliens",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Liebe",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Geistern",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Die britische Frau Amethyst Realm hat öffentlich den Männern abgeschworen und bevorzugt jetzt romantische Beziehungen mit <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Phantomen,den Toten,toten Menschen",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

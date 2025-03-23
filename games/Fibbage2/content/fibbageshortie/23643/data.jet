@@ -12,7 +12,7 @@
     },
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasCorrectAudio"
     },
     {
@@ -22,7 +22,7 @@
     },
     {
       "t": "S",
-      "v": "Penis,Hamster,Unterwäsche,Bauchnabelfussel,Augapfel,Ohr,Lippe,Rückenmark,Fingernagel,Wimper,grosser Zeh,Hausschlüssel,Nase,Haftbefehl,Hund,Nasenhaar,Fahrrad,Zunge",
+      "v": "Penis,Hamster,Unterwäsche,Sandale,Zahnbürste,Ohr,Lippe,Rückenmark,Fingernagel,Erbe,Großer Zeh,Fußabtreter,Nase,Weinglas,Rückgrat,Nasenhaar,Fahrrad,Geldbörse",
       "n": "Suggestions"
     },
     {
@@ -42,27 +42,26 @@
     },
     {
       "t": "S",
-      "v": "Wenn du in Florenz bist, besuche das Museum für Wissenschaftsgeschichte, in welchem sich seltsamerweise Galileo’s <BLANK> in einem eiförmigen Glas befindet.",
+      "v": "Wenn ihr in Florenz seid, besucht unbedingt das Museo Galileo, ein Museum für Wissenschaftsgeschichte, in dem interessanterweise Galileo Galileis <BLANK> in einem eiförmigen Glas ausgestellt ist.",
       "n": "QuestionText"
     },
     {
       "t": "S",
-      "v": "mittlerer Finger,Stinkefinger,Finger",
+      "v": "mittlerer Finger,Stinkefinger,Finger,Mittel-Finger,mittleren Finger",
       "n": "AlternateSpellings"
     },
     {
       "t": "A",
-      "v": "415842_0",
+      "v": "bumper",
       "n": "BumperAudio"
     },
     {
       "t": "A",
-      "v": "null",
       "n": "CorrectAudio"
     },
     {
       "t": "A",
-      "v": "415837_0",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

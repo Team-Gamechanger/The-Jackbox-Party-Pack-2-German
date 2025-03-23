@@ -2,7 +2,7 @@
   "fields": [
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasBumperAudio"
     },
     {
@@ -12,7 +12,7 @@
     },
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasCorrectAudio"
     },
     {
@@ -22,7 +22,7 @@
     },
     {
       "t": "S",
-      "v": "Van,Needlenose,Sebastian,Fran,Twerp,Levithan,Garfield,Caitlyn,Bozo,Garth,Monika,Odysseus,Jesus,Bart,Wombat,Einstein,Milhouse,Millard",
+      "v": "Van,Shakespeare,Sebastian,Constantine,Knirps,Picasso,Garfield,Karen,Beethoven,Erika,Monika,Odysseus,Jesus,Bart,Wombat,Einstein,Milhouse,Millard",
       "n": "Suggestions"
     },
     {
@@ -42,7 +42,7 @@
     },
     {
       "t": "S",
-      "v": "Der zweite Vorname von <i>Simpsons</i> Charakter Milhouse Van Houten.",
+      "v": "Der zweite Vorname von <i>Simpsons</i>-Charakter Milhouse Van Houten.",
       "n": "QuestionText"
     },
     {
@@ -52,17 +52,15 @@
     },
     {
       "t": "A",
-      "v": "null",
       "n": "BumperAudio"
     },
     {
       "t": "A",
-      "v": "null",
       "n": "CorrectAudio"
     },
     {
       "t": "A",
-      "v": "431142_0",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

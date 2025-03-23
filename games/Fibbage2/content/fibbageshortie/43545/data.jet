@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Taschentüchern,Ausgedruckten Tinderprofilen,Kondomen,Big Bang Theory DVDs,Wodka,Strohhalmen,Frisch gewaschener Unterwäsche,Laserpointern,Wurfsternen,Bibeln,Magazinen für Erwachsene,Alkoholfreiem Bier,Munition,Küken,Kätzchen,Joghurt,Goldbarren,Ihren Jahrbüchern",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Carepakete",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Müll",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Terri Cox ist keine gewöhnliche Mutter. Denn sie schickte ihrem an einem College studierenden Sohn ein Carepaket, das mit <BLANK> gefüllt war.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Abfall,Abfällen,Unrat,Mülltüten,Müllbeuteln,Müllsäcken,Abfalltüten,Abfallbeuteln,Abfallsäcken,Mist,Kehricht,Güsel",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

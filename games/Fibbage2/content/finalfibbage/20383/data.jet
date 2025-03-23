@@ -2,7 +2,7 @@
   "fields": [
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasBumperAudio"
     },
     {
@@ -27,7 +27,7 @@
     },
     {
       "t": "S",
-      "v": "studies",
+      "v": "Forschung",
       "n": "Category"
     },
     {
@@ -42,7 +42,7 @@
     },
     {
       "t": "S",
-      "v": "Was ein “Cerealoge” untersucht.",
+      "v": "Das Forschungsgebiet eines „Cerealogen“.",
       "n": "QuestionText"
     },
     {
@@ -52,17 +52,16 @@
     },
     {
       "t": "A",
-      "v": "null",
       "n": "BumperAudio"
     },
     {
       "t": "A",
-      "v": "396227_0",
+      "v": "correct",
       "n": "CorrectAudio"
     },
     {
       "t": "A",
-      "v": "396224_0",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

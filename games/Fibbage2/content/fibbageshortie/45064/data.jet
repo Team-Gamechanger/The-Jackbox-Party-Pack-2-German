@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "ein eigenes Land,berühmt,dramafrei,nett,die hässlichste Stadt der Welt,aus Gold gemacht,eine Computer-Simulation,völlig autark,das neue Hollywood,nicht entflammbar,aus Schokolade gemacht,die Heimat von Superman,die intelligenteste Stadt der USA,älter als Jesus,immer perfekt temperiert,die Geburtsstätte des Rock & Roll,voller geheimer Vampire,Teil von Kanada",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Kühne Kleinstädte",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "das Zentrum des Universums",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Im September 2004 stellte der Bürgermeister der US-amerikanischen Kleinstadt Wallace die gewagte Behauptung auf, seine Stadt sei <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}
