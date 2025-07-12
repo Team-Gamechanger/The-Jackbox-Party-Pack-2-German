@@ -42,7 +42,7 @@
     },
     {
       "t": "S",
-      "v": "Die Firma KFC gab im Jahr 2016 bekannt, dass sie <BLANK> mit Brathähnchengeruch entwickelt habe.",
+      "v": "Die Firma <i>KFC</i> gab im Jahr 2016 bekannt, dass sie <BLANK> mit Brathähnchengeruch entwickelt habe.",
       "n": "QuestionText"
     },
     {

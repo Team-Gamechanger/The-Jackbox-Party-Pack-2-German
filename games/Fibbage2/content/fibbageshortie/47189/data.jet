@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Selfie-Sticks,E-Saiten für Gitarren,Büsten von US-Präsidenten,Senf-Flaschen,einzelne Socken,verschimmelte Kartoffeln,Staubsauger-Roboter,gefälschte Führerscheine,4K-Fernseher,Haargummis,getragene Turnschuhe,Bratensoße,Trichter,VR-Brillen,Duftbäume,einzelne M&Ms,beleidigende Horoskope,Marienkäfer",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Verkaufsautomaten",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Luxusautos",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Im Dezember 2016 wurde in Singapur ein Verkaufsautomat aufgestellt, der seltsamerweise nur <BLANK> verkauft.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Luxusauto,Luxuswagen,Nobelkarren,Nobelauto,Luxusfahrzeuge,teure Autos,teure PKW,teures Auto,teure Wägen,Luxuswägen,teure Wagen",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

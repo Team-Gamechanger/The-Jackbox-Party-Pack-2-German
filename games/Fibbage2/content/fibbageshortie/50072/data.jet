@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "alten Socken,Katzenstreu,Zigarettenstummeln,Kaugummi,Bananenschalen,Kaffeesatz,Hundekot,Fingernägeln,Ohrenschmalz,Zahnstein,Schuppen,abgelaufenem Joghurt,verschimmeltem Brot,Staubmilben,Toilettenpapier,Seifenresten,Wattestäbchen,Windeln,Katzenhaar",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Schmerzmittel",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Plastikflaschen",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Eine Studie aus dem Jahr 2025 kam zu dem spektakulären Ergebnis, dass das Schmerzmittel Paracetamol mittels Bakterien aus <BLANK> hergestellt werden kann.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "PET-Flaschen,PET Flaschen,Plastik Flaschen,Plastik-Flaschen,Flaschen,Plastikabfällen,Plastikmüll,Plastik Müll,Plastik-Müll,Plastik-Abfällen,Plastik Abfällen,Plastikabfall,Plastik Abfall,Plastik-Abfall",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

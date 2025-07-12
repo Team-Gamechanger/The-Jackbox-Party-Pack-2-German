@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "menschlicher Asche,benutzten Särgen,Kaffeesatz,Tetrapaks,Rattenkot,Fleisch,Kronkorken,Rock ‘n Roll,alten Snickers,Plankton,Schnee,alten Kleinstwägen,verschrotteten Karneval-Attraktionen,Feuer,recycelten iPhones,Zucker,Walross-Stoßzähnen,alten Fußball-Pokalen",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Baustelle",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Cannabis",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Green Built ist ein Unternehmen, das ein feuerfestes, umweltfreundliches Baumaterial aus <BLANK> herstellt und verkauft.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Hanf,Marihuana,Weed,Cannabispflanzen,Hanfpflanzen,Marijuana",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

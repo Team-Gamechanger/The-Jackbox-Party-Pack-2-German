@@ -219,6 +219,72 @@
     },
     {
       "x": false,
+      "id": 50418,
+      "category": "Hassliebe",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 50419,
+      "category": "Alarm!",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 50420,
+      "category": "Ewige Ruhe",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 50421,
+      "category": "Auf die Plätze...",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 50422,
+      "category": "Schaden",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 50423,
+      "category": "Regensburg",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 50424,
+      "category": "<i>Doom</i>",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 50425,
+      "category": "Flughafen",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 50426,
+      "category": "Milch",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 50427,
+      "category": "Plettenberg",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 50428,
+      "category": "Strom",
+      "bumper": ""
+    },
+    {
+      "x": false,
       "id": 50429,
       "category": "Mist",
       "bumper": ""

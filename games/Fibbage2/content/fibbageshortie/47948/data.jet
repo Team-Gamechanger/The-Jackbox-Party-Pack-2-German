@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Löffel,Stühle,Stifte,Parfüm-Duftproben,Hinweise auf seine abscheulichen Verbrechen,Puzzleteile,Luftballons,Hirschgeweihe,bestandene Vokabeltests,Gründe warum Ringo der beste Beatle ist,verwelkte Blumen,Genesungskarten,Muffins,Kopien von Blade Runner auf VHS,Käseräder,Briefe an den Weihnachtsmann,leere Geschenkkartons,Einkaufswagenchips",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "99",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Wassermelonen",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Wer den oder die Ex zurückgewinnen will, sollte vielleicht nicht dem Beispiel eines Studenten der Henan-Universität in China folgen. Er schenkte seiner ehemaligen Freundin 99 <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Melonen,Wassermelone,Melonenstücke,Honigmelonen,Zuckermelonen,Wassermelonenstücke",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

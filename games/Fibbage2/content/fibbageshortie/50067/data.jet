@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Zahnbürsten,Unterhosen,Pürierstäbe,Kaffeemaschinen,Toilettensitze,Klimaanlagen,Toaster,Mikrowellen,Wasserkocher,Türschlösser,Heizungen,Gesichtsmasken,Duschbrausen,Essstäbchen,Föhne,Küchenwaagen,Nasenhaartrimmer,Computermäuse",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Sammelwut",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Heißluftfritteusen",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Ende 2024 warnten britische Verbraucherschützer vor Datenklau unter Anderem durch smarte chinesische <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Heißluftfritteusen,Airfryer,Air Fryer,Heißluft-Fritteusen,Luftfritteusen,Luft-Fritteusen,Air-Fryer,Heissluftfritteusen,Heißluft Fritteusen",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Salamander,Norweger,Kothaufen,Klaviere,Zahnpastatuben,Kaulquappen,Lady Gaga Fans,Tamagotchis,Oreo Kekse,Bauchtaschen,Sport-BHs,Zehennagelscheren,Glückskekse,Lamas,Eisbären,Einwegfeuerzeuge,Klobürsten,leere Kisten",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "25000",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Windeln",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Ende 2014 verhaftete die Grenzpolizei in Nordschweden zwei ungewöhnliche Verbrecher, die versuchten, über 25.000 <BLANK> ins Land zu schmuggeln.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Stoffwindeln,Babywindeln,Pampers,Windelpackungen,Kinderwindeln,Wegwerfwindeln,Einwegwindeln",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

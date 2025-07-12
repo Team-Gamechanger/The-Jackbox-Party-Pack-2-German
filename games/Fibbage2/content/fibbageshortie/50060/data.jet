@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "ihre Prüfer,einen Frosch,eine Eiche,ein altes Buch,einen Strauß,einen Ziegenbock,ein Schwein,ihre WG-Mitbewohner,ein Hufeisen,eine Schaufensterpuppe,den Hausmeister,ein Reagenzglas,einen Totenschädel,eine Statue von Newton,den Türrahmen des Hörsaals,eine Eule,einen sprechenden Papagei,ein altes Schwert,eine lebende Schildkröte,einen Dudelsack",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Doktor-Küsse",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "eine Brunnenfigur",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Die Universitätsstadt Göttingen hat einen eigenartigen Brauch: Frischgebackene Doktoranden küssen nach bestandener Prüfung <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "die Gänseliesel,eine Göttinger Brunnenfigur,den Brunnen,einen Brunnen,das Brunnenmädchen,die Statue am Brunnen,die Figur am Marktplatz,die Bronzefigur am Brunnen,eine Bronzefigur am Brunnen",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

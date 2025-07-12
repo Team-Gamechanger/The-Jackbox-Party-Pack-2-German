@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Umarmungen,Pasta,Klamotten,Lieder,Poesie,Kupferdraht,Bücher,Massagen,Baumsamen,Baseball-Karten,Autogramme,Fahrräder,Rezepte,ein Kompliment,Blumen,Wein,Violinen,den Eintritt ins Militär,150kg Walnüsse pro Jahr",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Kreditwürdig",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Parmesan",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Die italienische Bank <i>Credem</i> hat eine einzigartige Geschäftspraxis. Im Austausch für ein billiges Darlehen verlangt sie von Kunden <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Parmesan Käse,Käse,parmesan,Parmesankäse,Parmigiano,Parmigiano Reggiano",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

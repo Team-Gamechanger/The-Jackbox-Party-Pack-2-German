@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "küssten Kinder,imitierten Polizeisirenen,raubten Banken aus,stahlen Socken,koteten auf Schmuck,paarten sich mit Briefkästen,flogen gegen Hintern,attackierten Katzen,tranken Bier,verspotteten den Bürgermeister,zerbissen Fernseh-Kabel,benutzten Kreditkarten,verführten junge Männer,erfüllten Wünsche,korrigierten Grammatik,unterbrachen TV-Shows,übernahmen Gedanken,hypnotisierten Schlangen",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Papagei-Problematik",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "fraßen ihr Opium",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Im Jahr 2015 standen die Einwohner der indischen Stadt Chittorgarh vor einem großen Problem. Den Einheimischen zufolge fielen die Papageien ein und <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "aßen ihr Opium,aßen Opium,fraßen Opium,assen Opium,klauten ihr Opium,klauten Opium",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

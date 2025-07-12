@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Dosensuppen,lebenden Schlangen,Bechern mit Urinproben,Kaffeetassen,Sabd,altbackenem Brot,Wurfsternen,kostenlosen Kugelschreibern,Quittungsrollen,Lasagne,Aktenordnern,Skorpionen,Lochern,Kaugummi,Fleischklopfern,Macarons,Holzlöffeln,Schlagsahne",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Zum Angriff!",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Dildos",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Im Dezember 2016 versuchte ein Mann erfolglos, ein Geschäft in San Bernardino, Kalifornien, auszurauben. Die Angestellten vertrieben ihn, indem sie ihn mit <BLANK> bewarfen.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Dildo,Sexspielzeug,Kunstpenisse,Kunstpenissen,Vibratoren,Dildoes,Gummischwänze",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

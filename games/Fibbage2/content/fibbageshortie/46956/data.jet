@@ -12,7 +12,7 @@
     },
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasCorrectAudio"
     },
     {
@@ -42,7 +42,7 @@
     },
     {
       "t": "S",
-      "v": "Pornhub hat einige seltsame Suchanfragen auf seiner Website, aber besonders seltsam wurde es im Mai 2017, als 2,5 Millionen Suchanfragen nach „<BLANK>“ eingingen.",
+      "v": "<i>Pornhub</i> hat einige seltsame Suchanfragen auf seiner Website, aber besonders seltsam wurde es im Mai 2017, als 2,5 Millionen Suchanfragen für „<BLANK>“ eingingen.",
       "n": "QuestionText"
     },
     {
@@ -56,7 +56,6 @@
     },
     {
       "t": "A",
-      "v": "correct",
       "n": "CorrectAudio"
     },
     {
