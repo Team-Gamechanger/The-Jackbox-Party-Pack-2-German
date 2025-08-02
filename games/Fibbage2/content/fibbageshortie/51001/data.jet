@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Kotztüte,Unterhose,Sonnenbrille,Aluhut,schlechte Witze,Angststörung,Topfpflanze,Wecker,Fastfood,Kaugummi,Heißlustfritteuse,Selbsthass,Strafgesetzbuch,Hammer,Rohrzange,Geldprobleme,Reality-TV zu schauen,sich die Augen auszustechen",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Plattformen",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Feuerlöscher",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "SayWhat",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Domtendo tweetete: „Man kann ohne <BLANK> wirklich nicht mehr auf diese Plattform hier.“",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "bumper",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Käsekuchen,Ehrenmann,Laptop,Butler,Bluray-Spieler,Wandteppich,Strafzettel,Wanderstock,Airbag,Wasserhahn,Vermieter,Bundeskanzler,Esel,Kugelschreiber,Wasserkocher,Haustürschlüssel,Friseur,Führerschein",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Geschenkideen",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Pass",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "SayWhat",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Elyas M'Barek tweetete „Hab nen österreichischen <BLANK> zu verschenken. Will den nicht mehr.“",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Reisepass",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "bumper",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "King Kong,Wonder Woman,Godzilla,ein Riesenroboter,Alice im Wunderland,Gott,ein Alien,ein Riese,ein Dinosaurier,eine Zwergenkönigin,eine Samurai,ein Mammut,ein Wikinger,eine Weltmeisterin,eine Pflanze,ein Pferd,ein Pinguin,eine Gigolette",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "New York",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "eine Ameise",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "SayWhat",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Verona Pooth postete ein Bild von sich aus New York und schrieb: „Ich komme mir vor wie <BLANK>......“",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Ameisen,Ameisenarbeiterin,eine Ameisenarbeitern,ein Ameischen,Ameischen",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "bumper",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

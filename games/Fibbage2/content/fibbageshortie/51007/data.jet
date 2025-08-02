@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Robo-Pandas,Ninja-Enten,Pommesautomaten,McDonalds Bestellterminals,Drohnen,3D Drucker,Hologramme,Supermarktkassen,DJs,Arbeiter,Katzen,sprechende Papageien,Musik spielende Waschmaschinen,Influencer,Chatbots,fliegende Teppiche,sprechende Staubsauger,VR Brillen",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Arbeitsplätze",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Außerirdische",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "SayWhat",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Gronkh tweetete: „<BLANK> nehmen uns die Arbeitsplätze weg!!“",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Aliens",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "bumper",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

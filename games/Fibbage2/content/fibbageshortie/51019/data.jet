@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Unterwasser-Socken,Glückskekse mit Geld drin,Haustier-Übersetzer,rollende Katzentoiletten,Eiscreme die nicht schmilzt,Bananen ohne diese nervigen Fäden,Schlaflieder für Erwachsene,Zahnpasta mit Pizzageschmack,ein Fitnessprogramm für Daumen,Mitnehm WLAN-Router,Hunde-Götter,Oreo-Füllung für Croissants,Gummibären mit Klebestift-Geschmack,Entspannungs-Trainer,Avocado Drinks,elektrische Frisbees,Krawatten für Vögel,Blumengieß-Maschinen",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Existenzen",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "babytauben",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "SayWhat",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Klaas Heufer-Umlauf tweetete: „warum gibts eigentlich keine <BLANK>?“",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Baby-Tauben,Taubenbabys,Tauben-Babys,Taubenküken,Taubenjunge,Taubenküklein",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "bumper",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

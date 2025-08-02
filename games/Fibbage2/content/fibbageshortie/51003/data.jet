@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Waldschratt-Theorien,Keksdosen-Wettkämpfen,versteckten Türen in Großstädten,außerirdischen Gemüsesorten,lebendigen Büchern,retro-futuristischem Kochen,flüsternden Tapeten,verborgenen Musikinstrumenten,künstlichen Wolken,magischen Ampeln,tanzenden Brücken,sprechenden Gartenzwergen,leuchtenden Fußabdrücken,Zeitreisen mit Kühen,unsichtbaren Kunstwerken, Markus Lanz,mystischen Käseformen,singenden Pflanzen",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Zerstörungen",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Star Wars",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "SayWhat",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Rezo tweetete: „Hat einer Bock, dass ich was zu <BLANK> mache?“",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "bumper",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

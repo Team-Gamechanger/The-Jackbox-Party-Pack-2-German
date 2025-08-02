@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Keksdose,Handtuchhalter,Staubsaugerbeutel,Honigglas,Fensterwischer,Gummistiefel,Zahnseide,Klopapierrolle,Mausefalle,Staubwedel,Pfeffermühle,Badewannenstöpsel,Toaster,Schneebesen,Salatschleuder,Gartenschlauch,Föhnaufsatz,Lochstanze",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Gesang",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Rassismus",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "SayWhat",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Rezo tweetete: „<BLANK> klingt irgendwie gesungen auch nicht geil“",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "bumper",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

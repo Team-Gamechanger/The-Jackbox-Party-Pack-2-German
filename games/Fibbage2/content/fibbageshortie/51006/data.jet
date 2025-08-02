@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Toastbrote,Gangster,Tanzende Roboter,Kühlschränke,Pinguine,Schokoladenmonster,geheime Sockensammler,Gartenzwerge,Könige,hippe Aliens,Vampire,Mafiosi,Staubsauger,Tintenfische,Wassermelonen,Mülltonnen,leuchtende Chamäleons,Zirkusaffen",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Weltherrschaft",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Die Mücken",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "SayWhat",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Rapper Sido tweetete: „<BLANK> wollen die Weltherrschaft an sich reißen !!!“",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Mücken",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "bumper",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

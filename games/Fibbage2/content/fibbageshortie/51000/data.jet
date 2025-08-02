@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Kaugummirollen,meine Plüschbärensammlung,eine Taucherbrille,eine Schneekugel,Thermounterwäsche,einen Zauberwürfel,einen Schuhlöffel,einen Regenschirmhut,eine Rettungsdecke,einen Kompass,einen Nagelknipser,eine Lupenbrille,einen Einhornhaarreif,Bubble-Tea-Perlen,Gummistiefel,ein Waffeleisen,eine Knoblauchpresse,eine Packung Gummibärchen",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Quizshow",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "mein Wissen",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "SayWhat",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Palina Rojinski tweetete: „hätte nicht gedacht jemals <BLANK> bei ner Quiz Show gebrauchen zu können“",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Wissen",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "bumper",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

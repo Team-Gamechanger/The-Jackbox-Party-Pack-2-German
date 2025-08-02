@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "GLITZERHAARE,EINHORNGLITZER,SALZSTREUSEL,GOLDZÄHNE,EINEN KAUGUMMIBAUM,REGENBOGENFLÜGEL,BLUMENOHRRINGE,ZEBRASOCKEN,EINE EISBÄRFRISUR,KONFETTI-SCHUHE,SCHOKOLADENHANDSCHUHE,EINEN DIAMANTENCOCKTAIL,EIN PIZZAKLEID,FEDERWIMPERN,EINEN REGENBOGENSCHAL,LUFTBALLONOHREN,EINEN BONBONHUT,EINE LIMONADENBRILLE",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Besorgungen",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "SNAPCHAT",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "SayWhat",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Shirin David tweetete: „OKEY OKEY ICH MACH MIR JA SCHON <BLANK>“",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "bumper",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

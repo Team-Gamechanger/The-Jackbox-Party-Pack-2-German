@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Dackel,Pünktliche Züge,Laptops,Regenbogen-Enten,Schweizer Uhren,Arbeitsverträge,Steuererklärungen,Meine Schwiegereltern,Taschenbücher,Kassetten,Android-Smartphones,Rentner im Sonnenstudio,Junge Menschen an FKK-Stränden,Wirklich lustige Witze,Innovative Fernsehsendungen,Umweltfreundliche Autos,Geschmackvolle Türmatten,Gutriechende Teenager",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Frühling",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Beinamputierte Ameisen",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "SayWhat",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Hazel Brugger tweetete „Im Mai wird immer klar: <BLANK> sind auch nichts weiteres als die kleinen, braungebrannten Schneemänner des Frühlings.“",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Ameisen,Bein amputierten Ameisen,Ameisen ohne Beine,Feuerameisen,Amputierten Ameisen,beinlosen Ameisen",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "bumper",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}
